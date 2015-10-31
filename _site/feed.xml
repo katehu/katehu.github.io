@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+
+
+
+<title type="text">GLD</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://katehu.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://katehu.github.io/" />
+<updated>2015-10-31T23:36:23+00:00</updated>
+<id>http://katehu.github.io/</id>
+<author>
+  <name>Kate Hu</name>
+  <uri>http://katehu.github.io/</uri>
+  <email></email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Second Blog Post]]></title>
+  <link rel="alternate" type="text/html" href="http://katehu.github.io/second-blog-post"/>
+  <id>http://katehu.github.io/second-blog-post</id>
+  <published>2015-10-31T00:00:00+00:00</published>
+  <updated>2015-10-31T00:00:00-00:00</updated>
+  
+  <author>
+    <name>Kate Hu</name>
+    <uri>http://katehu.github.io</uri>
+    <email></email>
+  </author>
+  <category scheme="http://katehu.github.io/tags/#jekyll" term="jekyll" />
+  <content type="html">
+  
+    &lt;ul&gt;
+  &lt;li&gt;Item 1&lt;/li&gt;
+  &lt;li&gt;Item 2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;subheading&quot;&gt;Subheading&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://google.com&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http://katehu.github.io/second-blog-post&quot;&gt;Second Blog Post&lt;/a&gt; was originally published by Kate Hu at &lt;a href=&quot;http://katehu.github.io&quot;&gt;GLD&lt;/a&gt; on October 31, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[First Blog Post]]></title>
+  <link rel="alternate" type="text/html" href="http://katehu.github.io/first-blog-post"/>
+  <id>http://katehu.github.io/first-blog-post</id>
+  <published>2015-10-31T00:00:00+00:00</published>
+  <updated>2015-10-31T00:00:00-00:00</updated>
+  
+  <author>
+    <name>Kate Hu</name>
+    <uri>http://katehu.github.io</uri>
+    <email></email>
+  </author>
+  <category scheme="http://katehu.github.io/tags/#jekyll" term="jekyll" />
+  <content type="html">
+  
+    &lt;p&gt;Statistics is a common sense and simple solutions are everywhere. The big data phenomenon may will drive us farther and farther. Here is a poem I find tells a lot about next fifty years in statistics. Let’s see. &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;All that is gold does not glitter,&lt;br /&gt;
+Not all those who wander are lost;&lt;br /&gt;
+The old that is strong does not wither,&lt;br /&gt;
+Deep roots are not reached by the frost.&lt;br /&gt;
+From the ashes a fire shall be woken,&lt;br /&gt;
+A light from the shadows shall spring;&lt;br /&gt;
+Renewed shall be blade that was broken,&lt;br /&gt;
+The crownless again shall be king.”&lt;br /&gt;
+&lt;br /&gt;
+ –J. R. R. Tolkien&lt;br /&gt;&lt;/p&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http://katehu.github.io/first-blog-post&quot;&gt;First Blog Post&lt;/a&gt; was originally published by Kate Hu at &lt;a href=&quot;http://katehu.github.io&quot;&gt;GLD&lt;/a&gt; on October 31, 2015.&lt;/p&gt;</content>
+</entry>
+
+</feed>

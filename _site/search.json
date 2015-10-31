@@ -1,0 +1,19 @@
+[
+	
+		{
+		  "title"      : "Second Blog Post",
+		  "category"   : "",
+		  "url"        : "http://katehu.github.io/second-blog-post",
+		  "date"       : "2015-10-31 00:00:00 +0000",
+		  "shortdate"  : "October 31, 2015"
+		} ,
+	
+		{
+		  "title"      : "First Blog Post",
+		  "category"   : "",
+		  "url"        : "http://katehu.github.io/first-blog-post",
+		  "date"       : "2015-10-31 00:00:00 +0000",
+		  "shortdate"  : "October 31, 2015"
+		} 
+	
+]

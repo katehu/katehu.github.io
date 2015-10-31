@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://katehu.github.io</loc>
+    </url>
+    
+    
+    <url>
+        <loc>http://katehu.github.io/404</loc>
+    </url>
+    
+    <url>
+        <loc>http://katehu.github.io/about/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://katehu.github.io/categories/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://katehu.github.io/featured/</loc>
+    </url>
+    
+    <url>
+        <loc>http://katehu.github.io/feed.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://katehu.github.io/links.jsonp</loc>
+    </url>
+    
+    <url>
+        <loc>http://katehu.github.io/search.json</loc>
+    </url>
+    
+    <url>
+        <loc>http://katehu.github.io/sitemap.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://katehu.github.io/tags/index.html</loc>
+    </url>
+    
+
+    
+    <url>
+        <loc>http://katehu.github.io/second-blog-post</loc>
+    </url>
+    
+    <url>
+        <loc>http://katehu.github.io/first-blog-post</loc>
+    </url>
+    
+</urlset>

@@ -1,0 +1,13 @@
+callback([
+
+  {
+    "text": "First Blog Post",
+    "href": "http://katehu.github.io/first-blog-post"
+  } ,
+
+  {
+    "text": "Second Blog Post",
+    "href": "http://katehu.github.io/second-blog-post"
+  } 
+
+])
