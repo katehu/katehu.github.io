@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Second Blog Post"
+title: "What motivates statistics"
 description: 
 headline: 
 modified: 2021-05-07
@@ -12,9 +12,6 @@ chart:
 comments: true
 featured: true
 ---
-
-
-## What motivates statistics?
 
 I finished translating the book _objectivity_ with my friend  Meng, which leads me to another interesting book _Trust in Numbers_ by Theodore Porter.
 Both could be considered as a history of science book. I got interested in this work because I think the pursuit of objectivity motivates the field of statistics, which often deal with developing scientific methods to collect, analyze, represent, interprete data to remove human bias. 
