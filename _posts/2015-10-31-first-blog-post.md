@@ -13,7 +13,7 @@ comments: true
 featured: true
 ---
 
-Statistics is a common sense and simple solutions are everywhere. The big data phenomenon may will drive us farther and farther. Here is a poem I find tells a lot about next fifty years in statistics. Let's see. <br/>
+Statistics is common sense and simple solutions often work. The big data phenomena will drive us farther and farther from being simple. Here is a poem that I believe tells what may happen in the next fifty years in statistics. Let's see. <br/>
 
 
 All that is gold does not glitter,<br/>
