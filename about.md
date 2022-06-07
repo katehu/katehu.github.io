@@ -27,7 +27,13 @@ chart: true
 {% endfor %}
 
 
- **Kate Hu** is currently a research fellow at Harvard School of Public Health. Dr. Kate Hu was the Head of Data Science at Aclima Inc, where she drives the company’s data science research and development to deliver hyper-local air pollution maps and insights at unprecedented block-by-block resolution. Her previous expertise includes methods development for complex epidemiological studies and data science research in precision agriculture for sustainable farm management amid climate change. Kate graduated with First Class Honours from the University of Hong Kong, received an M.S from Harvard University, and obtained a Ph.D in Biostatistics from the University of Washington, Seattle.
+ **Kate Hu** is currently a research fellow at Harvard School of Public Health, investigating how to debias the inference due to unmeasured and mismeasured confounders by leveraging auxiliary information imbededed in big data, with an application focus on health effect studies of climate change. 
+ 
+Before returning to academia, Dr. Kate Hu was the Head of Data Science at Aclima Inc, where she drives the company’s data science research and development to deliver hyper-local air pollution maps and insights at unprecedented block-by-block resolution, by dispatching a fleet of vehicles equpied with environmetal sensors. 
+ 
+Prior to joining Aclima Inc, Dr. Kate Hu was a senior quantitative researcher  at the Climate Corporation where she created various noval precision agriculture solutions for sustainable farm management amid climate change. She first led the research program in sampling and experimental designs to help scientists collect field data for model calibration and evaluation. Then she led the interdisciplinary research efforts to develop precision nitrogen treatment algorithms that quickly respond to in-season weather conditions,  by combine mechanistic models, statistical models, and new sensing technologies.  
+
+Kate graduated with First Class Honours from the University of Hong Kong, received an M.S from Harvard University, and obtained a Ph.D in Biostatistics from the University of Washington, Seattle. Her PhD thesis is A Z-estimation System for Semiparametric Models with Two-phase Sampling Designs under the guidance of Norman Breslow, Jon Wellner, and Gary Chan. 
  
   <!--
 It currently has {{ site.posts | size }} posts in {{ site.categories | size }} categories which combinedly have {{ total_words }} words, which will take an average reader ({{ site.wpm }} WPM) approximately <span class="time">{{ total_readtime }}</span> minutes to read. 
