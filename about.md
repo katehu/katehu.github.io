@@ -29,9 +29,9 @@ chart: true
 
  **Kate Hu** is currently a research fellow at Harvard School of Public Health, investigating how to debias the inference due to unmeasured and mismeasured confounders by leveraging auxiliary information imbededed in big data, with an application focus on health effect studies of climate change. 
  
-Before returning to academia, Dr. Kate Hu was the Head of Data Science at Aclima Inc, where she drives the company’s data science research and development to deliver hyper-local air pollution maps and insights at unprecedented block-by-block resolution, by dispatching a fleet of vehicles equpied with environmetal sensors. 
+Before returning to academia, Dr. Kate Hu was the Head of Data Science at Aclima Inc, where she drives the company’s data science research and development to deliver hyper-local air pollution maps and insights at unprecedented block-by-block resolution, by dispatching a fleet of vehicles equpied with environmental sensors. 
  
-Prior to joining Aclima Inc, Dr. Kate Hu was a senior quantitative researcher  at the Climate Corporation where she created various noval precision agriculture solutions for sustainable farm management amid climate change. She first led the research program in sampling and experimental designs to help scientists collect field data for model calibration and evaluation. Then she led the interdisciplinary research efforts to develop precision nitrogen treatment algorithms that quickly respond to in-season weather conditions,  by combine mechanistic models, statistical models, and new sensing technologies.  
+Prior to joining Aclima Inc, Dr. Kate Hu was a senior quantitative researcher  at the Climate Corporation where she created multiple precision agriculture solutions for sustainable farm management amid climate change. She first led the research program in sampling and experimental designs to help scientists collect field data scientifically for model calibration and evaluation. Then she led the interdisciplinary research efforts to develop precision nitrogen treatment algorithms that can quickly respond to in-season weather conditions,  by combine mechanistic models, statistical models, and new sensing technologies.  
 
 Kate graduated with First Class Honours from the University of Hong Kong, received an M.S from Harvard University, and obtained a Ph.D in Biostatistics from the University of Washington, Seattle. Her PhD thesis is A Z-estimation System for Semiparametric Models with Two-phase Sampling Designs under the guidance of Norman Breslow, Jon Wellner, and Gary Chan. 
  
@@ -39,11 +39,4 @@ Kate graduated with First Class Honours from the University of Hong Kong, receiv
 It currently has {{ site.posts | size }} posts in {{ site.categories | size }} categories which combinedly have {{ total_words }} words, which will take an average reader ({{ site.wpm }} WPM) approximately <span class="time">{{ total_readtime }}</span> minutes to read. 
 
 {% if featuredcount != 0 %}There are <a href="{{ site.url }}/featured">{{ featuredcount }} featured posts</a>, you should definitely check those out.{% endif %} The most recent post is {% for post in site.posts limit:1 %}{% if post.description %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}">"{{ post.title }}"</a>{% else %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}" title="Read more about {{ post.title }}">"{{ post.title }}"</a>{% endif %}{% endfor %} which was published on {% for post in site.posts limit:1 %}{% assign modifiedtime = post.modified | date: "%Y%m%d" %}{% assign posttime = post.date | date: "%Y%m%d" %}<time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time>{% endif %}{% endif %}{% endfor %}. The last commit was on {{ site.time | date: "%A, %d %b %Y" }} at {{ site.time | date: "%I:%M %p" }} [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time "Temps Universel Coordonné").
---!>
-
-
-
-
-
- 
-***This is the space to create.***
+***This is the space to create.*** --!>
