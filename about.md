@@ -35,7 +35,7 @@ Prior to joining Aclima Inc, Dr. Kate Hu was a senior quantitative researcher  a
 
 Kate graduated with First Class Honours from the University of Hong Kong, received an M.S from Harvard University, and obtained a Ph.D in Biostatistics from the University of Washington, Seattle. Her PhD thesis is A Z-estimation System for Semiparametric Models with Two-phase Sampling Designs under the guidance of Norman Breslow, Jon Wellner, and Gary Chan. 
  
- </script> 
+ <script> 
  <!--
 It currently has {{ site.posts | size }} posts in {{ site.categories | size }} categories which combinedly have {{ total_words }} words, which will take an average reader ({{ site.wpm }} WPM) approximately <span class="time">{{ total_readtime }}</span> minutes to read. 
 
