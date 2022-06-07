@@ -37,8 +37,6 @@ It currently has {{ site.posts | size }} posts in {{ site.categories | size }} c
 
 
 
-I got my PhD in Biostatistics in University of Washington. I like theory and application of statistics. 
-
 
 
  
