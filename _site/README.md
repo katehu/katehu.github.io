@@ -9,5 +9,5 @@ The content in these folders and files are copyrighted by Kate Hu:
 - `_posts/`
 - `favicon.png`
 - `favicon.ico`
-- about.md
+- `about.md`
 

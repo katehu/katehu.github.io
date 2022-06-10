@@ -1,13 +1,38 @@
 callback([
 
   {
-    "text": "First Blog Post",
-    "href": "http://katehu.github.io/first-blog-post"
+    "text": "Let's see",
+    "href": "http://localhost:4000/first-blog-post"
   } ,
 
   {
-    "text": "Second Blog Post",
-    "href": "http://katehu.github.io/second-blog-post"
+    "text": "What motivates statistics?",
+    "href": "http://localhost:4000/second-blog-post"
+  } ,
+
+  {
+    "text": "Bias Correction",
+    "href": "http://localhost:4000/research/bias-correction"
+  } ,
+
+  {
+    "text": "Data Collection",
+    "href": "http://localhost:4000/research/data-collection"
+  } ,
+
+  {
+    "text": "Interaction Effect",
+    "href": "http://localhost:4000/research/interaction-effect"
+  } ,
+
+  {
+    "text": "Precision Agriculture",
+    "href": "http://localhost:4000/research/precision-agriculture"
+  } ,
+
+  {
+    "text": "Z-Estimation System",
+    "href": "http://localhost:4000/research/z-estimation-system"
   } 
 
 ])

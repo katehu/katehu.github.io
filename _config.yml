@@ -1,4 +1,4 @@
-title:            GLD
+title:            Kate Hu
 description:      
 logo:             logo.png
 disqus_shortname:
@@ -13,7 +13,7 @@ url:        	  "http://katehu.github.io"
 owner:
   name:           Kate Hu
   avatar:         katehu-2015.jpg
-  email:          
+  email:          contact@katehu.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    
   # Social networking links used in footer. Update and remove as you like.
@@ -37,12 +37,10 @@ links:
     url: /
     external: false
     icon: home
-  - title: Featured Posts
-    url: /featured
-  - title: Categories
-    url: /categories
-  - title: About
-    url: /about
+  - title: Publications
+    url: /publications
+  - title: CV
+    url: /cv.pdf
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:   USA
@@ -153,4 +151,5 @@ prose:
           value: false
 
 gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

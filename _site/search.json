@@ -1,17 +1,57 @@
 [
 	
 		{
-		  "title"      : "Second Blog Post",
+		  "title"      : "Z-Estimation System",
+		  "category"   : "research",
+		  "url"        : "http://localhost:4000/research/z-estimation-system",
+		  "date"       : "2022-06-08 00:00:00 +0000",
+		  "shortdate"  : "June 08, 2022"
+		} ,
+	
+		{
+		  "title"      : "Precision Agriculture",
+		  "category"   : "research",
+		  "url"        : "http://localhost:4000/research/precision-agriculture",
+		  "date"       : "2022-06-08 00:00:00 +0000",
+		  "shortdate"  : "June 08, 2022"
+		} ,
+	
+		{
+		  "title"      : "Interaction Effect",
+		  "category"   : "research",
+		  "url"        : "http://localhost:4000/research/interaction-effect",
+		  "date"       : "2022-06-08 00:00:00 +0000",
+		  "shortdate"  : "June 08, 2022"
+		} ,
+	
+		{
+		  "title"      : "Data Collection",
+		  "category"   : "research",
+		  "url"        : "http://localhost:4000/research/data-collection",
+		  "date"       : "2022-06-08 00:00:00 +0000",
+		  "shortdate"  : "June 08, 2022"
+		} ,
+	
+		{
+		  "title"      : "Bias Correction",
+		  "category"   : "research",
+		  "url"        : "http://localhost:4000/research/bias-correction",
+		  "date"       : "2022-06-08 00:00:00 +0000",
+		  "shortdate"  : "June 08, 2022"
+		} ,
+	
+		{
+		  "title"      : "What motivates statistics?",
 		  "category"   : "",
-		  "url"        : "http://katehu.github.io/second-blog-post",
+		  "url"        : "http://localhost:4000/second-blog-post",
 		  "date"       : "2015-10-31 00:00:00 +0000",
 		  "shortdate"  : "October 31, 2015"
 		} ,
 	
 		{
-		  "title"      : "First Blog Post",
+		  "title"      : "Let&#39;s see",
 		  "category"   : "",
-		  "url"        : "http://katehu.github.io/first-blog-post",
+		  "url"        : "http://localhost:4000/first-blog-post",
 		  "date"       : "2015-10-31 00:00:00 +0000",
 		  "shortdate"  : "October 31, 2015"
 		} 
