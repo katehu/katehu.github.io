@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Association vs Causation (Shifting from Models)"
+description: 
+headline: 
+first entry: 2022-06-23
+modified: 
+category: 
+tags: [jekyll]
+imagefeature: 
+mathjax: 
+chart: 
+comments: true
+featured: true
+---
+
+In Amber Heard - Johhny Depp court battle open to public viewing, data experts were invited to testify whether Twitter trends had proved one had been defamed by the other. 
+A key line from Wayne Dennison,  Johhny Depp's witty cross-examination lawyer, is " we all know the association is not causation." It is such an effective weapon that 
+has been used again and again in the cross-examination from both sides. 
+
+It's gratifying to hear these two words are mentioned outside the data field. It is also exciting to see, at least I believe I see, the  statistics field is evolving  on both fronts,
+our attempts to draw an association and a causation conclusion. 
+
+The most obvious one is the field of causal inference, which focused on estimating the average treatment effect 
+and drawing conclusions on causal effects. Yes, I just said the association is causation, so there are bits and pieces to argue in practice whether we can achieve an estimating of a causal effect, but 
+I appreciate this school of thought because it shifts our attention from models to the treatment effect. After all, in many applications, the ultimate goal is 
+to make a sound decision regardless of models. I think it is more accurate to call this field average treatment effect estimation instead of causal effect, so it won't be abused in fields not applicable and used to amplify the impact of findings that are not there.
+
+The less obvious one is the evolution of how statisticians think about the association. The sound is weak, but I believe the impact is not less. First, I need to bring to your attention 
+that although the association is not perfect, we use this imperfect metric to make decisions. At the same time, we try to make our association as less confounded as possible by other 
+factors such as measurement error, other factors, selection bias, etc. The most straightforward association metric is a correlation, but we have found correlation could be induced by 
+other factors. Thus, regression models and later semiparametric models were proposed to fit the data and the parameters in the models were used as metrics to describe the 
+the associations that have taken into account other variables. Since then, association and models seem to be bounded together. However, a critical perspective a statistician contributes to the field is 
+"all models are wrong, but some are useful ."There is a dilemma here: on one hand when comparing to process modelers creating complex models that are not usable, statisticians often benefit 
+from using models that are simple, applicable, and useful by giving up the model is completely correct; on the other side statisticians define an association through a model assuming the model is correct. Thus there is a new school of thinking, 
+ defining the target parameter of interest (more complex meaning of association) motivated by a model but estimating it without assuming the model is correct. The model is to assist our 
+estimation of association rather than determine it. When the model is accurate, the precision improves; when it is not, we are still consistently estimating the parameter of our interest. 
+ 
+ The common theme of these two evolutions is that both are shifting our attention from models, which dominates the statistical world for the 2nd half of the century, to the ultimate goals of doing statistics --- describing and making decisions on interventions. One is to continue to 
+ improve our summary of the observed world, and the other is to push the boundary of drawing a causal conclusion. But let me tell you, there is no free lunch. To make a big claim on causal effect from an observed world without conducting any experiment, one has to rely on some model being correct. I will discuss this in my next entry. 
