@@ -1,0 +1,29 @@
+
+Finding negative controls [Fun Story]
+
+I am working on a paper about how to use negative controls to adjust for unmeasured confouding bias. The idea is simple. We find an outocome (referred to as the negative control outcome) 
+that is not caused by the expsoure of interest but related to the sources of the confouding. We expect to find no association between the exposure 
+and the negative control outcome unless the sources of confouding are there. By this means, we are able to detect the confounding 
+bias due to some unmeasured variables. OK.This is not the fun part. 
+
+In one task, I need to come up with a negative control outcome example in Medicare insurance claim data that is associated with the green environment but not the particulate matter (PM),
+so I can adjust for the confouding bias due to the green environments in the study of PM's causal effect on mental health. Man! Unbelievable! It is so hard to find such a variable!
+For every disease I searched that have been reported to be associated with the green environment and I don't believe it can be caused by PM,  
+there is a paper claiming this disease is associated with PM, sleep quality, skin cancer, ... I would expect there must be negative results but how do I even start the search? Publication bias is real !
+I am searching for negative results. How dare you, Kate!
+
+So... my brain starts to spin, spin, spin faster, what weirld diseases you may get in a park and no researchers will claim its asscociation with PM? 
+Let's see... the bats flying around in the twilight? the raccoons attacking children in the golden gate park? the geese chasing people around ... Guess what?
+I find it! I find this amamzing list of the weird icd 10 codes for animal attacks!
+
+https://allzonems.com/weird-icd-10-codes-for-animal-attakcs/
+
+W55.21 – Bitten By Cow
+W63.33 – Pecked By A Chicken
+W56.22 – Struck By A Orca
+W56.11XA – Bitten by Sea Lion
+W61.12 – Struck by Macaw (so specific? not other parrots?)
+...
+
+Finger crossed no research will find an association between Parrots and PM. 
+
