@@ -3,18 +3,16 @@ layout: page-home
 permalink: /publications/index.html
 title: Publications
 ---
-Methodology research interest: intelligent study designs to reduce study costs and bias
-- develop and implement cost-effective, bias-reducing study designs with new technologies 
-- develop analysis tools, models, thinking frameworks, and theoretical tools for researchers interested in using such study designs
 
-Applied research interest: environmental protection, precision agriculture, and public health<br>
+Methodology research interest: smart study designs to reduce study costs and bias<br>
+Data science research interest: planetary health <br>
 
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
 
 
 ## Methods
 
-### Tools for analyzing cost-effective or bias-reducing study designs
+### Tools for analyzing complex data from cost-effective and bias-reducing study designs
 
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
