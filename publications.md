@@ -4,12 +4,12 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-<small> *Disclaimer: Publication are goruped by topics. Papers written for dual purposes appear under two categories*<small>
+<small> Publication are grouped by topics. Papers written for dual purposes appear under two categories*<small>
 
 
 ## Methods
 
-### Anlysis of Complex Data and for Use of auxiliary information 
+### Analysis of Complex Data 
 
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
