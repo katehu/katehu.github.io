@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-<font size="4"> Research interest: smart study designs to reduce study costs and bias; planetary health </font> 
+- Research interest: smart study designs to reduce study costs and bias; planetary health </font> 
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
 
 
@@ -89,7 +89,7 @@ in submission
 
 ##  Environmental and Agricultural Sciences 
 
-### Precision Agriculture
+### Soil: precision agriculture
 
 **Hu, J** & Carrion C. (2022) Using Causal Learning Algorithms to Assist in Agricultural Management Decisions. (U.S. Patent No. #11,406,053)
 
@@ -98,7 +98,7 @@ in submission
 **Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) 
 
 
-### Air Quality and Climate
+### Air: climate and air quality
 
 Zixu Zhao, Melissa Lunden, **Jie Kate Hu**, Brian Lafranchi, Yutong Liang, Caleb Arata, Erin Katz, Allen H. Goldstein, Haofei Zhang <br/>
 “Air Pollution Mapping and Machine Learning Reveal Key Factors for Distinct Community-level Exposures in San Francisco, California” <br/>
