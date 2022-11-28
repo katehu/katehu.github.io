@@ -4,15 +4,13 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Methodology research interest: smart study designs to reduce study costs and bias<br>
-Data science research interest: planetary health <br>
-
+<font size= “3”>Research interest: smart study designs to reduce study costs and bias;planetary health </font><br>
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
 
 
 ## Methods
 
-### Tools for analyzing complex data from cost-effective and bias-reducing study designs
+### Tools for analyzing complex data from cost & bias reducing study designs
 
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
