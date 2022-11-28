@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-- Research interest: smart study designs to reduce study costs and bias; planetary health </font> 
+- Research interest: smart study designs to reduce study costs and bias; planetary health <br/>
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
 
 
