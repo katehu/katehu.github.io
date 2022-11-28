@@ -4,13 +4,11 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-<font size= “3”>Research interest: smart study designs to reduce study costs and bias; planetary health </font><br>
+<font size="3"> Research interest: smart study designs to reduce study costs and bias; planetary health </font> <br/>
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
 
 
-## Methods
-
-### Tools for analyzing complex data from cost & bias reducing study designs
+## Methods for analyzing data from cost & bias reducing study designs
 
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
@@ -33,7 +31,7 @@ to be submitted
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.washington.edu/researchworks/handle/1773/27427 (2014).
 
-### Model development
+## Model development
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
@@ -43,7 +41,7 @@ PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.wa
 
 **Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403)
 
-## Data Collection Methods 
+## Cost & Bias Reducing Sampling Methods 
 
 **Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms. (U. S. Application Serial No.17/332789)
 
