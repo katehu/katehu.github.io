@@ -3,13 +3,16 @@ layout: page-home
 permalink: /publications/index.html
 title: Publications
 ---
-
-<small> Publication are grouped by topics. Papers written for dual purposes appear under two categories*<small>
+Methodology research interest: intelligent study designs to reduce study costs and bias.
+- develop and implement cost-effective, bias-reducing study designs with new technologies 
+- develop analysis tools, models, thinking frameworks, and theoretical tools for researchers interested in using such study designs
+Applied research interest: environmental protection, precision agriculture, and public health
+<small> Publication are grouped by topics. Papers written for dual purposes appear under two categories<small>
 
 
 ## Methods
 
-### Analysis of Complex Data 
+### Tools for analyzing cost-effective or bias-reducing study designs
 
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
@@ -29,17 +32,18 @@ in revision for *Nature Review Method Primer*
 to be submitted
 
 **Jie Hu** <br/>
-A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies <br/> 
+"A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.washington.edu/researchworks/handle/1773/27427 (2014).
 
-### Additive Hazards Models
+### Model development
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
-*European Journal of Epidemiology* Jun, 1-14 (2021).
+*European Journal of Epidemiology*, Jun, 1-14 (2021).
 
 **Jie Hu** Fit Additive Hazards Models for Survival Analysis, CRAN - Package addhazard (2020).
 
+**Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403)
 
 ## Data Collection Methods 
 
@@ -53,19 +57,18 @@ PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.wa
 
 Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
 “Z-estimation and Stratified Samples: Application to Survival Models”<br/>
-*Lifetime Data Analysis* 21, 493-516 (2015).
+*Lifetime Data Analysis*, 21, 493-516 (2015).
 
 **Jie Hu**  <br/>
-A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies <br/> 
+"A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" <br/>
 PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.washington.edu/researchworks/handle/1773/27427 (2014).
 
-**Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403)
 
 
 **Jie Kate Hu** , Xianlong Wang, Pei Wang <br/>
 “Testing Gene-gene Interactions in Genome Wide Association Studies”<br/> 
 *Genetic Epidemiology*, 38, 123-134 (2014). <br/>
-   <small>    Pointed out the flaws in previous comparison studies of gene-gene interaction testing methods; studied definitions of gene-gene interaction underlying different testing methods and provided conditions of when these tests were comparable <small>
+   <small>    Pointed out the flaws in previous comparison studies of gene-gene interaction testing methods; studied definitions of gene-gene interaction underlying different testing methods; provided conditions of when these tests were comparable <small>
 
 ## Public Health 
 
@@ -85,7 +88,7 @@ Afzali Anita, Chelle L. Wheat, **Jie K. Hu**, John E. Olerud, and Scott D. Lee<b
 *Journal of Crohn’s and Colitis*, 8(6), 480-488 (2014).
 
 Manickavasagan,Hanisha, Butnariu Madalina, Porter Kyle , **Hu K. Jie**, Husain Syed, and Afzali Anita<br/>
-”Inflammatory Bowel Disease Patients with Type 2 Diabetes and Obesity have a Higher Annual Burden and Costs of Hospitalizations: A call for action”<br/>
+"Inflammatory Bowel Disease Patients with Type 2 Diabetes and Obesity have a Higher Annual Burden and Costs of Hospitalizations: A call for action”<br/>
 in submission
 
 ##  Environmental and Agricultural Sciences 
