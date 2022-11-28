@@ -3,20 +3,22 @@ layout: page-home
 permalink: /publications/index.html
 title: Publications
 ---
-I group my publication by topics. 
-Disclaimer: I group my publication by topics. To save time, I often write one paper for dual purposes. You will see somme papers appear under two categories.
+
+### *Disclaimer: Publication are goruped by topics. Papers written for dual purposes appear under two categories*
 
 
-## Methods for use of auxiliary information in and inference with Complex Data; Additive Hazards Models
+## Methods
+
+### Anlysis of Complex Data and for Use of auxiliary information 
 
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
-*European Journal of Epidemiology* Jun, 1-14 (2021).
+*European Journal of Epidemiology*, Jun, 1-14 (2021).
 
 Norman Breslow and **Jie Kate Hu**<br/>
 "Survival Analysis of Case-Control Data: A Sample Survey Approach"<br/>
-*Handbook of Statistical Methods for Case-Control Studies*, Chapman and Hall/CRC, (2018)
+*Handbook of Statistical Methods for Case-Control Studies*, Chapman and Hall/CRC, (2018).
 
 **Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
 “Leveraging Auxiliary Information to Adjust for Unmeasured Confounding in Time Series Study Designs”<br/>
@@ -26,11 +28,17 @@ in revision for *Nature Review Method Primer*
 “Weights Determination in Generalized Case-Cohort Study”<br/>
 to be submitted
 
-**Hu, J** <br/>
+**Jie Hu** <br/>
 A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.washington.edu/researchworks/handle/1773/27427 (2014).
 
-**Jie Hu** Fit Additive Hazards Models for Survival Analysis, CRAN - Package addhazard , (2017)
+### Additive Hazards Models
+
+**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
+“Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
+*European Journal of Epidemiology* Jun, 1-14 (2021).
+
+**Jie Hu** Fit Additive Hazards Models for Survival Analysis, CRAN - Package addhazard (2020).
 
 
 ## Data Collection Methods 
@@ -45,42 +53,42 @@ PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.wa
 
 Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
 “Z-estimation and Stratified Samples: Application to Survival Models”<br/>
-*Lifetime Data Analysis* 21, 493-516 (2015)
+*Lifetime Data Analysis* 21, 493-516 (2015).
 
-**Hu, J** <br/>
+**Jie Hu**  <br/>
 A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.washington.edu/researchworks/handle/1773/27427 (2014).
 
+**Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403)![image](https://user-images.githubusercontent.com/14019327/204293908-cf894075-f9ca-4eca-acc2-03e1e36373e5.png)
+
+
 **Jie Kate Hu** , Xianlong Wang, Pei Wang <br/>
 “Testing Gene-gene Interactions in Genome Wide Association Studies”<br/> 
-*Genetic Epidemiology* 38, 123-134 (2014)
-- Pointed out the flaws in some comparison studies of gene-gene interaction testing methods; studied definitions underlying different testing methods and provide conditions of when these tests are comparable
+*Genetic Epidemiology*, 38, 123-134 (2014). <br/>
+   <small>    Pointed out the flaws in previous comparison studies of gene-gene interaction testing methods; studied definitions of gene-gene interaction underlying different testing methods and provided conditions of when these tests were comparable <small>
 
 ## Public Health 
-
 
 ### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
-*European Journal of Epidemiology* Jun, 1-14 (2021).
+*European Journal of Epidemiology*, Jun, 1-14 (2021).
 
 ### Inflammatory Bowel Disease
 
 Afzali Anita, Christopher J. Park, Kehao Zhu, **Jie Kate Hu**, Prachi Sharma, Mika N. Sinanan, and Scott D. Lee<br/>
 “Preoperative Use of Methotrexate and the Risk of Early Postoperative Complications in Patients with Inflammatory Bowel Disease”<br/>
-*Inflammatory Bowel Diseases* 22(8), 1887-95 (2016)
+*Inflammatory Bowel Diseases*, 22(8), 1887-95 (2016).
 
 Afzali Anita, Chelle L. Wheat, **Jie K. Hu**, John E. Olerud, and Scott D. Lee<br/>
 “The Association of Psoriasiform Rash with anti-Tumor Necrosis Factor (anti-TNF) Therapy in Inflammatory Bowel Disease: A Single Academic Center Case Series”<br/>
-*Journal of Crohn’s and Colitis* 8(6), 480-488 (2014)
+*Journal of Crohn’s and Colitis*, 8(6), 480-488 (2014).
 
 Manickavasagan,Hanisha, Butnariu Madalina, Porter Kyle , **Hu K. Jie**, Husain Syed, and Afzali Anita<br/>
 ”Inflammatory Bowel Disease Patients with Type 2 Diabetes and Obesity have a Higher Annual Burden and Costs of Hospitalizations: A call for action”<br/>
-(in submission)
+in submission
 
-
-
-##  Environmental and Agriculture Sciences 
+##  Environmental and Agricultural Sciences 
 
 ### Precision Agriculture
 
@@ -95,11 +103,11 @@ Manickavasagan,Hanisha, Butnariu Madalina, Porter Kyle , **Hu K. Jie**, Husain S
 
 Zixu Zhao, Melissa Lunden, **Jie Kate Hu**, Brian Lafranchi, Yutong Liang, Caleb Arata, Erin Katz, Allen H. Goldstein, Haofei Zhang <br/>
 “Air Pollution Mapping and Machine Learning Reveal Key Factors for Distinct Community-level Exposures in San Francisco, California” <br/>
-submitted to Environmental Science & Technology)
+submitted to *Environmental Science & Technology*
 
 Keith R. Spangler, Quinn H. Adams, **Jie Kate Hu**, Danielle Braun, Kate R. Weinberger, Francesca Dominici, and Gregory A. Wellenius <br/>
 “Does Choice of Outdoor Heat Metric Affect Heat-Related Epidemiologic Analyses in the US Medicare Population?”<br/> 
-(in submission)
+in submission
 
 ### Forest
 
