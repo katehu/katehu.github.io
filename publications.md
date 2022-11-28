@@ -6,7 +6,7 @@ title: Publications
 Methodology research interest: intelligent study designs to reduce study costs and bias.
 - develop and implement cost-effective, bias-reducing study designs with new technologies 
 - develop analysis tools, models, thinking frameworks, and theoretical tools for researchers interested in using such study designs
-Applied research interest: environmental protection, precision agriculture, and public health
+Applied research interest: environmental protection, precision agriculture, and public health<br>
 <small> Publication are grouped by topics. Papers written for dual purposes appear under two categories<small>
 
 
