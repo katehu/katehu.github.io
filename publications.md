@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-### *Disclaimer: Publication are goruped by topics. Papers written for dual purposes appear under two categories*
+<small> *Disclaimer: Publication are goruped by topics. Papers written for dual purposes appear under two categories*<small>
 
 
 ## Methods
@@ -59,7 +59,7 @@ Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
 A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.washington.edu/researchworks/handle/1773/27427 (2014).
 
-**Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403)![image](https://user-images.githubusercontent.com/14019327/204293908-cf894075-f9ca-4eca-acc2-03e1e36373e5.png)
+**Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403)
 
 
 **Jie Kate Hu** , Xianlong Wang, Pei Wang <br/>
