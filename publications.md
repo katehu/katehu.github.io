@@ -4,11 +4,11 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-<font size="3"> Research interest: smart study designs to reduce study costs and bias; planetary health </font> <br/>
+<font size="4"> Research interest: smart study designs to reduce study costs and bias; planetary health </font> 
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
 
 
-## Methods for analyzing data from cost & bias reducing study designs
+## Analysis methods for cost & bias reducing study designs
 
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
