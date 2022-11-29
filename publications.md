@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-- Research interest: smart study designs to reduce study costs and bias; planetary health <br/>
+- Research interest: methods for analysis of complex data; scalable study designs to reduce study costs and bias;  climate; public health; precision agriculture <br/>
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
 
 
