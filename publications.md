@@ -4,11 +4,11 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-- Research interest: methods for analysis of complex data; scalable study designs to reduce study costs and bias;  climate; public health; precision agriculture <br/>
+- Research interest: methods for analysis of complex data; scalable study designs to reduce study costs and bias;  climate hazards; public health; precision agriculture <br/>
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
 
 
-## Analysis methods for cost & bias reducing study designs
+## Analysis methods for complex data
 
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
@@ -41,7 +41,7 @@ PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.wa
 
 **Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403)
 
-## Cost & Bias Reducing Sampling Methods 
+## Experimental and sampling design
 
 **Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms. (U. S. Application Serial No.17/332789)
 
