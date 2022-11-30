@@ -768,8 +768,9 @@ body,
 
 .notepad-page-content>div:not(.notepad-page-title) p.with-image {
   text-align: center;
+  float: left;
   padding-top: 1.125rem;
-  padding-bottom: 1.125rem;
+  margin-right: 4rem;
   max-width: 75rem;
 }
 
