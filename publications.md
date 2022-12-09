@@ -57,7 +57,7 @@ PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.wa
 
 **Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) 
 
-## Theory <a.name="theory"></a>
+## Theory <a name="theory"></a>
 
 Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
 “Z-estimation and Stratified Samples: Application to Survival Models”<br/>
@@ -68,7 +68,7 @@ Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
 PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.washington.edu/researchworks/handle/1773/27427 (2014).
 
 
-## Applications <a.name="applications"></a> 
+## Applications <a name="applications"></a> 
 
 ### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
@@ -116,7 +116,7 @@ Maxwell J.D. VanLandschoot, Julian Schmitte, (mentored by Kelly McConville & **J
 "Climate and Tree Species Distributions Change – Informing Forestry professionals, Conservationists, and Regulators the Potential Impacts of Climate Change on US Forests" <br/>
 https://mjdvl.shinyapps.io/NCASI_APP/ (2022)
 
-## Methods to integrate statistical models, measurements, and scientific knowledge <a.name="epistemology"></a> 
+## Methods to integrate statistical models, measurements, and scientific knowledge <a name="epistemology"></a> 
    
 Hu, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
 Agricultural Management Decisions. (U.S. Patent No. #11,406,053)
@@ -128,7 +128,7 @@ Nitrogen Management. Technical Report, 2018
 • Kate Hu, Adjust Measurement-based Nitrogen Management Decisions using
 Biogeochemical Process Models. Technical Report, 2018
 
-## Epistemology <a.name="epistemology"></a> 
+## Epistemology <a name="epistemology"></a> 
 
 **Jie Kate Hu** , Xianlong Wang, Pei Wang <br/>
 “Testing Gene-gene Interactions in Genome Wide Association Studies”<br/> 
