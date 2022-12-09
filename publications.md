@@ -5,7 +5,7 @@ title: Publications
 ---
 
 # Research Interest
-1. [Analysis methods for complex data](#methods for analysis of complex data)
+1. [Analysis methods for complex data](#Methods for analysis of complex data)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
@@ -15,7 +15,7 @@ title: Publications
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
 
 
-##Analysis methods for complex data
+## Analysis methods for complex data
 
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
