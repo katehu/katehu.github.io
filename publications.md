@@ -10,8 +10,9 @@ title: Publications
 3. [Theoretical tools for complex data analysis methods development](#theory)
 4. [Additive hazards models](#model)
 5. [Applications in precision agriculture, public health, and climate hazards](#application)
-6. [Methods to integrate statistical models, measurements, and scientific knowledge](#models-measurements)
+6. [Methods to integrate statistical models, measurements, and scientific knowledge](#measurement-model)
 7. [Epistemology](#epistemology)
+8. 
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
 
 
@@ -68,7 +69,7 @@ Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
 PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.washington.edu/researchworks/handle/1773/27427 (2014).
 
 
-## Applications <a name="applications"></a> 
+## Applications <a name="application"></a> 
 
 ### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
@@ -89,9 +90,7 @@ Manickavasagan,Hanisha, Butnariu Madalina, Porter Kyle , **Hu K. Jie**, Husain S
 "Inflammatory Bowel Disease Patients with Type 2 Diabetes and Obesity have a Higher Annual Burden and Costs of Hospitalizations: A call for action”<br/>
 in submission
 
-##  Environmental and Agricultural Sciences 
-
-### Soil: precision agriculture
+### Precision agriculture
 
 **Hu, J** & Carrion C. (2022) Using Causal Learning Algorithms to Assist in Agricultural Management Decisions. (U.S. Patent No. #11,406,053)
 
@@ -100,7 +99,7 @@ in submission
 **Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) 
 
 
-### Air: climate and air quality
+### Air: climate hazards and air quality
 
 Zixu Zhao, Melissa Lunden, **Jie Kate Hu**, Brian Lafranchi, Yutong Liang, Caleb Arata, Erin Katz, Allen H. Goldstein, Haofei Zhang <br/>
 “Air Pollution Mapping and Machine Learning Reveal Key Factors for Distinct Community-level Exposures in San Francisco, California” <br/>
@@ -116,7 +115,7 @@ Maxwell J.D. VanLandschoot, Julian Schmitte, (mentored by Kelly McConville & **J
 "Climate and Tree Species Distributions Change – Informing Forestry professionals, Conservationists, and Regulators the Potential Impacts of Climate Change on US Forests" <br/>
 https://mjdvl.shinyapps.io/NCASI_APP/ (2022)
 
-## Methods to integrate statistical models, measurements, and scientific knowledge <a name="epistemology"></a> 
+## Methods to integrate statistical models, measurements, and scientific knowledge <a name="measurement-model"></a> 
    
 Hu, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
 Agricultural Management Decisions. (U.S. Patent No. #11,406,053)
