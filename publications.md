@@ -5,10 +5,13 @@ title: Publications
 ---
 
 # Research Interest
-1. [Analysis methods for complex data](#method)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+1. [Analysis methods for complex data generated from smart study designs](#method)
+2. [Study designs to reduce costs and bias](#study-design)
+3. [Theoretical tools for complex data methods development](#theory)
+4. [Additive hazards models](#model)
+5. [Applications in precision agriculture, public health, and climate change](#application)
+6. [Methods to integrate statistical models, measurements, and scientific knowledge](#models-measurements)
+7. [Epistemology][#epistemology]
 
 
 - Research interest: methods for analysis of complex data; scalable study designs to reduce study costs and bias;  climate hazards; public health; precision agriculture <br/>
@@ -16,7 +19,6 @@ title: Publications
 
 
 ## Analysis methods for complex data <a name="method"></a>
-
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
@@ -38,7 +40,7 @@ to be submitted
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.washington.edu/researchworks/handle/1773/27427 (2014).
 
-## Model development
+## Model development <a name="model"></a>
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
@@ -48,7 +50,7 @@ PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.wa
 
 **Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403)
 
-## Experimental and sampling design
+## Experimental and sampling design study-design <a name="study-design"></a>
 
 **Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms. (U. S. Application Serial No.17/332789)
 
@@ -56,7 +58,7 @@ PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.wa
 
 **Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) 
 
-## Theory 
+## Theory <a.name="theory"></a>
 
 Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
 “Z-estimation and Stratified Samples: Application to Survival Models”<br/>
@@ -67,13 +69,7 @@ Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
 PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.washington.edu/researchworks/handle/1773/27427 (2014).
 
 
-
-**Jie Kate Hu** , Xianlong Wang, Pei Wang <br/>
-“Testing Gene-gene Interactions in Genome Wide Association Studies”<br/> 
-*Genetic Epidemiology*, 38, 123-134 (2014). <br/>
-   <small>    Pointed out the flaws in previous comparison studies of gene-gene interaction testing methods; studied definitions of gene-gene interaction underlying different testing methods; provided conditions of when these tests were comparable <small>
-
-## Public Health 
+## Applications <a.name="applications"></a> 
 
 ### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
@@ -122,4 +118,10 @@ Maxwell J.D. VanLandschoot, Julian Schmitte, (mentored by Kelly McConville & **J
 https://mjdvl.shinyapps.io/NCASI_APP/ (2022)
 
 
+## Epistemology <a.name="applications"></a> 
+
+**Jie Kate Hu** , Xianlong Wang, Pei Wang <br/>
+“Testing Gene-gene Interactions in Genome Wide Association Studies”<br/> 
+*Genetic Epidemiology*, 38, 123-134 (2014). <br/>
+   <small>  Studied definitions of gene-gene interaction; Pointed out the flaws in previous comparison studies of gene-gene interaction testing methods; studied definitions of gene-gene interaction underlying different testing methods; provided conditions of when these tests were comparable <small>
 
