@@ -11,7 +11,6 @@ My research interests are driven by three goals: 1) enable people to generate an
 1. [Analysis methods for complex data generated from smart study designs](#method)
 2. [Smart study designs to reduce costs and bias](#study-design)
 3. [Theoretical tools for complex data analysis methods development](#theory)
-
 4. [Applications in precision agriculture, public health, and climate hazards](#application)
 5. [Additive hazards models](#model)
 6. [Methods to integrate statistical models, measurements, and scientific knowledge for precision farm management](#measurement-model)
