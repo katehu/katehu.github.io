@@ -5,14 +5,20 @@ title: Publications
 ---
 
 # Research Interest
+
+My research interests are driven by three goals: 1) enable people to generate and use large complex data more intelligently and efficiently, 2) use statistics and measurements to advance scientific discovery, and 3) use data science to improve human and the earth’s health.
 1. [Analysis methods for complex data generated from smart study designs](#method)
 2. [Smart study designs to reduce costs and bias](#study-design)
 3. [Theoretical tools for complex data analysis methods development](#theory)
+
 4. [Additive hazards models](#model)
 5. [Applications in precision agriculture, public health, and climate hazards](#application)
-6. [Methods to integrate statistical models, measurements, and scientific knowledge](#measurement-model)
-7. [Epistemology](#epistemology)
-8. 
+
+Long term
+7. [Methods to integrate statistical models, measurements, and scientific knowledge](#measurement-model)
+8. [Epistemology](#epistemology)
+
+
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
 
 
@@ -134,5 +140,5 @@ Biogeochemical Process Models. Technical Report, 2018
 *Genetic Epidemiology*, 38, 123-134 (2014). <br/>
    <small>  Studied definitions of gene-gene interaction; pointed out the flaws in comparison studies of gene-gene interaction testing methods in literature due to variation in definitions; provided conditions of when these tests were comparable <small>
 
-      
+ Meng Lu, **Jie Hu**, translator. Objectivity. By Lorraine Daston and Peter Galison.     
       
