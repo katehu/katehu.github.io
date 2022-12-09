@@ -6,7 +6,7 @@ title: Publications
 
 # Research Interest
 1. [Analysis methods for complex data generated from smart study designs](#method)
-2. [Study designs to reduce costs and bias](#study-design)
+2. [Smart study designs to reduce costs and bias](#study-design)
 3. [Theoretical tools for complex data methods development](#theory)
 4. [Additive hazards models](#model)
 5. [Applications in precision agriculture, public health, and climate change](#application)
@@ -118,7 +118,7 @@ Maxwell J.D. VanLandschoot, Julian Schmitte, (mentored by Kelly McConville & **J
 https://mjdvl.shinyapps.io/NCASI_APP/ (2022)
 
 
-## Epistemology <a.name="applications"></a> 
+## Epistemology <a.name="epistemology"></a> 
 
 **Jie Kate Hu** , Xianlong Wang, Pei Wang <br/>
 “Testing Gene-gene Interactions in Genome Wide Association Studies”<br/> 
