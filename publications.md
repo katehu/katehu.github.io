@@ -7,9 +7,9 @@ title: Publications
 # Research Interest
 1. [Analysis methods for complex data generated from smart study designs](#method)
 2. [Smart study designs to reduce costs and bias](#study-design)
-3. [Theoretical tools for complex data methods development](#theory)
+3. [Theoretical tools for complex data analysis methods development](#theory)
 4. [Additive hazards models](#model)
-5. [Applications in precision agriculture, public health, and climate change](#application)
+5. [Applications in precision agriculture, public health, and climate hazards](#application)
 6. [Methods to integrate statistical models, measurements, and scientific knowledge](#models-measurements)
 7. [Epistemology](#epistemology)
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
@@ -116,11 +116,24 @@ Maxwell J.D. VanLandschoot, Julian Schmitte, (mentored by Kelly McConville & **J
 "Climate and Tree Species Distributions Change – Informing Forestry professionals, Conservationists, and Regulators the Potential Impacts of Climate Change on US Forests" <br/>
 https://mjdvl.shinyapps.io/NCASI_APP/ (2022)
 
+## Methods to integrate statistical models, measurements, and scientific knowledge <a.name="epistemology"></a> 
+   
+Hu, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
+Agricultural Management Decisions. (U.S. Patent No. #11,406,053)
+   
+Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science 
+
+• Kate Hu, Camila Casquilho, Megan Chen, Combining Measurements and Models for
+Nitrogen Management. Technical Report, 2018
+• Kate Hu, Adjust Measurement-based Nitrogen Management Decisions using
+Biogeochemical Process Models. Technical Report, 2018
 
 ## Epistemology <a.name="epistemology"></a> 
 
 **Jie Kate Hu** , Xianlong Wang, Pei Wang <br/>
 “Testing Gene-gene Interactions in Genome Wide Association Studies”<br/> 
 *Genetic Epidemiology*, 38, 123-134 (2014). <br/>
-   <small>  Studied definitions of gene-gene interaction; Pointed out the flaws in previous comparison studies of gene-gene interaction testing methods; studied definitions of gene-gene interaction underlying different testing methods; provided conditions of when these tests were comparable <small>
+   <small>  Studied definitions of gene-gene interaction; pointed out the flaws in comparison studies of gene-gene interaction testing methods in literature due to variation in definitions; provided conditions of when these tests were comparable <small>
 
+      
+      
