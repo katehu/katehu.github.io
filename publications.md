@@ -6,18 +6,16 @@ title: Publications
 
 # Research Interest
 
-My research interests are driven by three goals: 1) enable people to generate and use large complex data more intelligently and efficiently, 2) use data science to improve planetary health --- human health and the state of the natural systems on which it depends, and 3) advance precision agriculture. In particular, my research interests include
+My research interests are driven by three goals: 1) enable people to generate and use large complex data more intelligently and efficiently, 2) use data science to improve planetary health --- human health and the state of the natural systems on which it depends, and 3) advance precision agriculture. In particular, my research interests include the following
 
 1. [Analysis methods for complex data generated from smart study designs](#method)
 2. [Smart study designs to reduce costs and bias](#study-design)
 3. [Theoretical tools for complex data analysis methods development](#theory)
 
-4. [Additive hazards models](#model)
-5. [Applications in precision agriculture, public health, and climate hazards](#application)
-
-
-7. [Methods to integrate statistical models, measurements, and scientific knowledge](#measurement-model)
-8. [Epistemology](#epistemology)
+4. [Applications in precision agriculture, public health, and climate hazards](#application)
+5. [Additive hazards models](#model)
+6. [Methods to integrate statistical models, measurements, and scientific knowledge for precision farm management](#measurement-model)
+7. [Epistemology](#epistemology)
 
 
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
