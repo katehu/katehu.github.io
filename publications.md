@@ -11,15 +11,14 @@ title: Publications
 4. [Additive hazards models](#model)
 5. [Applications in precision agriculture, public health, and climate change](#application)
 6. [Methods to integrate statistical models, measurements, and scientific knowledge](#models-measurements)
-7. [Epistemology][#epistemology]
-
-
-- Research interest: methods for analysis of complex data; scalable study designs to reduce study costs and bias;  climate hazards; public health; precision agriculture <br/>
+7. [Epistemology](#epistemology)
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
 
 
-## Analysis methods for complex data <a name="method"></a>
-
+## Analysis methods for complex data generated from smart study designs<a name="method"></a>
+... <br/>
+   
+   
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
 *European Journal of Epidemiology*, Jun, 1-14 (2021).
