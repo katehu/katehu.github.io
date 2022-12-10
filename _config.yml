@@ -41,6 +41,8 @@ links:
     url: /publications
   - title: CV
     url: /cv.pdf
+  - title: Functions
+    url: /functions
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:   USA
