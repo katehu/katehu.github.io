@@ -23,7 +23,7 @@ My long term research interests are as follows. Discussions, suggestions, and co
 7. [Methods to integrate statistical models, measurements, and scientific knowledge for precision farm management](#measurement-model)
 8. [Make model developement transparent and accessible](#model)
 9. [Epistemology](#epistemology)
-10.[precision agriculture](#precision agriculture)
+10.[precision agriculture](#agriculture)
 
 
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
@@ -32,20 +32,19 @@ My long term research interests are as follows. Discussions, suggestions, and co
    
 **Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
 “Leveraging Auxiliary Information to Adjust for Unmeasured Confounding in Time Series Study Designs”<br/>
-in revision for *Nature Review Method Primer*
+in revision for *Nature Review Method Primer* <br/>
  
   
  **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021).[[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
 <small> This article includes methods and software for improving inference precision by leveraging auxiliary variables.<small> <br/> 
 
  **Jie Hu** <br/>
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014). [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/>
-``` diff
- + <small> Chapter 4 & 5 include methods and results for improving prediction precision from survival models by levering auxiliary variables.<small>
- ```
+<small> Chapter 4 & 5 include methods and results for improving prediction precision from survival models by levering auxiliary variables.<small>
+
  
 **Current work**: I am developing several methods to leverage auxiliary information to adjust for unmeasured confounding, using techniques in Bayesian statistics, econometrics, and proximal causal inference.<br/>
  
@@ -53,7 +52,7 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014). [[link]](https
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021). [[link]](<br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021). [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)(<br/>
 
    
 Norman Breslow and **Jie Kate Hu**<br/>
@@ -62,7 +61,7 @@ Norman Breslow and **Jie Kate Hu**<br/>
 
 
 
-**Jie Kate Hu**, Gary Chan<br/>
+**Jie Kate Hu**, Gary Chan <br/>
 “Weights Determination in Generalized Case-Cohort Study”<br/>
 (plan to submit in January, 2023). <br/>
 
@@ -95,13 +94,13 @@ For  applied science researchers:  <br/>
 
 For semiparametric model developers
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" <br/> 
-PhD Diss.*University of Washington ResearchWorks Archive* (2014). [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427)
+PhD Diss.*University of Washington ResearchWorks Archive* (2014). [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/>
 <small> Chapter 1 & 2 lay out on how to develop and extend semiparametric models systematically <small>
    
    
 ## Sampling designs with and for new technologies <a name="study-design"></a>
 
-My next research interest is adatpive and scalable sampling designs<br/>
+My next research interest is adatpive and scalable sampling designs. Please email contact@katehu.com if you are interested in discussion. <br/>
    
 **Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
 
@@ -109,6 +108,20 @@ My next research interest is adatpive and scalable sampling designs<br/>
 
 **Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) [[link]](https://uspto.report/patent/grant/10,990,716)) <br/>
 
+Zeshi Zheng, *Kate Hu*, Mike Malone, Nicholas Vogel, A Time-Series Clustering
+Approach for Soil Moisture Probes Placement. Technical Report* , 2017
+
+*Kate Hu*, A Model-Assisted Probability Sampling Design for Representative
+Locations. Technical Report*, 2017
+   
+*Kate Hu*, Evaluation of the 2015 Climatology Field Experiments. Technical Report,
+2015
+   
+*Kate Hu*, Variable Seeding Rate Corn Research Partner Trials Analysis, Technical
+Report, 2015  
+*<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
+   
+   
 ## Theory <a name="theory"></a>
 
 Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
@@ -121,12 +134,12 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014) [[link]](https:
 <small> Chapter  2 provided theoretical tools to develop and extend semiparametric models. <small> <br/>
    
 **Jie Hu**, “A Z-estimation System: A Modular Approach to Model Development” <br/>
-(plan to resubmit in Feburary)
+(plan to resubmit in Feburary) <br/>
    
 ## Applications <a name="application"></a> 
 
 ##### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
-**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
+**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
 *European Journal of Epidemiology*, Jun, 1-14 (2021). [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
 
@@ -174,16 +187,15 @@ https://mjdvl.shinyapps.io/NCASI_APP/ (2022)<br/>
 ## Methods to integrate statistical models, measurements, and scientific knowledge <a name="measurement-model"></a> 
    
 Hu, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
-Agricultural Management Decisions. (U.S. Patent No. #11,406,053)<br/>
+Agricultural Management Decisions. (U.S. Patent No. #11,406,053) [[[link]]](https://uspto.report/patent/grant/11,406,053)(<br/>
    
-   
-Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <br/>
-
 • Kate Hu, Camila Casquilho, Megan Chen, Combining Measurements and Models for
-Nitrogen Management. Technical Report, 2018 <br/>
+Nitrogen Management. Technical Report*, 2018 <br/>
    
 • Kate Hu, Adjust Measurement-based Nitrogen Management Decisions using
-Biogeochemical Process Models. Technical Report, 2018<br/>
+Biogeochemical Process Models. Technical Report*, 2018<br/>
+
+*<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
 
 ## Epistemology <a name="epistemology"></a> 
 
