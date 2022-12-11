@@ -41,7 +41,8 @@ in revision for *Nature Review Method Primer*
 
  **Jie Hu** <br/>
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" <br/> 
-PhD Diss.*University of Washington ResearchWorks Archive* (2014)[link](https://digital.lib.washington.edu/researchworks/handle/1773/27427).<br/>
+PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
+   [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/>
 <small> Chapter 4 & 5 include methods and results on using auxiliary variables to improve prediction precision based on survival models.<small>
  
 **Current work**: I am developing several methods to leverage auxiliary information to adjust for unmeasured confounding, using techniques in Bayesian statistics, econometrics, and proximal causal inference.<br/>
@@ -67,14 +68,14 @@ to be submitted. <br/>
 
    
 
-## Additive hazards model ## <a name="ah"></a>
+## Additive hazards model <a name="ah"></a>
    
 A R package:<br/>
 **Jie Hu** Fit Additive Hazards Models for Survival Analysis, CRAN - Package addhazard (2020).<br/>
 
 A R shiny app:<br/>
 Victoria Ding and **Jie Hu** <br/>
-https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069 <br/>
+[[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
   
 A tutorial - using the Atherosclerosis Risk in Communities Study (ARIC) dataset  <br/>
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
@@ -93,7 +94,7 @@ For  applied science researchers:  <br/>
 
 For semiparametric model developers
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" <br/> 
-PhD Diss.*University of Washington ResearchWorks Archive* [link](https://digital.lib.washington.edu/researchworks/handle/1773/27427)(2014).
+PhD Diss.*University of Washington ResearchWorks Archive* (2014). [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427)
 <small> Chapter 1 & 2 lay out on how to develop and extend semiparametric models systematically <small>
    
    
