@@ -36,13 +36,13 @@ in revision for *Nature Review Method Primer* <br/>
  
   
  **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
-“Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021).[[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
+“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
 <small> This article includes methods and software for improving inference precision by leveraging auxiliary variables.<small> <br/> 
 
  **Jie Hu** <br/>
-"A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" <br/> 
-PhD Diss.*University of Washington ResearchWorks Archive* (2014). [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/>
+"A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427)<br/> 
+PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
 <small> Chapter 4 & 5 include methods and results for improving prediction precision from survival models by levering auxiliary variables.<small>
 
  
@@ -51,8 +51,8 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014). [[link]](https
 ## Analysis methods for efficient study designs<a name="method"></a>
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
-“Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021). [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)(<br/>
+“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
 
    
 Norman Breslow and **Jie Kate Hu**<br/>
@@ -79,8 +79,8 @@ Victoria Ding and **Jie Hu** Additive Hazards [[link]](https://addhazard.shinyap
   
 A tutorial - using the Atherosclerosis Risk in Communities Study (ARIC) dataset  <br/>
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
-“Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021).[[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
+“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3) <br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
    
 A tutorial - using the National Wilms Tumor Study dataset <br/>
 Listed on Ørnulf Borgan's webiste <br/>
@@ -93,8 +93,8 @@ For  applied science researchers:  <br/>
 **Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
 
 For semiparametric model developers
-"A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" <br/> 
-PhD Diss.*University of Washington ResearchWorks Archive* (2014). [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/>
+"A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
+PhD Diss.*University of Washington ResearchWorks Archive* (2014).  <br/>
 <small> Chapter 1 & 2 lay out on how to develop and extend semiparametric models systematically <small>
    
    
@@ -125,7 +125,7 @@ Report, 2015
 ## Theory <a name="theory"></a>
 
 Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
-“Z-estimation and Stratified Samples: Application to Survival Models” [[link]]([https://link.springer.com/article/10.1007/s10654-021-00739-3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4503541/))<br/>
+“Z-estimation and Stratified Samples: Application to Survival Models” [[link]]([https://link.springer.com/article/10.1007/s10654-021-00739-3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4503541/)<br/>
 *Lifetime Data Analysis*, 21, 493-516 (2015).<br/>
 
 **Jie Hu**  <br/>
@@ -146,15 +146,15 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014) [[link]](https:
 ##### Inflammatory Bowel Disease
 
 Afzali Anita, Christopher J. Park, Kehao Zhu, **Jie Kate Hu**, Prachi Sharma, Mika N. Sinanan, and Scott D. Lee<br/>
-“Preoperative Use of Methotrexate and the Risk of Early Postoperative Complications in Patients with Inflammatory Bowel Disease”<br/>
+“Preoperative Use of Methotrexate and the Risk of Early Postoperative Complications in Patients with Inflammatory Bowel Disease” <br/>
 *Inflammatory Bowel Diseases*, 22(8), 1887-95 (2016).<br/>
 
 Afzali Anita, Chelle L. Wheat, **Jie K. Hu**, John E. Olerud, and Scott D. Lee<br/>
-“The Association of Psoriasiform Rash with anti-Tumor Necrosis Factor (anti-TNF) Therapy in Inflammatory Bowel Disease: A Single Academic Center Case Series”<br/>
-*Journal of Crohn’s and Colitis*, 8(6), 480-488 (2014).<br/>
+“The Association of Psoriasiform Rash with anti-Tumor Necrosis Factor (anti-TNF) Therapy in Inflammatory Bowel Disease: A Single Academic Center Case Series” <br/>
+*Journal of Crohn’s and Colitis*, 8(6), 480-488 (2014). <br/>
 
 Manickavasagan,Hanisha, Butnariu Madalina, Porter Kyle , **Hu K. Jie**, Husain Syed, and Afzali Anita<br/>
-"Inflammatory Bowel Disease Patients with Type 2 Diabetes and Obesity have a Higher Annual Burden and Costs of Hospitalizations: A call for action”<br/>
+"Inflammatory Bowel Disease Patients with Type 2 Diabetes and Obesity have a Higher Annual Burden and Costs of Hospitalizations: A call for action” <br/>
 in submission. <br/>
 
 
