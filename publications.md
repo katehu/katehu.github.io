@@ -58,8 +58,8 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
 
    
 Norman Breslow and **Jie Kate Hu**<br/>
-"Survival Analysis of Case-Control Data: A Sample Survey Approach"<br/>
-*Handbook of Statistical Methods for Case-Control Studies*, Chapman and Hall/CRC, (2018).<br/>
+"Survival Analysis of Case-Control Data: A Sample Survey Approach" [[link]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/)<br/>
+*Handbook of Statistical Methods for Case-Control Studies*, Chapman and Hall/CRC, (2018). <br/>
 
 
 
@@ -182,14 +182,13 @@ A R package:<br/>
 
 A R shiny app:<br/>
 Victoria Ding and **Jie Hu** "Additive Hazards [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
-  
-A tutorial - using the Atherosclerosis Risk in Communities Study (ARIC) dataset  <br/>
-**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
-“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3) <br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
    
-A tutorial - using the National Wilms Tumor Study dataset <br/>
-Listed on Ørnulf Borgan's webiste <br/>
+Tutorial1 - using the National Wilms Tumor Study dataset [[link]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html), hosted by Department of Mathematics, University of Oslo<br/>
+
+Tutorial2 - using the Atherosclerosis Risk in Communities Study (ARIC) dataset  <br/>
+**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
+“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3) [[links to analysis code]] (https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-021-00739-3/MediaObjects/10654_2021_739_MOESM1_ESM.pdf)<br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
    
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" 
    [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
