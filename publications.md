@@ -23,11 +23,12 @@ My long term research interests are as follows. Discussions, suggestions, and co
 7. [Methods to integrate statistical models, measurements, and scientific knowledge for precision farm management](#measurement-model)
 8. [Make model developement transparent and accessible](#model)
 9. [Epistemology](#epistemology)
+10.[precision agriculture](#precision agriculture)
 
 
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
 
-## Smart use of auxiliary information in large complex data <a name="auxiliary"></a>
+## Leverage auxiliary information in large complex data <a name="auxiliary"></a>
    
 **Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
 “Leveraging Auxiliary Information to Adjust for Unmeasured Confounding in Time Series Study Designs”<br/>
@@ -37,12 +38,14 @@ in revision for *Nature Review Method Primer*
  **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
 *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
-<small> This article also includes methods and software for using auxiliary variables to improve inference precision.<small> <br/> 
+<small> This article includes methods and software for improving inference precision by leveraging auxiliary variables.<small> <br/> 
 
  **Jie Hu** <br/>
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014). [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/>
-<small> Chapter 4 & 5 include methods and results on using auxiliary variables to improve prediction precision based on survival models.<small>
+``` diff
+ + <small> Chapter 4 & 5 include methods and results for improving prediction precision from survival models by levering auxiliary variables.<small>
+ ```
  
 **Current work**: I am developing several methods to leverage auxiliary information to adjust for unmeasured confounding, using techniques in Bayesian statistics, econometrics, and proximal causal inference.<br/>
  
@@ -50,7 +53,7 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014). [[link]](https
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021). [[link]](<br/>
 
    
 Norman Breslow and **Jie Kate Hu**<br/>
@@ -61,7 +64,7 @@ Norman Breslow and **Jie Kate Hu**<br/>
 
 **Jie Kate Hu**, Gary Chan<br/>
 “Weights Determination in Generalized Case-Cohort Study”<br/>
-to be submitted. <br/>
+(plan to submit in January, 2023). <br/>
 
  
 
@@ -73,13 +76,12 @@ A R package:<br/>
 **Jie Hu** Fit Additive Hazards Models for Survival Analysis, CRAN - Package addhazard (2020).<br/>
 
 A R shiny app:<br/>
-Victoria Ding and **Jie Hu** <br/>
-[[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
+Victoria Ding and **Jie Hu** Additive Hazards [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
   
 A tutorial - using the Atherosclerosis Risk in Communities Study (ARIC) dataset  <br/>
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021).[[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
    
 A tutorial - using the National Wilms Tumor Study dataset <br/>
 Listed on Ørnulf Borgan's webiste <br/>
@@ -110,21 +112,23 @@ My next research interest is adatpive and scalable sampling designs<br/>
 ## Theory <a name="theory"></a>
 
 Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
-“Z-estimation and Stratified Samples: Application to Survival Models” [[link]]()<br/>
+“Z-estimation and Stratified Samples: Application to Survival Models” [[link]]([https://link.springer.com/article/10.1007/s10654-021-00739-3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4503541/))<br/>
 *Lifetime Data Analysis*, 21, 493-516 (2015).<br/>
 
 **Jie Hu**  <br/>
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" <br/>
-PhD Diss.*University of Washington ResearchWorks Archive* (2014) [link](https://digital.lib.washington.edu/researchworks/handle/1773/27427).<br/>
+PhD Diss.*University of Washington ResearchWorks Archive* (2014) [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427).<br/>
 <small> Chapter  2 provided theoretical tools to develop and extend semiparametric models. <small> <br/>
    
-https://link.springer.com/article/10.1007/s10654-021-00739-3 (hazard difference)
+**Jie Hu**, “A Z-estimation System: A Modular Approach to Model Development” <br/>
+(plan to resubmit in Feburary)
+   
 ## Applications <a name="application"></a> 
 
 ##### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021). [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
 
 ##### Inflammatory Bowel Disease
 
@@ -183,10 +187,10 @@ Biogeochemical Process Models. Technical Report, 2018<br/>
 
 ## Epistemology <a name="epistemology"></a> 
 
-My next interest is to discuss the concept of objectivity and its use in statistical research. Please email me if you are interested in discussion.<br/>
+My next interest is *objectivity*. Please email contact@katehu.com if you are interested in discussion.<br/>
    
 **Jie Kate Hu** , Xianlong Wang, Pei Wang <br/>
-“Testing Gene-gene Interactions in Genome Wide Association Studies”<br/> 
+“Testing Gene-gene Interactions in Genome Wide Association Studies” [[link]][https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4487553/]<br/> 
 *Genetic Epidemiology*, 38, 123-134 (2014). <br/>
    <small>  Studied definitions of gene-gene interaction; pointed out the flaws in comparison studies of gene-gene interaction testing methods in literature due to variation in definitions; provided conditions of when these tests were comparable <small>
 
