@@ -11,8 +11,8 @@ My currect research focus includes <br/>
 <!--2) use data science to improve planetary health --- human health and the state of the natural systems on which it depends, -->
 <!--3) and 3) advance precision agriculture. In particular, my research interests include the following -->
 
-1. [Leverage auxiliary information in large complex data to reduce bias and enhance inference precision](#auxiliary)
-2. [Analysis methods for efficient study designs](#method)
+1. [Analysis methods for efficient study designs](#method)
+2. [Leverage auxiliary information in large complex data to reduce bias and enhance inference precision](#auxiliary)
 3. [Theoretical tools for complex data methods development](#theory)
 4. [Applications in  public health, planetary health, and precision agriculture](#application)
 
@@ -30,24 +30,7 @@ My long term research interests also include: <br/>
 
 ## Leverage auxiliary information in large complex data <a name="auxiliary"></a>
    
-**Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
-“Leveraging Auxiliary Information to Adjust for Unmeasured Confounding in Time Series Study Designs”<br/>
-in revision for *Nature Review Method Primer* <br/>
- 
-  
- **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
-“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
-<small> This article includes methods and software for improving inference precision by leveraging auxiliary variables.<small> <br/> 
 
- **Jie Hu** <br/>
-"A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" 
-   [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
-PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
-<small> Chapters 4, 5, 6 include methods and results for improving prediction precision from survival models by levering auxiliary variables.<small>
-
- 
-**Current work**: I am developing several methods to leverage auxiliary information to adjust for unmeasured confounding, using techniques in Bayesian statistics, econometrics, and proximal causal inference. I focus on recovering the causal estimand for continuous exposure, which is often the case for environmental exposure. <br/>
    
 
 ## Analysis methods for efficient study designs<a name="method"></a>
@@ -67,6 +50,26 @@ Norman Breslow and **Jie Kate Hu**<br/>
 “Weights Determination in Generalized Case-Cohort Study”<br/>
 (plan to submit in January, 2023). <br/>
    
+   
+**Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
+“Leveraging Auxiliary Information to Adjust for Unmeasured Confounding in Time Series Study Designs”<br/>
+in revision for *Nature Review Method Primer* <br/>
+ 
+  
+ **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
+“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
+<small> This article includes methods and software for improving inference precision by leveraging auxiliary variables.<small> <br/> 
+
+ **Jie Hu** <br/>
+"A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" 
+   [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
+PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
+<small> Chapters 4, 5, 6 include methods and results for improving prediction precision from survival models by levering auxiliary variables.<small>
+
+ 
+**Current work**: I am developing several methods to leverage auxiliary information to adjust for unmeasured confounding, using techniques in Bayesian statistics, econometrics, and proximal causal inference. I focus on recovering the causal estimand for continuous exposure, which is often the case for environmental exposure. <br/>   
+   
 ## Theory <a name="theory"></a>
 
 Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
@@ -83,7 +86,7 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014) [[link]](https:
    
  
 
- ## Applications <a name="application"></a> 
+## Applications <a name="application"></a> 
 
 **Current work**: I am studying the climate hazard patterns of wildfire, wildfire smoke, extreme heat, and flood, as well as their short-term health impacts with collaborators.
    
@@ -177,23 +180,23 @@ Report*, The Climate Corporation, 2015
 ## Additive hazards model <a name="ah"></a>
    
 A R package:<br/>
-**Jie Hu** "Fit Additive Hazards Models for Survival Analysis", CRAN - Package addhazard (2020). [[link1]](https://github.com/katehu/addhazard) [[link2]](https://cran.r-project.org/web/packages/addhazard/index.html)<br/> 
-[A user's manual](https://cran.r-project.org/web/packages/addhazard/addhazard.pdf)
+**Jie Hu** "Fit Additive Hazards Models for Survival Analysis", CRAN - Package *addhazard* (2020). [[link1]](https://github.com/katehu/addhazard) [[link2]](https://cran.r-project.org/web/packages/addhazard/index.html)<br/> 
+[[link to A user's manual]](https://cran.r-project.org/web/packages/addhazard/addhazard.pdf)
 
 A R shiny app:<br/>
 Victoria Ding and **Jie Hu** "Additive Hazards [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
    
-Tutorial1 - using the National Wilms Tumor Study dataset [[link]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html), hosted by Department of Mathematics, University of Oslo<br/>
+Tutorial1 - analysis of a National Wilms Tumor Study dataset [[link]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html), hosted by Department of Mathematics, University of Oslo<br/>
 
-Tutorial2 - using the Atherosclerosis Risk in Communities Study (ARIC) dataset  <br/>
+Tutorial2 - analysis of an Atherosclerosis Risk in Communities Study (ARIC) dataset  <br/>
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
-“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3) [[links to analysis code]] (https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-021-00739-3/MediaObjects/10654_2021_739_MOESM1_ESM.pdf)<br/>
+“Estimating Disease Hazard Differences from Case-Cohort Studies” [[links to scientific questions]](https://link.springer.com/article/10.1007/s10654-021-00739-3) [[links to analysis code]] (https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-021-00739-3/MediaObjects/10654_2021_739_MOESM1_ESM.pdf)<br/>
 *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
    
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" 
-   [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
+   [[link to validation results]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
-<small> Chapter 5 includes simulation studies to validate the methods and their implementations in the R package.<small>
+<small> Chapter 5 includes validation studies of all the estimators implemented in R package *addhazard*.<small>
 
 
 ## Methods to integrate statistical models, measurements, and scientific knowledge <a name="measurement-model"></a> 
