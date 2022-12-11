@@ -88,10 +88,10 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014) [[link]](https:
 
 ## Applications <a name="application"></a> 
 
-**Current work**: I am studying the climate hazard patterns of wildfire, wildfire smoke, extreme heat, and flood, as well as their short-term health impacts with collaborators.
+**Current work**: I am studying with collaborators the climate hazard patterns of wildfire, wildfire smoke, extreme heat, and flood, as well as their short-term health impacts.
    
 #### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
-I am looking for collaboration opportunities with practitioners who are treating cardiovascular diseases or are interested in potential biomakers. Please email contact@katehu.com if you have recommendations. 
+I am looking for collaboration opportunities with practitioners who are treating cardiovascular diseases or are interested in potential biomarkers. Please email [contact@katehu.com](contact@katehu.com) if you have recommendations. 
    
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
@@ -186,7 +186,7 @@ A R package:<br/>
 A R shiny app:<br/>
 Victoria Ding and **Jie Hu** "Additive Hazards [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
    
-Tutorial1 - analysis of a National Wilms Tumor Study dataset [[link to analysis]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html) <br/>
+Tutorial1 - analysis of a National Wilms Tumor Study dataset [[link to analysis code](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html) <br/>
 hosted by *Department of Mathematics, University of Oslo* <br/>
 
 Tutorial2 - analysis of an Atherosclerosis Risk in Communities Study (ARIC) dataset  
