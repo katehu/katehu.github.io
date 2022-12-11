@@ -109,16 +109,16 @@ My next research interest is adatpive and scalable sampling designs. Please emai
 **Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) [[link]](https://uspto.report/patent/grant/10,990,716) <br/>
 
 Zheng, ZS, **Hu, J**, Malone, M, Vogel N, A Time-Series Clustering
-Approach for Soil Moisture Probes Placement. Technical Report* , 2017
+Approach for Soil Moisture Probes Placement. Technical Report*, The Climate Corporation, 2017
 
 **Hu, J**, A Model-Assisted Probability Sampling Design for Representative
-Locations. Technical Report*, 2017
+Locations. Technical Report*, The Climate Corporation, 2017
    
-**Hu, J**, Evaluation of the 2015 Climatology Field Experiments. Technical Report,
+**Hu, J**, Evaluation of the 2015 Climatology Field Experiments. Technical Report*, The Climate Corporation,
 2015
    
 **Hu, J**, Variable Seeding Rate Corn Research Partner Trials Analysis, Technical
-Report*, 2015  
+Report*, The Climate Corporation, 2015  
    
 *<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
    
@@ -191,10 +191,10 @@ https://mjdvl.shinyapps.io/NCASI_APP/ (2022)<br/>
 Agricultural Management Decisions. (U.S. Patent No. #11,406,053) [[[link]]](https://uspto.report/patent/grant/11,406,053)(<br/>
    
 • **Hu**, J, Casquilho C., Chen, M, Combining Measurements and Models for
-Nitrogen Management. Technical Report*, 2018 <br/>
+Nitrogen Management. Technical Report*, The Climate Corporation, 2018 <br/>
    
 • **Hu**, J,, Adjust Measurement-based Nitrogen Management Decisions using
-Biogeochemical Process Models. Technical Report*, 2018<br/>
+Biogeochemical Process Models. Technical Report*,The Climate Corporation, 2018<br/>
 
 *<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
 
