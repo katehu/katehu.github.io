@@ -108,16 +108,16 @@ My next research interest is adatpive and scalable sampling designs. Please emai
 
 **Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) [[link]](https://uspto.report/patent/grant/10,990,716)) <br/>
 
-Zeshi Zheng, *Kate Hu*, Mike Malone, Nicholas Vogel, A Time-Series Clustering
+Zheng, ZS, **Hu, J**, Malone, M, Vogel N, A Time-Series Clustering
 Approach for Soil Moisture Probes Placement. Technical Report* , 2017
 
-*Kate Hu*, A Model-Assisted Probability Sampling Design for Representative
+**Hu, J**, A Model-Assisted Probability Sampling Design for Representative
 Locations. Technical Report*, 2017
    
-*Kate Hu*, Evaluation of the 2015 Climatology Field Experiments. Technical Report,
+**Hu, J**, Evaluation of the 2015 Climatology Field Experiments. Technical Report,
 2015
    
-*Kate Hu*, Variable Seeding Rate Corn Research Partner Trials Analysis, Technical
+**Hu, J**, Variable Seeding Rate Corn Research Partner Trials Analysis, Technical
 Report, 2015  
 *<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
    
@@ -186,13 +186,13 @@ https://mjdvl.shinyapps.io/NCASI_APP/ (2022)<br/>
 
 ## Methods to integrate statistical models, measurements, and scientific knowledge <a name="measurement-model"></a> 
    
-Hu, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
+• **Hu**, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
 Agricultural Management Decisions. (U.S. Patent No. #11,406,053) [[[link]]](https://uspto.report/patent/grant/11,406,053)(<br/>
    
-• Kate Hu, Camila Casquilho, Megan Chen, Combining Measurements and Models for
+• **Hu**, J, Casquilho C., Chen, M, Combining Measurements and Models for
 Nitrogen Management. Technical Report*, 2018 <br/>
    
-• Kate Hu, Adjust Measurement-based Nitrogen Management Decisions using
+• **Hu**, J,, Adjust Measurement-based Nitrogen Management Decisions using
 Biogeochemical Process Models. Technical Report*, 2018<br/>
 
 *<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
@@ -202,8 +202,8 @@ Biogeochemical Process Models. Technical Report*, 2018<br/>
 My next interest is *objectivity*. Please email contact@katehu.com if you are interested in discussion.<br/>
    
 **Jie Kate Hu** , Xianlong Wang, Pei Wang <br/>
-“Testing Gene-gene Interactions in Genome Wide Association Studies” [[link]][https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4487553/]<br/> 
+“Testing Gene-gene Interactions in Genome Wide Association Studies” [[link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4487553/)<br/> 
 *Genetic Epidemiology*, 38, 123-134 (2014). <br/>
-   <small>  Studied definitions of gene-gene interaction; pointed out the flaws in comparison studies of gene-gene interaction testing methods in literature due to variation in definitions; provided conditions of when these tests were comparable <small>
+   <small>  Studied definitions of gene-gene interaction; pointed out the flaws in comparison studies of gene-gene interaction testing methods in literature due to variation in definitions; provided conditions of when these tests were comparable <small>  <br/>
 
       
