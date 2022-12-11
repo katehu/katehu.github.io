@@ -41,7 +41,8 @@ in revision for *Nature Review Method Primer* <br/>
 <small> This article includes methods and software for improving inference precision by leveraging auxiliary variables.<small> <br/> 
 
  **Jie Hu** <br/>
-"A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427)<br/> 
+"A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" 
+   [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
 <small> Chapter 4 & 5 include methods and results for improving prediction precision from survival models by levering auxiliary variables.<small>
 
@@ -72,10 +73,10 @@ Norman Breslow and **Jie Kate Hu**<br/>
 ## Additive hazards model <a name="ah"></a>
    
 A R package:<br/>
-**Jie Hu** Fit Additive Hazards Models for Survival Analysis, CRAN - Package addhazard (2020).<br/>
+**Jie Hu** "Fit Additive Hazards Models for Survival Analysis", CRAN - Package addhazard (2020).<br/>
 
 A R shiny app:<br/>
-Victoria Ding and **Jie Hu** Additive Hazards [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
+Victoria Ding and **Jie Hu** "Additive Hazards [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
   
 A tutorial - using the Atherosclerosis Risk in Communities Study (ARIC) dataset  <br/>
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
@@ -87,7 +88,6 @@ Listed on Ørnulf Borgan's webiste <br/>
    
 ## Make model developement transparent and accessible <a name="model"></a>
 
-This work is under construction and it is not fully in public. <br/>
 
 For  applied science researchers:  <br/>
 **Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
@@ -104,7 +104,7 @@ My next research interest is adatpive and scalable sampling designs. Please emai
    
 **Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
 
-**Hu, J** & Ladoni, M. (2021) Location Selection for Treatment Sampling ---A field Study Design Tool to Optimize Treatment Assignment and Soil Sampling Locations for Model Calibration. (U.S. Patent No. #10,963,606)[[link]](https://uspto.report/patent/grant/10,963,606) <br/> 
+**Hu, J** & Ladoni, M. (2021) Location Selection for Treatment Sampling ---A field Study Design Tool to Optimize Treatment Assignment and Soil Sampling Locations for Model Calibration. (U.S. Patent No. #10,963,606) [[link]](https://uspto.report/patent/grant/10,963,606) <br/> 
 
 **Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) [[link]](https://uspto.report/patent/grant/10,990,716) <br/>
 
@@ -126,7 +126,7 @@ Report*, The Climate Corporation, 2015
 ## Theory <a name="theory"></a>
 
 Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
-“Z-estimation and Stratified Samples: Application to Survival Models” [[link]]([https://link.springer.com/article/10.1007/s10654-021-00739-3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4503541/)<br/>
+“Z-estimation and Stratified Samples: Application to Survival Models” [[link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4503541/)<br/>
 *Lifetime Data Analysis*, 21, 493-516 (2015).<br/>
 
 **Jie Hu**  <br/>
@@ -139,10 +139,6 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014) [[link]](https:
    
 ## Applications <a name="application"></a> 
 
-##### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
-**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
-“Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021). [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
 
 ##### Inflammatory Bowel Disease
 
@@ -157,6 +153,13 @@ Afzali Anita, Chelle L. Wheat, **Jie K. Hu**, John E. Olerud, and Scott D. Lee<b
 Manickavasagan,Hanisha, Butnariu Madalina, Porter Kyle , **Hu K. Jie**, Husain Syed, and Afzali Anita<br/>
 "Inflammatory Bowel Disease Patients with Type 2 Diabetes and Obesity have a Higher Annual Burden and Costs of Hospitalizations: A call for action” <br/>
 in submission. <br/>
+
+##### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
+**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
+“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
+<small> we observed a synergistic effect of the hs-CRP and Lp-PLA2 biomarkers on coronary heart disease hazard rate among participants with lower LDL cholesterol. <small>
+
 
 
 
@@ -177,13 +180,13 @@ submitted to *Environmental Science & Technology* <br/>
 
 Keith R. Spangler, Quinn H. Adams, **Jie Kate Hu**, Danielle Braun, Kate R. Weinberger, Francesca Dominici, and Gregory A. Wellenius <br/>
 “Does Choice of Outdoor Heat Metric Affect Heat-Related Epidemiologic Analyses in the US Medicare Population?”<br/> 
-in submission <br/>
+submitted to "Environmental Epidemiology" <br/>
 
 #### Forest
 
 Maxwell J.D. VanLandschoot, Julian Schmitte, (mentored by Kelly McConville & **Jie Kate Hu**)<br/>
-"Climate and Tree Species Distributions Change – Informing Forestry professionals, Conservationists, and Regulators the Potential Impacts of Climate Change on US Forests" <br/>
-https://mjdvl.shinyapps.io/NCASI_APP/ (2022)<br/>
+"A Dashboard to Visualize Climate and Tree Species Change – Informing Forestry professionals, Conservationists, and Regulators the Potential Impacts of Climate Change on US Forests" [[link]] https://mjdvl.shinyapps.io/NCASI_APP/ (2022) <br/>
+
 
 ## Methods to integrate statistical models, measurements, and scientific knowledge <a name="measurement-model"></a> 
    
