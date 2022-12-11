@@ -14,9 +14,9 @@ My currect research focus includes <br/>
 1. [Leverage auxiliary information in large complex data to reduce bias and enhance inference precision](#auxiliary)
 2. [Analysis methods for efficient study designs](#method)
 3. [Theoretical tools for complex data methods development](#theory)
-4. [Applications in  public health, planetary science, and precision agriculture](#application)
+4. [Applications in  public health, planetary health, and precision agriculture](#application)
 
-My long term research interests are as follows. Discussions, suggestions, and collaborations are welcome!<br/>
+My long term research interests also include as follows. <br/>
 
 5. [Sampling designs with and for new technologies](#study-design)
 6. [Additive hazards models](#ah)
@@ -139,8 +139,18 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014) [[link]](https:
    
 ## Applications <a name="application"></a> 
 
+**Current work**: I am studying the climate hazard patterns of wildfire, wildfire smoke, extreme heat, and flood, as well as their short-term health impacts with collaborators.
+   
+##### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
+I am looking for collaboration opportunities with practitioners who are treating cardiovascular diseases and interested in research on potential biomakers. Please email contact@katehu.com if you have recommendations. 
+   
+**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
+“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
+<small> we observed a synergistic effect of the hs-CRP and Lp-PLA2 biomarkers on coronary heart disease hazard rate among participants with lower LDL cholesterol. <small>
 
-##### Inflammatory Bowel Disease
+   
+##### Inflammatory Bowel Disease (Collaborator: Afzali Anita [[link]](https://med.uc.edu/landing-pages/faculty-profile/index/pubs/afzaliaa))
 
 Afzali Anita, Christopher J. Park, Kehao Zhu, **Jie Kate Hu**, Prachi Sharma, Mika N. Sinanan, and Scott D. Lee<br/>
 “Preoperative Use of Methotrexate and the Risk of Early Postoperative Complications in Patients with Inflammatory Bowel Disease” <br/>
@@ -154,11 +164,6 @@ Manickavasagan,Hanisha, Butnariu Madalina, Porter Kyle , **Hu K. Jie**, Husain S
 "Inflammatory Bowel Disease Patients with Type 2 Diabetes and Obesity have a Higher Annual Burden and Costs of Hospitalizations: A call for action” <br/>
 in submission. <br/>
 
-##### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
-**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
-“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
-<small> we observed a synergistic effect of the hs-CRP and Lp-PLA2 biomarkers on coronary heart disease hazard rate among participants with lower LDL cholesterol. <small>
 
 
 
@@ -172,7 +177,7 @@ in submission. <br/>
 <!--Precision agriculture**Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) -->
 
 
-#### Air
+#### Air quality and climate hazards (Collaborators: Center for Climate & Health, Boston University [[link]](https://sites.bu.edu/climateandhealth/)
 
 Zixu Zhao, Melissa Lunden, **Jie Kate Hu**, Brian Lafranchi, Yutong Liang, Caleb Arata, Erin Katz, Allen H. Goldstein, Haofei Zhang <br/>
 “Air Pollution Mapping and Machine Learning Reveal Key Factors for Distinct Community-level Exposures in San Francisco, California” <br/>
@@ -180,18 +185,18 @@ submitted to *Environmental Science & Technology* <br/>
 
 Keith R. Spangler, Quinn H. Adams, **Jie Kate Hu**, Danielle Braun, Kate R. Weinberger, Francesca Dominici, and Gregory A. Wellenius <br/>
 “Does Choice of Outdoor Heat Metric Affect Heat-Related Epidemiologic Analyses in the US Medicare Population?”<br/> 
-submitted to "Environmental Epidemiology" <br/>
+submitted to *Environmental Epidemiology* <br/>
 
-#### Forest
+#### Forest (collaborators: Kelly McConville [link](us forest service); US Forest Service; NCASI, Inc [link](https://www.ncasifoundation.org/))
 
 Maxwell J.D. VanLandschoot, Julian Schmitte, (mentored by Kelly McConville & **Jie Kate Hu**)<br/>
-"A Dashboard to Visualize Climate and Tree Species Change – Informing Forestry professionals, Conservationists, and Regulators the Potential Impacts of Climate Change on US Forests" [[link]] https://mjdvl.shinyapps.io/NCASI_APP/ (2022) <br/>
+"A Dashboard to Visualize Climate and Tree Species Change – Informing Forestry professionals, Conservationists, and Regulators the Potential Impacts of Climate Change on US Forests" [[link]](https://mjdvl.shinyapps.io/NCASI_APP/) (2022) <br/>
 
 
 ## Methods to integrate statistical models, measurements, and scientific knowledge <a name="measurement-model"></a> 
    
 • **Hu**, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
-Agricultural Management Decisions. (U.S. Patent No. #11,406,053) [[[link]]](https://uspto.report/patent/grant/11,406,053)(<br/>
+Agricultural Management Decisions. (U.S. Patent No. #11,406,053) [[link]](https://uspto.report/patent/grant/11,406,053)<br/>
    
 • **Hu**, J, Casquilho C., Chen, M, Combining Measurements and Models for
 Nitrogen Management. Technical Report*, The Climate Corporation, 2018 <br/>
