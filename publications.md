@@ -142,7 +142,7 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014) [[link]](https:
 **Current work**: I am studying the climate hazard patterns of wildfire, wildfire smoke, extreme heat, and flood, as well as their short-term health impacts with collaborators.
    
 #### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
-I am looking for collaboration opportunities with practitioners who are treating cardiovascular diseases and interested in research on potential biomakers. Please email contact@katehu.com if you have recommendations. 
+I am looking for collaboration opportunities with practitioners who are treating cardiovascular diseases or are interested in potential biomakers. Please email contact@katehu.com if you have recommendations. 
    
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
@@ -150,7 +150,8 @@ I am looking for collaboration opportunities with practitioners who are treating
 <small> we observed a synergistic effect of the hs-CRP and Lp-PLA2 biomarkers on coronary heart disease hazard rate among participants with lower LDL cholesterol. <small>
 
    
-#### Inflammatory Bowel Disease <--!Collaborator: Afzali Anita [[link]](https://med.uc.edu/landing-pages/faculty-profile/index/pubs/afzaliaa))-->
+#### Inflammatory Bowel Disease 
+   <--!Collaborator: Afzali Anita [[link]](https://med.uc.edu/landing-pages/faculty-profile/index/pubs/afzaliaa))-->
 
 Afzali Anita, Christopher J. Park, Kehao Zhu, **Jie Kate Hu**, Prachi Sharma, Mika N. Sinanan, and Scott D. Lee<br/>
 “Preoperative Use of Methotrexate and the Risk of Early Postoperative Complications in Patients with Inflammatory Bowel Disease” <br/>
@@ -177,7 +178,8 @@ in submission. <br/>
 <!--Precision agriculture**Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) -->
 
 
-#### Air quality and climate hazards <--!(Collaborators: Center for Climate & Health, Boston University [[link]](https://sites.bu.edu/climateandhealth/))-->
+#### Air quality and climate hazards 
+   <--!(Collaborators: Center for Climate & Health, Boston University [[link]](https://sites.bu.edu/climateandhealth/))-->
 
 Zixu Zhao, Melissa Lunden, **Jie Kate Hu**, Brian Lafranchi, Yutong Liang, Caleb Arata, Erin Katz, Allen H. Goldstein, Haofei Zhang <br/>
 “Air Pollution Mapping and Machine Learning Reveal Key Factors for Distinct Community-level Exposures in San Francisco, California” <br/>
@@ -187,7 +189,9 @@ Keith R. Spangler, Quinn H. Adams, **Jie Kate Hu**, Danielle Braun, Kate R. Wein
 “Does Choice of Outdoor Heat Metric Affect Heat-Related Epidemiologic Analyses in the US Medicare Population?”<br/> 
 submitted to *Environmental Epidemiology* <br/>
 
-#### Forest <--! collaborators: Kelly McConville [link](https://mcconville.rbind.io/summer_2023.html); US Forest Service; NCASI, Inc [[link]](https://www.ncasifoundation.org/)) -->
+#### Forest 
+   <--! collaborators: Kelly McConville [link](https://mcconville.rbind.io/summer_2023.html)-->
+   <--! US Forest Service; NCASI, Inc [[link]](https://www.ncasifoundation.org/)) -->
 
 Maxwell J.D. VanLandschoot, Julian Schmitte, (mentored by Kelly McConville & **Jie Kate Hu**)<br/>
 "A Dashboard to Visualize Climate and Tree Species Change – Informing Forestry professionals, Conservationists, and Regulators the Potential Impacts of Climate Change on US Forests" [[link]](https://mjdvl.shinyapps.io/NCASI_APP/) (2022) <br/>
