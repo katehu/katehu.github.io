@@ -28,8 +28,6 @@ My long term research interests also include: <br/>
 
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
 
-## Leverage auxiliary information in large complex data <a name="auxiliary"></a>
-   
 
    
 
@@ -50,7 +48,9 @@ Norman Breslow and **Jie Kate Hu**<br/>
 “Weights Determination in Generalized Case-Cohort Study”<br/>
 (plan to submit in January, 2023). <br/>
    
-   
+
+## Leverage auxiliary information in large complex data <a name="auxiliary"></a>
+      
 **Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
 “Leveraging Auxiliary Information to Adjust for Unmeasured Confounding in Time Series Study Designs”<br/>
 in revision for *Nature Review Method Primer* <br/>
@@ -154,7 +154,7 @@ Maxwell J.D. VanLandschoot, Julian Schmitte, (mentored by Kelly McConville & **J
    
 ## Sampling designs with and for new technologies <a name="study-design"></a>
 
-My next research interest is adatpive and scalable sampling design. Please email contact@katehu.com if you are interested in discussion. <br/>
+My next research interest is adatpive and scalable sampling design. Please email [contact@katehu.com](contact@katehu.com) if we share a common interest. <br/>
    
 **Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
 
@@ -186,12 +186,12 @@ A R package:<br/>
 A R shiny app:<br/>
 Victoria Ding and **Jie Hu** "Additive Hazards [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
    
-Tutorial1 - analysis of a National Wilms Tumor Study dataset [[link]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html), hosted by Department of Mathematics, University of Oslo<br/>
+Tutorial1 - analysis of a National Wilms Tumor Study dataset [[link to analysis]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html) <br/>
+hosted by *Department of Mathematics, University of Oslo* <br/>
 
-Tutorial2 - analysis of an Atherosclerosis Risk in Communities Study (ARIC) dataset  <br/>
-**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
-“Estimating Disease Hazard Differences from Case-Cohort Studies” [[links to scientific questions]](https://link.springer.com/article/10.1007/s10654-021-00739-3) [[links to analysis code]] (https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-021-00739-3/MediaObjects/10654_2021_739_MOESM1_ESM.pdf)<br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
+Tutorial2 - analysis of an Atherosclerosis Risk in Communities Study (ARIC) dataset  
+[[link to analysis code]](https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-021-00739-3/MediaObjects/10654_2021_739_MOESM1_ESM.pdf) [[link to scientific questions]](https://link.springer.com/article/10.1007/s10654-021-00739-3) <br/>
+hosted by *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
    
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" 
    [[link to validation results]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
@@ -215,20 +215,21 @@ Biogeochemical Process Models. Technical Report*,The Climate Corporation, 2018<b
    
 ## Make model developement transparent and accessible <a name="model"></a>
 
-This  a long-term research program 
-For  applied science researchers:  <br/>
+This is a long-term research program. I will update sparingly <br/>
+   
+For students and applied science researchers:  <br/>
 **Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
 
 For semiparametric model developers: <br/>
 **Hu, J** "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014).  <br/>
-<small> Chapter 1 & 2 lay out on how to develop and extend semiparametric models systematically <small>
+<small> Chapter 1 & 2 lay out how to develop and extend semiparametric models systematically <small>
       
    
 
 ## Epistemology <a name="epistemology"></a> 
 
-My next interest is *objectivity*. Please email contact@katehu.com if you are interested in discussion.<br/>
+My current research interest is *objectivity*. Please email [contact@katehu.com](contact@katehu.com) if you are interested in discussion. <br/>
    
 **Jie Kate Hu** , Xianlong Wang, Pei Wang <br/>
 “Testing Gene-gene Interactions in Genome Wide Association Studies” [[link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4487553/)<br/> 
