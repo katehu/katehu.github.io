@@ -92,8 +92,8 @@ This work is under construction and it is not fully in public. <br/>
 For  applied science researchers:  <br/>
 **Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
 
-For semiparametric model developers
-"A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
+For semiparametric model developers: <br/>
+**Hu, J** "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014).  <br/>
 <small> Chapter 1 & 2 lay out on how to develop and extend semiparametric models systematically <small>
    
@@ -106,7 +106,7 @@ My next research interest is adatpive and scalable sampling designs. Please emai
 
 **Hu, J** & Ladoni, M. (2021) Location Selection for Treatment Sampling ---A field Study Design Tool to Optimize Treatment Assignment and Soil Sampling Locations for Model Calibration. (U.S. Patent No. #10,963,606)[[link]](https://uspto.report/patent/grant/10,963,606) <br/> 
 
-**Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) [[link]](https://uspto.report/patent/grant/10,990,716)) <br/>
+**Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) [[link]](https://uspto.report/patent/grant/10,990,716) <br/>
 
 Zheng, ZS, **Hu, J**, Malone, M, Vogel N, A Time-Series Clustering
 Approach for Soil Moisture Probes Placement. Technical Report* , 2017
@@ -118,7 +118,8 @@ Locations. Technical Report*, 2017
 2015
    
 **Hu, J**, Variable Seeding Rate Corn Research Partner Trials Analysis, Technical
-Report, 2015  
+Report*, 2015  
+   
 *<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
    
    
