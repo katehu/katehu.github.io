@@ -23,7 +23,7 @@ My long term research interests are as follows. Discussions, suggestions, and co
 7. [Methods to integrate statistical models, measurements, and scientific knowledge for precision farm management](#measurement-model)
 8. [Make model developement transparent and accessible](#model)
 9. [Epistemology](#epistemology)
-10.[precision agriculture](#agriculture)
+
 
 
 <small> Publications are grouped by topics. Papers written for dual purposes appear under two categories.<small>
