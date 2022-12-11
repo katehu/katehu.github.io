@@ -179,12 +179,12 @@ Report*, The Climate Corporation, 2015
    
 ## Additive hazards model <a name="ah"></a>
    
-A R package:<br/>
+An R package:<br/>
 **Jie Hu** "Fit Additive Hazards Models for Survival Analysis", CRAN - Package *addhazard* (2020). [[link1]](https://github.com/katehu/addhazard) [[link2]](https://cran.r-project.org/web/packages/addhazard/index.html)<br/> 
 [[link to A user's manual]](https://cran.r-project.org/web/packages/addhazard/addhazard.pdf)
 
-A R shiny app:<br/>
-Victoria Ding and **Jie Hu** "Additive Hazards [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
+An R shiny app:<br/>
+Victoria Ding and **Jie Hu** Shinyapp *Additive Hazards* [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
    
 Tutorial1 - analysis of a National Wilms Tumor Study dataset [[link to analysis code](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html) <br/>
 hosted by *Department of Mathematics, University of Oslo* <br/>
