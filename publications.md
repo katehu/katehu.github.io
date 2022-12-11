@@ -44,11 +44,12 @@ in revision for *Nature Review Method Primer* <br/>
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" 
    [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
-<small> Chapter 4 & 5 include methods and results for improving prediction precision from survival models by levering auxiliary variables.<small>
+<small> Chapters 4, 5, 6 include methods and results for improving prediction precision from survival models by levering auxiliary variables.<small>
 
  
-**Current work**: I am developing several methods to leverage auxiliary information to adjust for unmeasured confounding, using techniques in Bayesian statistics, econometrics, and proximal causal inference.<br/>
- 
+**Current work**: I am developing several methods to leverage auxiliary information to adjust for unmeasured confounding, using techniques in Bayesian statistics, econometrics, and proximal causal inference. I focus on recovering the causal estimand for continuous exposure, which is often the case for environmental exposure. <br/>
+   
+
 ## Analysis methods for efficient study designs<a name="method"></a>
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
@@ -65,63 +66,6 @@ Norman Breslow and **Jie Kate Hu**<br/>
 **Jie Kate Hu**, Gary Chan <br/>
 “Weights Determination in Generalized Case-Cohort Study”<br/>
 (plan to submit in January, 2023). <br/>
-
- 
-
-   
-
-## Additive hazards model <a name="ah"></a>
-   
-A R package:<br/>
-**Jie Hu** "Fit Additive Hazards Models for Survival Analysis", CRAN - Package addhazard (2020).<br/>
-
-A R shiny app:<br/>
-Victoria Ding and **Jie Hu** "Additive Hazards [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
-  
-A tutorial - using the Atherosclerosis Risk in Communities Study (ARIC) dataset  <br/>
-**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
-“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3) <br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
-   
-A tutorial - using the National Wilms Tumor Study dataset <br/>
-Listed on Ørnulf Borgan's webiste <br/>
-   
-## Make model developement transparent and accessible <a name="model"></a>
-
-
-For  applied science researchers:  <br/>
-**Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
-
-For semiparametric model developers: <br/>
-**Hu, J** "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
-PhD Diss.*University of Washington ResearchWorks Archive* (2014).  <br/>
-<small> Chapter 1 & 2 lay out on how to develop and extend semiparametric models systematically <small>
-   
-   
-## Sampling designs with and for new technologies <a name="study-design"></a>
-
-My next research interest is adatpive and scalable sampling design. Please email contact@katehu.com if you are interested in discussion. <br/>
-   
-**Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
-
-**Hu, J** & Ladoni, M. (2021) Location Selection for Treatment Sampling ---A field Study Design Tool to Optimize Treatment Assignment and Soil Sampling Locations for Model Calibration. (U.S. Patent No. #10,963,606) [[link]](https://uspto.report/patent/grant/10,963,606) <br/> 
-
-**Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) [[link]](https://uspto.report/patent/grant/10,990,716) <br/>
-
-Zheng, ZS, **Hu, J**, Malone, M, Vogel N, A Time-Series Clustering
-Approach for Soil Moisture Probes Placement. Technical Report*, The Climate Corporation, 2017
-
-**Hu, J**, A Model-Assisted Probability Sampling Design for Representative
-Locations. Technical Report*, The Climate Corporation, 2017
-   
-**Hu, J**, Evaluation of the 2015 Climatology Field Experiments. Technical Report*, The Climate Corporation,
-2015
-   
-**Hu, J**, Variable Seeding Rate Corn Research Partner Trials Analysis, Technical
-Report*, The Climate Corporation, 2015  
-   
-*<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
-   
    
 ## Theory <a name="theory"></a>
 
@@ -137,7 +81,9 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014) [[link]](https:
 **Jie Hu**, “A Z-estimation System: A Modular Approach to Model Development” <br/>
 (plan to resubmit in Feburary) <br/>
    
-## Applications <a name="application"></a> 
+ 
+
+ ## Applications <a name="application"></a> 
 
 **Current work**: I am studying the climate hazard patterns of wildfire, wildfire smoke, extreme heat, and flood, as well as their short-term health impacts with collaborators.
    
@@ -151,7 +97,7 @@ I am looking for collaboration opportunities with practitioners who are treating
 
    
 #### Inflammatory Bowel Disease 
-   <--!Collaborator: Afzali Anita [[link]](https://med.uc.edu/landing-pages/faculty-profile/index/pubs/afzaliaa))-->
+   <!--Collaborator: Afzali Anita [[link]](https://med.uc.edu/landing-pages/faculty-profile/index/pubs/afzaliaa))-->
 
 Afzali Anita, Christopher J. Park, Kehao Zhu, **Jie Kate Hu**, Prachi Sharma, Mika N. Sinanan, and Scott D. Lee<br/>
 “Preoperative Use of Methotrexate and the Risk of Early Postoperative Complications in Patients with Inflammatory Bowel Disease” <br/>
@@ -179,7 +125,7 @@ in submission. <br/>
 
 
 #### Air quality and climate hazards 
-   <--!(Collaborators: Center for Climate & Health, Boston University [[link]](https://sites.bu.edu/climateandhealth/))-->
+   <!--(Collaborators: Center for Climate & Health, Boston University [[link]](https://sites.bu.edu/climateandhealth/)) -->
 
 Zixu Zhao, Melissa Lunden, **Jie Kate Hu**, Brian Lafranchi, Yutong Liang, Caleb Arata, Erin Katz, Allen H. Goldstein, Haofei Zhang <br/>
 “Air Pollution Mapping and Machine Learning Reveal Key Factors for Distinct Community-level Exposures in San Francisco, California” <br/>
@@ -190,25 +136,93 @@ Keith R. Spangler, Quinn H. Adams, **Jie Kate Hu**, Danielle Braun, Kate R. Wein
 submitted to *Environmental Epidemiology* <br/>
 
 #### Forest 
-   <--! collaborators: Kelly McConville [link](https://mcconville.rbind.io/summer_2023.html)-->
-   <--! US Forest Service; NCASI, Inc [[link]](https://www.ncasifoundation.org/)) -->
+   <!-- collaborators: Kelly McConville [link](https://mcconville.rbind.io/summer_2023.html) -->
+   <!-- US Forest Service; NCASI, Inc [[link]](https://www.ncasifoundation.org/)) -->
 
 Maxwell J.D. VanLandschoot, Julian Schmitte, (mentored by Kelly McConville & **Jie Kate Hu**)<br/>
 "A Dashboard to Visualize Climate and Tree Species Change – Informing Forestry professionals, Conservationists, and Regulators the Potential Impacts of Climate Change on US Forests" [[link]](https://mjdvl.shinyapps.io/NCASI_APP/) (2022) <br/>
 
 
+
+   
+
+
+
+   
+## Sampling designs with and for new technologies <a name="study-design"></a>
+
+My next research interest is adatpive and scalable sampling design. Please email contact@katehu.com if you are interested in discussion. <br/>
+   
+**Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
+
+**Hu, J** & Ladoni, M. (2021) Location Selection for Treatment Sampling ---A field Study Design Tool to Optimize Treatment Assignment and Soil Sampling Locations for Model Calibration. (U.S. Patent No. #10,963,606) [[link]](https://uspto.report/patent/grant/10,963,606) <br/> 
+
+**Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) [[link]](https://uspto.report/patent/grant/10,990,716) <br/>
+
+Zheng, ZS, **Hu, J**, Malone, M, Vogel N, A Time-Series Clustering
+Approach for Soil Moisture Probes Placement. Technical Report*, The Climate Corporation, 2017
+
+**Hu, J**, A Model-Assisted Probability Sampling Design for Representative
+Locations. Technical Report*, The Climate Corporation, 2017
+   
+**Hu, J**, Evaluation of the 2015 Climatology Field Experiments. Technical Report*, The Climate Corporation,
+2015
+   
+**Hu, J**, Variable Seeding Rate Corn Research Partner Trials Analysis, Technical
+Report*, The Climate Corporation, 2015  
+   
+*<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
+   
+   
+## Additive hazards model <a name="ah"></a>
+   
+A R package:<br/>
+**Jie Hu** "Fit Additive Hazards Models for Survival Analysis", CRAN - Package addhazard (2020). [[link1]](https://github.com/katehu/addhazard) [[link2]](https://cran.r-project.org/web/packages/addhazard/index.html)<br/> 
+[A user's manual](https://cran.r-project.org/web/packages/addhazard/addhazard.pdf)
+
+A R shiny app:<br/>
+Victoria Ding and **Jie Hu** "Additive Hazards [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
+  
+A tutorial - using the Atherosclerosis Risk in Communities Study (ARIC) dataset  <br/>
+**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
+“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3) <br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
+   
+A tutorial - using the National Wilms Tumor Study dataset <br/>
+Listed on Ørnulf Borgan's webiste <br/>
+   
+"A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" 
+   [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
+PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
+<small> Chapter 5 includes simulation studies to validate the methods and their implementations in the R package.<small>
+
+
 ## Methods to integrate statistical models, measurements, and scientific knowledge <a name="measurement-model"></a> 
    
-• **Hu**, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
+**Hu**, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
 Agricultural Management Decisions. (U.S. Patent No. #11,406,053) [[link]](https://uspto.report/patent/grant/11,406,053)<br/>
    
-• **Hu**, J, Casquilho C., Chen, M, Combining Measurements and Models for
+**Hu**, J, Casquilho C., Chen, M, Combining Measurements and Models for
 Nitrogen Management. Technical Report*, The Climate Corporation, 2018 <br/>
    
-• **Hu**, J,, Adjust Measurement-based Nitrogen Management Decisions using
+**Hu**, J,, Adjust Measurement-based Nitrogen Management Decisions using
 Biogeochemical Process Models. Technical Report*,The Climate Corporation, 2018<br/>
 
 *<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
+   
+   
+## Make model developement transparent and accessible <a name="model"></a>
+
+This  a long-term research program 
+For  applied science researchers:  <br/>
+**Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
+
+For semiparametric model developers: <br/>
+**Hu, J** "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
+PhD Diss.*University of Washington ResearchWorks Archive* (2014).  <br/>
+<small> Chapter 1 & 2 lay out on how to develop and extend semiparametric models systematically <small>
+      
+   
 
 ## Epistemology <a name="epistemology"></a> 
 
