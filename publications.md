@@ -41,8 +41,7 @@ in revision for *Nature Review Method Primer*
 
  **Jie Hu** <br/>
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" <br/> 
-PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
-   [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/>
+PhD Diss.*University of Washington ResearchWorks Archive* (2014). [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/>
 <small> Chapter 4 & 5 include methods and results on using auxiliary variables to improve prediction precision based on survival models.<small>
  
 **Current work**: I am developing several methods to leverage auxiliary information to adjust for unmeasured confounding, using techniques in Bayesian statistics, econometrics, and proximal causal inference.<br/>
@@ -102,16 +101,16 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014). [[link]](https
 
 My next research interest is adatpive and scalable sampling designs<br/>
    
-**Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) <br/>
+**Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
 
-**Hu, J** & Ladoni, M. (2021) Location Selection for Treatment Sampling ---A field Study Design Tool to Optimize Treatment Assignment and Soil Sampling Locations for Model Calibration. (U.S. Patent No. #10,963,606)<br/>
+**Hu, J** & Ladoni, M. (2021) Location Selection for Treatment Sampling ---A field Study Design Tool to Optimize Treatment Assignment and Soil Sampling Locations for Model Calibration. (U.S. Patent No. #10,963,606)[[link]](https://uspto.report/patent/grant/10,963,606) <br/> 
 
-**Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) <br/>
+**Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) [[link]](https://uspto.report/patent/grant/10,990,716)) <br/>
 
 ## Theory <a name="theory"></a>
 
 Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
-“Z-estimation and Stratified Samples: Application to Survival Models”<br/>
+“Z-estimation and Stratified Samples: Application to Survival Models” [[link]]()<br/>
 *Lifetime Data Analysis*, 21, 493-516 (2015).<br/>
 
 **Jie Hu**  <br/>
@@ -119,7 +118,7 @@ Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
 PhD Diss.*University of Washington ResearchWorks Archive* (2014) [link](https://digital.lib.washington.edu/researchworks/handle/1773/27427).<br/>
 <small> Chapter  2 provided theoretical tools to develop and extend semiparametric models. <small> <br/>
    
-
+https://link.springer.com/article/10.1007/s10654-021-00739-3 (hazard difference)
 ## Applications <a name="application"></a> 
 
 ##### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
