@@ -37,12 +37,12 @@ in revision for *Nature Review Method Primer*
  **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
 *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
-<small> This article also includes methods on how to use auxiliary variable to improve inference precision.<small>
+<small> This article also includes methods and software for using auxiliary variables to improve inference precision.<small> <br/> 
 
  **Jie Hu** <br/>
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" <br/> 
-PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.washington.edu/researchworks/handle/1773/27427 (2014).<br/>
-<small> Chapter 4 & 5 include methods on using auxiliary variables to improve prediction precision based on survival models.<small>
+PhD Diss.*University of Washington ResearchWorks Archive* (2014)[link](https://digital.lib.washington.edu/researchworks/handle/1773/27427).<br/>
+<small> Chapter 4 & 5 include methods and results on using auxiliary variables to improve prediction precision based on survival models.<small>
  
 **Current work**: I am developing several methods to leverage auxiliary information to adjust for unmeasured confounding, using techniques in Bayesian statistics, econometrics, and proximal causal inference.<br/>
  
@@ -77,12 +77,12 @@ Victoria Ding and **Jie Hu** <br/>
 https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069 <br/>
   
 A tutorial - using the Atherosclerosis Risk in Communities Study (ARIC) dataset  <br/>
-**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
+**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies”<br/>
 *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
    
-A tutorial - using the National Wilms Tumor Study dataset<br/>
-Listed on Ørnulf Borgan's webiste<br/>
+A tutorial - using the National Wilms Tumor Study dataset <br/>
+Listed on Ørnulf Borgan's webiste <br/>
    
 ## Make model developement transparent and accessible <a name="model"></a>
 
@@ -93,7 +93,7 @@ For  applied science researchers:  <br/>
 
 For semiparametric model developers
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" <br/> 
-PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.washington.edu/researchworks/handle/1773/27427 (2014).
+PhD Diss.*University of Washington ResearchWorks Archive* [link](https://digital.lib.washington.edu/researchworks/handle/1773/27427)(2014).
 <small> Chapter 1 & 2 lay out on how to develop and extend semiparametric models systematically <small>
    
    
@@ -115,7 +115,7 @@ Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
 
 **Jie Hu**  <br/>
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" <br/>
-PhD Diss.*University of Washington ResearchWorks Archive* https://digital.lib.washington.edu/researchworks/handle/1773/27427 (2014).<br/>
+PhD Diss.*University of Washington ResearchWorks Archive* (2014) [link](https://digital.lib.washington.edu/researchworks/handle/1773/27427).<br/>
 <small> Chapter  2 provided theoretical tools to develop and extend semiparametric models. <small> <br/>
    
 
