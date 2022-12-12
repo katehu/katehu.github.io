@@ -21,7 +21,7 @@ My long term research interests also include: <br/>
 5. [Sampling designs with and for new technologies](#study-design)
 6. [Additive hazards models](#ah)
 7. [Make model developement transparent and accessible](#model)
-8. [Methods to integrate statistical models, measurements, and scientific knowledge for precision farm management](#measurement-model)
+8. [Methods to integrate statistical models, measurements, and scientific knowledge](#measurement-model)
 9. [Definition of interaction effects](#epistemology)
 
 
