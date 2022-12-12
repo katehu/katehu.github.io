@@ -22,7 +22,7 @@ My long term research interests also include: <br/>
 6. [Additive hazards models](#ah)
 7. [Make model developement transparent and accessible](#model)
 8. [Methods to integrate statistical models, measurements, and scientific knowledge for precision farm management](#measurement-model)
-9. [Epistemology](#epistemology)
+9. [Definition of interaction effects](#epistemology)
 
 
 
@@ -227,13 +227,13 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014).  <br/>
       
    
 
-## Epistemology <a name="epistemology"></a> 
+## Interaction effects <a name="epistemology"></a> 
 
-My current research interest is *objectivity*. Please email [contact@katehu.com](contact@katehu.com) if you are interested in discussion. <br/>
-   
+
 **Jie Kate Hu** , Xianlong Wang, Pei Wang <br/>
 “Testing Gene-gene Interactions in Genome Wide Association Studies” [[link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4487553/)<br/> 
 *Genetic Epidemiology*, 38, 123-134 (2014). <br/>
    <small>  Studied definitions of gene-gene interaction; pointed out the flaws in comparison studies of gene-gene interaction testing methods in literature due to variation in definitions; provided conditions of when these tests were comparable <small>  <br/>
 
-      
+Another research interest is the concept of *objectivity*. Please email [contact@katehu.com](contact@katehu.com) if you have thoughts on these topics and would like to find one to discuss with. <br/>
+     
