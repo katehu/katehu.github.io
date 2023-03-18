@@ -33,14 +33,10 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: About
     url: /
     external: false
     icon: home
-  - title: Publications
-    url: /publications
-  - title: CV
-    url: /cv.pdf
   - title: Proxies
     url: /proxies
   - title: Models
@@ -49,6 +45,10 @@ links:
     url: /agtech
   - title: Design
     url: /design
+  - title: Publications
+    url: /publications
+  - title: CV
+    url: /cv.pdf
   
  # - title: Functions
  #   url: /functions
