@@ -37,10 +37,19 @@ links:
     url: /
     external: false
     icon: home
-  - title: Research
+  - title: Publications
     url: /publications
   - title: CV
     url: /cv.pdf
+  - title: Proxies
+    url: /proxies
+  - title: Models
+    url: /models
+  - title: AgTech
+    url: /agtech
+  - title: Design
+    url: /design
+  
  # - title: Functions
  #   url: /functions
 
