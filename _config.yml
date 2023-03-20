@@ -39,12 +39,12 @@ links:
     icon: home
   - title: Proxies
     url: /proxies
+  - title: Design
+    url: /study-design
   - title: Models
     url: /models
   - title: AgTech
     url: /agtech
-  - title: Design
-    url: /design
   - title: Publications
     url: /publications
   - title: CV
