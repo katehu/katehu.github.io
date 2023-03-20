@@ -23,7 +23,7 @@ Currently,I am developing several methods to leverage auxiliary information to a
 **Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
 “Leveraging Auxiliary Information to Adjust for Unmeasured Confounding in Time Series Study Designs”<br/>
 in revision for *Nature Review Method Primer* <br/>
- [[link to slides]]([https://github.com/katehu/katehu.github.io/blob/master/Alamo_Symposium_KateHu.pdf])
+ [[link to slides]](https://github.com/katehu/katehu.github.io/blob/master/Alamo_Symposium_KateHu.pdf)
   
 
 ## Use proxies in case-cohort studies to enhance inference precision<a name="precision"></a>
