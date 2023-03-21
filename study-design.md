@@ -17,10 +17,6 @@ I moved to the industry to research data-collection methods, and worked with fie
 3. [Theoretical tools for complex data methods development](#theory)
 
 
-
-
-   
-
 ## Analysis methods for efficient study designs<a name="method"></a>
 
 ### Case Cohort Studies
@@ -45,7 +41,7 @@ See [[additive hazards models]](http://www.katehu.com/models)
 
 ## Sampling designs with new technologies <a name="study-design"></a>
 
-My next research interest is adatpive and scalable sampling design. Please email [contact@katehu.com](contact@katehu.com) if we share a common interest. <br/>
+My next research interest is adatpive and scalable sampling design. Please email me [contact@katehu.com](contact@katehu.com) if you would like to do something together. <br/>
    
 **Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
 
@@ -68,8 +64,4 @@ Locations. Technical Report*, The Climate Corporation, 2017
 **Hu, J** "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014).  <br/>
 *<small> Chapter  2 provides theoretical tools to develop semiparametric models with two-phase sampling, including both Bernoulli sampling and finite population sampling <small>
-      
-   
 
-
-*     
