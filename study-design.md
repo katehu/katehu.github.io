@@ -38,22 +38,11 @@ Norman Breslow and **Jie Kate Hu**<br/>
 "Survival Analysis of Case-Control Data: A Sample Survey Approach" [[link]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/)<br/>
 *Handbook of Statistical Methods for Case-Control Studies*, Chapman and Hall/CRC, (2018). <br/>
 
-### Software and Tutorials for Survival Analysis with General Two-phase Sampling Studies 
+### Software for Two-phase Sampling Studies 
    
-An R package:<br/>
-**Jie Hu** "Fit Additive Hazards Models for Survival Analysis", CRAN - Package *addhazard* (2020). [[link1]](https://github.com/katehu/addhazard) [[link2]](https://cran.r-project.org/web/packages/addhazard/index.html)<br/> 
-[[link to A user's manual]](https://cran.r-project.org/web/packages/addhazard/addhazard.pdf)
+See [[additive hazards models]](http://www.katehu.com/models)
 
-An R shiny app:<br/>
-Victoria Ding and **Jie Hu** Shinyapp *Additive Hazards* [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
-   
-Tutorial1 - analysis of a National Wilms Tumor Study dataset [[link to analysis code](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html) <br/>
-hosted by *Department of Mathematics, University of Oslo* <br/>
 
-Tutorial2 - analysis of an Atherosclerosis Risk in Communities Study (ARIC) dataset  
-[[link to analysis code]](https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-021-00739-3/MediaObjects/10654_2021_739_MOESM1_ESM.pdf) [[link to scientific questions]](https://link.springer.com/article/10.1007/s10654-021-00739-3) <br/>
-hosted by *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
-    
 ## Sampling designs with new technologies <a name="study-design"></a>
 
 My next research interest is adatpive and scalable sampling design. Please email [contact@katehu.com](contact@katehu.com) if we share a common interest. <br/>
@@ -70,8 +59,8 @@ Approach for Soil Moisture Probes Placement. Technical Report*, The Climate Corp
 **Hu, J**, A Model-Assisted Probability Sampling Design for Representative
 Locations. Technical Report*, The Climate Corporation, 2017
    
-**Hu, J**, Evaluation of the 2015 Climatology Field Experiments. Technical Report*, The Climate Corporation, 2015
-*<small> Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
+**Hu, J**, Evaluation of the 2015 Climatology Field Experiments. Technical Report*, The Climate Corporation, 2015 <br/>
+* <small> Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
    
    
 ## Theoretical tools for methods development with complex sampling designs <a name="theory"></a>
