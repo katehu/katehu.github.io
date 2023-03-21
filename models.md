@@ -3,9 +3,9 @@ layout: page-home
 permalink: /models/index.html
 title: Models
 ---
+## A Z-estimation system
 
-
-My ultimate goal is to create a system for everyone to build their own models using data and their imagined structures.  Different from machine learning models, I hope this system would help people to learn the causal structures behind phenomena and the limitation of data, instead of helping a machine to learn. 
+My research on systematic model development started from my PhD dissertation. Over the years working with modelers from fields of physics, chemistry, and applied mathmatics broadens my view of different approaches to model development with complementary strenghts and weakness.  My ultimate goal is to create a system for everyone to build their own models using data and their imagined structures.  Different from machine learning models, I hope this system would help people to learn the causal structures behind phenomena and the limitation of data, instead of helping a machine to learn. 
 
 In near term, for semiparametric methods development, I am interested in developing a systematic approach to model development such that existing models could be easily extentded to support statistical inference when data or models become more complex.
 For parametric models, I am interested in bridging statistical models and mechanistic models, which can reveal and sometimes handle data issues that applied mathematicians often ignore.
