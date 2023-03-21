@@ -6,7 +6,7 @@ title: Proxies
 
 # Intelligent Use of Auxiliary Information
 
-Auxiliary information includes any variable collected for a studied population that isn’t the main interest of analysis. For example, a proxy of an expensive-to-obtain variable of interest is one type of auxiliary information. Instrumental variables and negative control variables can also be considered as auxiliary information. This auxiliary information are often abundant from many data sources, such as remote sensing images, electronic health records, census data, and a baseline survey in a cohort study. This enormous amount of inexpensive but relevant information from additional data sources is often ignored in data analysis, missing the opportuntiy to improve the quailty of a qualitative study.  My interest is to develop tools to help people harness the full potential of this easy-to-obtain and often free information.
+Auxiliary information includes any variable collected for a studied population that isn’t the main interest of analysis. For example, a proxy of an expensive-to-obtain variable of interest is one type of auxiliary information. Instrumental variables and negative control variables can also be considered as auxiliary information. This auxiliary information is often abundant from many data sources, such as remote sensing images, electronic health records, census data, and a baseline survey in a cohort study. Unfortunetly, researchers often ignore this enormous amount of inexpensive but relevant information  in data analysis, missing the opportuntiy to improve the quailty of a study with almost no cost.  My interest is to develop tools to help people harness the full potential of this easy-to-obtain and often free information.
 
  
 Currently,I am developing several methods to leverage auxiliary information to adjust for unmeasured confounding, using techniques in Bayesian statistics, econometrics, and proximal causal inference. I focus on recovering the causal estimand for continuous exposure and outcomes, which is often the case for environmental studies and less studied. <br/>  
@@ -46,19 +46,16 @@ hosted by *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
 *European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
 *<small> This article includes methods and software for improving inference precision by leveraging auxiliary variables.<small> <br/> 
    
-Norman Breslow and **Jie Kate Hu** <br/>
-"Survival Analysis of Case-Control Data: A Sample Survey Approach" [[link]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/)<br/>
-*Handbook of Statistical Methods for Case-Control Studies*, Chapman and Hall/CRC, (2018). <br/>
 
 
 **Jie Hu** <br/>
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" 
    [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
-<small> Chapters 4, 5, 6 include methods and results for improving prediction precision from survival models by leveraging auxiliary variables.<small><br/> 
+<small> Chapters 4, 5, 6 include methods and results for improving inference and prediction precision in semiparametric models by leveraging auxiliary variables.<small><br/> 
 
  
-## Use auxiliary information to improve study designs<a name="study-design"></a> 
+## Use auxiliary information to improve sampling designs<a name="study-design"></a> 
 
 **Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
 *<small> This patent proposes an idea to use nearby air quality monitoring stations to determine the sampling time and weights for measuring hyperlocal air quality in each neighborhood with mobile sensing platforms <small> <br/> 
