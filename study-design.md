@@ -60,7 +60,7 @@ Approach for Soil Moisture Probes Placement. Technical Report*, The Climate Corp
 Locations. Technical Report*, The Climate Corporation, 2017
    
 **Hu, J**, Evaluation of the 2015 Climatology Field Experiments. Technical Report*, The Climate Corporation, 2015 <br/>
-* <small> Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
+*<small> Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> 
    
    
 ## Theoretical tools for methods development with complex sampling designs <a name="theory"></a>
