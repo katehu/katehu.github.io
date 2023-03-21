@@ -2,11 +2,13 @@
 layout: page-home
 permalink: /models/index.html
 title: Models
+---
 
-My ultimate goal is to create a system for everyone to build (almost) any models with data based on imagined structures.  
 
-In near term, for semiparametric methods development, I am interested in developing a systematic approach to model development system such that existing models could be easily extentded when data or models become more complex.
-For parametric models, I am interested in bridging statistical models and mechanistic models, which can handle data issues that applied mathematicians often ignore.
+My ultimate goal is to create a system for everyone to build their own models using data and their imagined structures.  Different from machine learning models, I hope this system would help people to learn the causal structures behind phenomena and the limitation of data, instead of helping a machine to learn. 
+
+In near term, for semiparametric methods development, I am interested in developing a systematic approach to model development such that existing models could be easily extentded to support statistical inference when data or models become more complex.
+For parametric models, I am interested in bridging statistical models and mechanistic models, which can reveal and sometimes handle data issues that applied mathematicians often ignore.
 
 
 ## Additive hazards model <a name="ah"></a>
