@@ -14,7 +14,7 @@ in revision for *Nature Review Method Primer* <br/>
  
 
    
-  **Jie Hu**, “A Z-estimation System: A Modular Approach to Model Development” <br/>
+**Jie Hu**, “A Z-estimation System: A Modular Approach to Model Development” <br/>
 (plan to submit in 2023) <br/>
    
 **Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
@@ -47,7 +47,7 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
 **Jie Kate Hu** , Xianlong Wang, Pei Wang <br/>
 “Testing Gene-gene Interactions in Genome Wide Association Studies” [[link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4487553/)<br/> 
 *Genetic Epidemiology*, 38, 123-134 (2014). <br/>
-   <small>  Studied definitions of gene-gene interaction; pointed out the flaws in comparison studies of gene-gene interaction testing methods in literature due to variation in definitions; provided conditions of when these tests were comparable <small>  <br/>
+*<small>  Studied definitions of gene-gene interaction; pointed out the flaws in comparison studies of gene-gene interaction testing methods in literature due to variation in definitions; provided conditions of when these tests were comparable <small>  <br/>
 
 
 
@@ -59,17 +59,15 @@ An R package:<br/>
 An R shiny app:<br/>
 Victoria Ding and **Jie Hu** Shinyapp *Additive Hazards* [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
    
-Tutorial1 - analysis of a National Wilms Tumor Study dataset [[link to analysis code]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html) <br/>
-hosted by *Department of Mathematics, University of Oslo* <br/>
+Tutorial1 - analysis of a National Wilms Tumor Study dataset [[link to analysis code]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html) hosted by *Department of Mathematics, University of Oslo* <br/>
 
-Tutorial2 - analysis of an Atherosclerosis Risk in Communities Study (ARIC) dataset  
-[[link to analysis code]](https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-021-00739-3/MediaObjects/10654_2021_739_MOESM1_ESM.pdf) 
+Tutorial2 - analysis of an Atherosclerosis Risk in Communities Study (ARIC) dataset [[link to analysis code]](https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-021-00739-3/MediaObjects/10654_2021_739_MOESM1_ESM.pdf) 
 
 
 
-### Study desgins <a name="study-design"></a>
+# Study desgins <a name="study-design"></a>
 
- **Jie Kate Hu**, Gary Chan <br/>
+**Jie Kate Hu**, Gary Chan <br/>
 “Weights Determination in Generalized Case-Cohort Study”<br/>
 (plan to submit in 2023). <br/>
     
@@ -80,17 +78,18 @@ Tutorial2 - analysis of an Atherosclerosis Risk in Communities Study (ARIC) data
 
 **Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) [[link]](https://uspto.report/patent/grant/10,990,716) <br/>
 
+**Hu, J**, A Model-Assisted Probability Sampling Design for Representative
+Locations. Technical Report*, The Climate Corporation, 2017
+ 
 Zheng, ZS, **Hu, J**, Malone, M, Vogel N, A Time-Series Clustering
 Approach for Soil Moisture Probes Placement. Technical Report*, The Climate Corporation, 2017
 
-**Hu, J**, A Model-Assisted Probability Sampling Design for Representative
-Locations. Technical Report*, The Climate Corporation, 2017
-   
+  
 
-## Applications <a name="application"></a> 
+# Applications <a name="application"></a> 
    
  
-#### Planetary health 
+### Planetary health 
   
 Zixu Zhao, Melissa Lunden, **Jie Kate Hu**, Brian Lafranchi, Yutong Liang, Caleb Arata, Erin Katz, Allen H. Goldstein, Haofei Zhang <br/>
 “Air Pollution Mapping and Machine Learning Reveal Key Factors for Distinct Community-level Exposures in San Francisco, California” <br/>
@@ -104,18 +103,18 @@ Maxwell J.D. VanLandschoot, Julian Schmitte, (mentored by Kelly McConville & **J
 "A Dashboard to Visualize Climate and Tree Species Change – Informing Forestry professionals, Conservationists, and Regulators the Potential Impacts of Climate Change on US Forests" [[link]](https://mjdvl.shinyapps.io/NCASI_APP/) (2022) <br/>
 
  
-#### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
+### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
     
 I am looking for collaboration opportunities with  cardiovascular disease experts or experts in potential biomarkers for cardivascular diseases. Please email [contact@katehu.com](contact@katehu.com) if you have recommendations. 
   
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
 *European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
-<small> we observed a synergistic effect of the hs-CRP and Lp-PLA2 biomarkers on coronary heart disease hazard rate among participants with lower LDL cholesterol. <small>
+*<small> we observed a synergistic effect of the hs-CRP and Lp-PLA2 biomarkers on coronary heart disease hazard rate among participants with lower LDL cholesterol. <small>
 
 
    
-#### Inflammatory Bowel Disease 
+### Inflammatory Bowel Disease 
 <!--Collaborator: Afzali Anita [[link]](https://med.uc.edu/landing-pages/faculty-profile/index/pubs/afzaliaa))-->
 
 Afzali Anita, Christopher J. Park, Kehao Zhu, **Jie Kate Hu**, Prachi Sharma, Mika N. Sinanan, and Scott D. Lee<br/>
