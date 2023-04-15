@@ -33,10 +33,10 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
-    external: false
-    icon: home
+ # - title: About
+ #   url: /about
+ #   external: false
+ #   icon: home
   - title: Proxies
     url: /proxies
   - title: Design
