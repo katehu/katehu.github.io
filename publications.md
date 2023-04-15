@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-# Methodologies, Theory, Study desgins, and Software
+# Methodologies, Theory, and Software
 
 
  **Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
@@ -12,9 +12,7 @@ title: Publications
 in revision for *Nature Review Method Primer* <br/>
  
  
-**Jie Kate Hu**, Gary Chan <br/>
-“Weights Determination in Generalized Case-Cohort Study”<br/>
-(plan to submit in 2023). <br/>
+
    
   **Jie Hu**, “A Z-estimation System: A Modular Approach to Model Development” <br/>
 (plan to submit in 2023) <br/>
@@ -70,10 +68,13 @@ Tutorial2 - analysis of an Atherosclerosis Risk in Communities Study (ARIC) data
 
 
 
-### Sampling designs with and for new technologies <a name="study-design"></a>
+### Study desgins <a name="study-design"></a>
 
-My next research interest is adatpive and scalable sampling design. Please email [contact@katehu.com](contact@katehu.com) if you would like to discuss. <br/>
-   
+ **Jie Kate Hu**, Gary Chan <br/>
+“Weights Determination in Generalized Case-Cohort Study”<br/>
+(plan to submit in 2023). <br/>
+    
+    
 **Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
 
 **Hu, J** & Ladoni, M. (2021) Location Selection for Treatment Sampling ---A field Study Design Tool to Optimize Treatment Assignment and Soil Sampling Locations for Model Calibration. (U.S. Patent No. #10,963,606) [[link]](https://uspto.report/patent/grant/10,963,606) <br/> 
@@ -90,7 +91,7 @@ Locations. Technical Report*, The Climate Corporation, 2017
 ## Applications <a name="application"></a> 
    
  
-#### Climate and environmental health 
+#### Planetary health 
   
 Zixu Zhao, Melissa Lunden, **Jie Kate Hu**, Brian Lafranchi, Yutong Liang, Caleb Arata, Erin Katz, Allen H. Goldstein, Haofei Zhang <br/>
 “Air Pollution Mapping and Machine Learning Reveal Key Factors for Distinct Community-level Exposures in San Francisco, California” <br/>
@@ -100,20 +101,15 @@ Keith R. Spangler, Quinn H. Adams, **Jie Kate Hu**, Danielle Braun, Kate R. Wein
 “Does Choice of Outdoor Heat Metric Affect Heat-Related Epidemiologic Analyses in the US Medicare Population?”<br/> 
  *Environmental Epidemiology* <br/>
   
-
- 
-#### Climate and Forest 
-   <!-- collaborators: Kelly McConville [link](https://mcconville.rbind.io/summer_2023.html) -->
-   <!-- US Forest Service; NCASI, Inc [[link]](https://www.ncasifoundation.org/)) -->
-
 Maxwell J.D. VanLandschoot, Julian Schmitte, (mentored by Kelly McConville & **Jie Kate Hu**)<br/>
 "A Dashboard to Visualize Climate and Tree Species Change – Informing Forestry professionals, Conservationists, and Regulators the Potential Impacts of Climate Change on US Forests" [[link]](https://mjdvl.shinyapps.io/NCASI_APP/) (2022) <br/>
 
  
- #### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
+#### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
+    
 I am looking for collaboration opportunities with  cardiovascular disease experts or experts in potential biomarkers for cardivascular diseases. Please email [contact@katehu.com](contact@katehu.com) if you have recommendations. 
   
-  **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
+**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
 *European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
 <small> we observed a synergistic effect of the hs-CRP and Lp-PLA2 biomarkers on coronary heart disease hazard rate among participants with lower LDL cholesterol. <small>
@@ -121,7 +117,7 @@ I am looking for collaboration opportunities with  cardiovascular disease expert
 
    
 #### Inflammatory Bowel Disease 
-   <!--Collaborator: Afzali Anita [[link]](https://med.uc.edu/landing-pages/faculty-profile/index/pubs/afzaliaa))-->
+<!--Collaborator: Afzali Anita [[link]](https://med.uc.edu/landing-pages/faculty-profile/index/pubs/afzaliaa))-->
 
 Afzali Anita, Christopher J. Park, Kehao Zhu, **Jie Kate Hu**, Prachi Sharma, Mika N. Sinanan, and Scott D. Lee<br/>
 “Preoperative Use of Methotrexate and the Risk of Early Postoperative Complications in Patients with Inflammatory Bowel Disease” <br/>
