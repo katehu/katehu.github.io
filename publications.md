@@ -39,9 +39,8 @@ Norman Breslow and **Jie Kate Hu**<br/>
 
    
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" 
-   [[link to validation results]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
+   [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
-<small> Chapter 5 includes validation studies of all the estimators implemented in R package *addhazard*.<small>
 
 
 
