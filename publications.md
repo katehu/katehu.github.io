@@ -138,7 +138,6 @@ Nitrogen Management. Technical Report*, The Climate Corporation, 2018 <br/>
    
 **Hu**, J,, Adjust Measurement-based Nitrogen Management Decisions using
 Biogeochemical Process Models. Technical Report*,The Climate Corporation, 2018<br/>
-  
 
 Zheng, ZS, **Hu, J**, Malone, M, Vogel N, A Time-Series Clustering
 Approach for Soil Moisture Probes Placement. Technical Report*, The Climate Corporation, 2017
@@ -152,11 +151,6 @@ Locations. Technical Report*, The Climate Corporation, 2017
 **Hu, J**, Variable Seeding Rate Corn Research Partner Trials Analysis, Technical
 Report*, The Climate Corporation, 2015  
   
-**Hu, J**, Evaluation of the 2015 Climatology Field Experiments. Technical Report*, The Climate Corporation,
-2015
-   
-**Hu, J**, Variable Seeding Rate Corn Research Partner Trials Analysis, Technical
-Report*, The Climate Corporation, 2015  
    
 *<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
    
