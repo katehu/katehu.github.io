@@ -34,7 +34,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: About
-    url: /
+    url: /about
     external: false
     icon: home
   - title: Proxies
