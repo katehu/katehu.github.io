@@ -4,53 +4,41 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-# Methodologies, Theory, and Software
+# Methods, Theory, and Software
 
 
  **Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
 “Leveraging Auxiliary Information to Adjust for Unmeasured Confounding in Time Series Study Designs”<br/>
 in revision for *Nature Review Method Primer* <br/>
  
- 
-
-   
 **Jie Hu**, “A Z-estimation System: A Modular Approach to Model Development” <br/>
 (plan to submit in 2023) <br/>
    
 **Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
-
-   
+  
 **Hu**, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
 Agricultural Management Decisions. (U.S. Patent No. #11,406,053) [[link]](https://uspto.report/patent/grant/11,406,053)<br/>
    
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
 *European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
-
    
 Norman Breslow and **Jie Kate Hu**<br/>
 "Survival Analysis of Case-Control Data: A Sample Survey Approach" [[link]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/)<br/>
 *Handbook of Statistical Methods for Case-Control Studies*, Chapman and Hall/CRC, (2018). <br/>
-
-  
+ 
   Norman E. Breslow, **Jie Hu**, Jon A. Wellner<br/>
 “Z-estimation and Stratified Samples: Application to Survival Models” [[link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4503541/)<br/>
 *Lifetime Data Analysis*, 21, 493-516 (2015).<br/>
-
    
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" 
    [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
 
-
-
 **Jie Kate Hu** , Xianlong Wang, Pei Wang <br/>
 “Testing Gene-gene Interactions in Genome Wide Association Studies” [[link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4487553/)<br/> 
 *Genetic Epidemiology*, 38, 123-134 (2014). <br/>
 *<small>  Studied definitions of gene-gene interaction; pointed out the flaws in comparison studies of gene-gene interaction testing methods in literature due to variation in definitions; provided conditions of when these tests were comparable <small>  <br/>
-
-
-
 
 An R package:<br/>
 **Jie Hu** "Fit Additive Hazards Models for Survival Analysis", CRAN - Package *addhazard* (2020). [[link1]](https://github.com/katehu/addhazard) [[link2]](https://cran.r-project.org/web/packages/addhazard/index.html)<br/> 
@@ -63,15 +51,12 @@ Tutorial1 - analysis of a National Wilms Tumor Study dataset [[link to analysis 
 
 Tutorial2 - analysis of an Atherosclerosis Risk in Communities Study (ARIC) dataset [[link to analysis code]](https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-021-00739-3/MediaObjects/10654_2021_739_MOESM1_ESM.pdf) 
 
-
-
-# Study desgins <a name="study-design"></a>
+# Study designs <a name="study-design"></a>
 
 **Jie Kate Hu**, Gary Chan <br/>
 “Weights Determination in Generalized Case-Cohort Study”<br/>
 (plan to submit in 2023). <br/>
-    
-    
+        
 **Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
 
 **Hu, J** & Ladoni, M. (2021) Location Selection for Treatment Sampling ---A field Study Design Tool to Optimize Treatment Assignment and Soil Sampling Locations for Model Calibration. (U.S. Patent No. #10,963,606) [[link]](https://uspto.report/patent/grant/10,963,606) <br/> 
@@ -83,8 +68,6 @@ Locations. Technical Report*, The Climate Corporation, 2017
  
 Zheng, ZS, **Hu, J**, Malone, M, Vogel N, A Time-Series Clustering
 Approach for Soil Moisture Probes Placement. Technical Report*, The Climate Corporation, 2017
-
-  
 
 # Applications <a name="application"></a> 
    
@@ -105,15 +88,13 @@ Maxwell J.D. VanLandschoot, Julian Schmitte, (mentored by Kelly McConville & **J
  
 ### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
     
-I am looking for collaboration opportunities with  cardiovascular disease experts or experts in potential biomarkers for cardivascular diseases. Please email [contact@katehu.com](contact@katehu.com) if you have recommendations. 
+I am looking for collaboration opportunities with  cardiovascular disease biomarker experts. Please email [contact@katehu.com](contact@katehu.com) if you have recommendations. 
   
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
 *European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
 *<small> we observed a synergistic effect of the hs-CRP and Lp-PLA2 biomarkers on coronary heart disease hazard rate among participants with lower LDL cholesterol. <small>
 
-
-   
 ### Inflammatory Bowel Disease 
 <!--Collaborator: Afzali Anita [[link]](https://med.uc.edu/landing-pages/faculty-profile/index/pubs/afzaliaa))-->
 
