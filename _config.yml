@@ -43,8 +43,8 @@ links:
     url: /study-design
   - title: Models
     url: /models
- # - title: AgTech
- #   url: /agtech
+  - title: AgTech
+    url: /agtech
   - title: Publications
     url: /publications
   - title: CV
