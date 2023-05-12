@@ -42,9 +42,8 @@ Norman Breslow and **Jie Kate Hu**<br/>
 See [[additive hazards models]](http://www.katehu.com/models)
 
 
-## Sampling designs with new technologies <a name="study-design"></a>
+## Sampling designs with new sensing technologies <a name="study-design"></a>
 
-My next research interest is adatpive and scalable sampling design. Please email me [contact@katehu.com](contact@katehu.com) if you would like to do something together. <br/>
    
 **Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
 
