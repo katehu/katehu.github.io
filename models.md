@@ -5,10 +5,13 @@ title: Models
 ---
 ## A Z-estimation system
 
-My research on systematic model development started from my PhD dissertation. Over the years working with modelers from fields of physics, chemistry, and applied mathmatics broadens my view of different approaches to model development with complementary strenghts and weakness.  My ultimate goal is to create a system for everyone to build their own models using data and their imagined structures.  Different from some machine learning approaches, my aim is let this system help peopl instead of help machine to learn. To learn what? My goal is to let this system  help people to learn the causal structures behind phenomena and the limitation and threat of data issues. 
 
-In near term, for semiparametric methods development, I am interested in developing a systematic approach to model development such that existing models could be easily extentded to support statistical inference when data or models become more complex.
-For parametric models, I am interested in bridging statistical models and mechanistic models, which can reveal and sometimes handle data issues that applied mathematicians often ignore.
+1) develop a systematic theoretical tool for semiparametric and nonparametric model development so that existing models could be easily extended to support statistical inference with new types of models and sampling designs.
+
+2)create a system for a) everyone to build their own models with data and try their imagined model structures; b) for scientists to bridge statistical models and mechanical models, which can reveal and sometimes handle data issues that applied mathematicians sometimes ignore. 
+
+Unlike some machine learning approaches, I aim to let this system help people to learn rather than machines. To learn what? --- the causal structures behind phenomena and the extent of the danger from various data issues. 
+
 
 
 ## Additive hazards model <a name="ah"></a>
