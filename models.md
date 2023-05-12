@@ -13,7 +13,7 @@ I divide my research area into two sub-research years.
 
 2) create a system for a) everyone to build their own models with data and try their imagined model structures; b) for scientists to bridge statistical models and mechanical models, which can reveal and sometimes handle data issues that applied mathematicians sometimes ignore. 
 
-Unlike some machine learning approaches, I aim to let this system help people to learn rather than machines. To learn what? --- the causal structures behind phenomena and the extent of the danger from various data issues. 
+Unlike some machine learning approaches, I aim to let this system help people instead of machine to learn. To learn the causal structures behind phenomena and the extent of danger from various data issues. 
 
 
 
