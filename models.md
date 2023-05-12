@@ -5,10 +5,13 @@ title: Models
 ---
 ## A Z-estimation system
 
+I am passionate about "systematic" model development.
+
+I divide my research area into two sub-research years. 
 
 1) develop a systematic theoretical tool for semiparametric and nonparametric model development so that existing models could be easily extended to support statistical inference with new types of models and sampling designs.
 
-2)create a system for a) everyone to build their own models with data and try their imagined model structures; b) for scientists to bridge statistical models and mechanical models, which can reveal and sometimes handle data issues that applied mathematicians sometimes ignore. 
+2) create a system for a) everyone to build their own models with data and try their imagined model structures; b) for scientists to bridge statistical models and mechanical models, which can reveal and sometimes handle data issues that applied mathematicians sometimes ignore. 
 
 Unlike some machine learning approaches, I aim to let this system help people to learn rather than machines. To learn what? --- the causal structures behind phenomena and the extent of the danger from various data issues. 
 
