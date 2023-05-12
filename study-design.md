@@ -20,26 +20,7 @@ My next research passion lies in 1) adaptive study designs and 2) developing stu
 3. [Theoretical tools to support complex study designs](#theory)
 
 
-## Analysis methods for efficient study designs<a name="method"></a>
 
-### Case Cohort Studies
-
-**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
-“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
-
-**Jie Kate Hu**, Gary Chan <br/>
-“Weights Determination in Generalized Case-Cohort Study”<br/>
-(plan to submit in January, 2023). <br/>
-      
-### Case Control Studies 
-Norman Breslow and **Jie Kate Hu**<br/>
-"Survival Analysis of Case-Control Data: A Sample Survey Approach" [[link]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/)<br/>
-*Handbook of Statistical Methods for Case-Control Studies*, Chapman and Hall/CRC, (2018). <br/>
-
-### Software for Two-phase Sampling Studies 
-   
-See [[additive hazards models]](http://www.katehu.com/models)
 
 
 ## Sampling designs with new sensing technologies <a name="study-design"></a>
@@ -60,6 +41,27 @@ Locations. Technical Report*, The Climate Corporation, 2017
 **Hu, J**, Evaluation of the 2015 Climatology Field Experiments. Technical Report*, The Climate Corporation, 2015 <br/>
 *<small> Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> 
    
+      
+## Analysis methods for efficient study designs<a name="method"></a>
+
+### Case Cohort Studies
+
+**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
+“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
+
+**Jie Kate Hu**, Gary Chan <br/>
+“Weights Determination in Generalized Case-Cohort Study”<br/>
+(plan to submit in January, 2023). <br/>
+      
+### Case Control Studies 
+Norman Breslow and **Jie Kate Hu**<br/>
+"Survival Analysis of Case-Control Data: A Sample Survey Approach" [[link]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/)<br/>
+*Handbook of Statistical Methods for Case-Control Studies*, Chapman and Hall/CRC, (2018). <br/>
+
+### Software for Two-phase Sampling Studies 
+   
+See [[additive hazards models]](http://www.katehu.com/models)      
    
 ## Theoretical tools for methods development with complex sampling designs <a name="theory"></a>
 
