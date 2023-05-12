@@ -4,17 +4,20 @@ permalink: /study-design/index.html
 title: Publications
 ---
 
-# Cost-Efficient Study Designs
+# Sampling Design and Cost-Efficient Efficacy Study Designs
 
-Most statistical tools improve efficiency after obtaining data through sophisticated techniques, 
-but if costs can be substantially reduced at the data-collection step, then scientists and industry leaders may afford and even welcome a 
-straightforward and scalable statistical tool with a minor loss of efficiency in analyzing the data. Motivated by this belief, after my PhD, 
-I moved to the industry to research data-collection methods, and worked with field scientists, sensor engineers, and software engineers side by side to implement these methodsin the real world. In the meantime, I continue developing statistical analysis tools, guidance materials, and software to ease the use of complex but efficient study designs, and continue developing theoretical tools to faciliate the extension of methods for simple random samples to complex study designs.
+Most statistical tools improve efficiency and bias AFTER obtaining data through sophisticated techniques, 
+but if representativeness could be carefully implemented and costs can be substantially reduced at the data-collection step, then scientists and industry leaders may afford and even welcome a 
+straightforward and scalable statistical tool in analyzing the data. 
 
+Motivated by this belief, after my Ph.D., 
+I moved to the industry to research data collection and study design methods, especially with new sensing technologies. I worked with field scientists, sensor engineers, and software engineers to implement these methods in the real world. In the meantime, I continue developing statistical analysis tools, guidance materials, and software to ease using complex but efficient study designs. In addition, I continue developing theoretical tools to facilitate the extension of methods for simple to complex study designs.
 
-1. [Analysis methods for efficient study designs](#method)
-2. [Sampling designs with and for new technologies](#study-design)
-3. [Theoretical tools for complex data methods development](#theory)
+My next research passion lies in 1) adaptive study designs and 2) developing study designs for building sensing monitor networks for surveillance.  
+
+1. [Sampling designs with and for new technologies](#study-design)
+2. [Analysis methods for efficient study designs](#method)
+3. [Theoretical tools to support complex study designs](#theory)
 
 
 ## Analysis methods for efficient study designs<a name="method"></a>
