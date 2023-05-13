@@ -1,7 +1,7 @@
 ---
 layout: page-home
-permalink: /proxies/index.html
-title: agtech
+permalink: /agtech/index.html
+title: AgTech
 ---
 
 
