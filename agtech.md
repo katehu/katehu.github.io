@@ -1,7 +1,7 @@
 Experience: 
 
 
-As a researcher at the Climate Corporation (Climate), a precision agricultural subsidiary of Bayer Crop Science, 
+As a former researcher at the Climate Corporation, a precision agricultural subsidiary of Bayer Crop Science, 
 I developed data science methods to generate precision site-specific nitrogen (N) fertilizer recommendations, 
 conducted large-scale field trials over multiple states to test these methods on both research farms and private fields, 
 designed soil sampling schemes and protocols to collect more informative data for developing biogeochemical and statistical models, 
