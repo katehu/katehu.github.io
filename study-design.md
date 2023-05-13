@@ -1,7 +1,7 @@
 ---
 layout: page-home
 permalink: /study-design/index.html
-title: Publications
+title: Study Design
 ---
 
 # Sampling Design and Cost-Efficient Efficacy Study Designs
