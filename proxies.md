@@ -54,7 +54,7 @@ hosted by *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
 PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
 <small> Chapters 4, 5, 6 include methods and results for improving inference and prediction precision in semiparametric models by leveraging auxiliary variables.<small><br/> 
 
-### Use auxiliary information to improve sampling designs<a name="study-design"></a> 
+### Use proxies to improve sampling designs<a name="study-design"></a> 
 
 **Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
 *<small> This patent proposes an idea to use nearby air quality monitoring stations to determine the sampling time and weights for measuring hyperlocal air quality in each neighborhood with mobile sensing platforms <small> <br/> 
