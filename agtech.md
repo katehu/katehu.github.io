@@ -17,5 +17,10 @@ and visited farms every year, collecting feedback from farm managers on my exper
 I am interested in all the interesting problems in agriculture, especially precision agriculture, experiment designs, and sensor placement. 
 Feel free to contact me (contact@katehu.com) if you want to discuss ideas or look for people to analyze your data. 
  
+ 
+Related Patents:
+
+**Hu, J** & Ladoni, M. (2021) Location Selection for Treatment Sampling ---A field Study Design Tool to Optimize Treatment Assignment and Soil Sampling Locations for Model Calibration. (U.S. Patent No. #10,963,606) [[link]](https://uspto.report/patent/grant/10,963,606) <br/> 
+
 
 
