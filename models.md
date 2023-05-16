@@ -5,19 +5,15 @@ title: Models
 ---
 ## A Z-estimation system
 
-I am passionate about "systematic" model development.
+I am interested in make model development more  "systematic", transparent, and accessible. My research is divided into two sub-research area. 
 
-I divide my research area into two sub-research years. 
+1) develop a systematic theoretical tool for semiparametric and nonparametric model development to expediate the extension of existing models to new study designs.
 
-1) develop a systematic theoretical tool for semiparametric and nonparametric model development so that existing models could be easily extended to support statistical inference with new types of models and sampling designs.
-
-2) create a system for a) everyone to build their own models with data and try their imagined model structures; b) for scientists to bridge statistical models and mechanical models, which can reveal and sometimes handle data issues that applied mathematicians sometimes ignore. 
-
-Unlike some machine learning approaches, I aim to let this system help people instead of machine to learn. To learn the causal structures behind phenomena and the extent of danger from various data issues. 
+2) create a system for a) everyone to build their own models; b) for scientists to bridge statistical and mechanical models, which can reveal and sometimes handle data issues that applied mathematicians sometimes ignore. Unlike  machine learning, I aim to let this system help people instead of machine to learn the causal structures behind phenomena and the extent of danger from various data issues. 
 
 
 
-## Additive hazards model <a name="ah"></a>
+### Additive hazards model <a name="ah"></a>
    
 An R package:<br/>
 **Jie Hu** "Fit Additive Hazards Models for Survival Analysis", CRAN - Package *addhazard* (2020). [[link1]](https://github.com/katehu/addhazard) [[link2]](https://cran.r-project.org/web/packages/addhazard/index.html)<br/> 
@@ -39,7 +35,7 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
 <small> Chapter 5 includes validation studies of all the estimators implemented in R package *addhazard*.<small>
 
 
-## Methods to integrate statistical models, measurements, and scientific knowledge <a name="measurement-model"></a> 
+### Methods to integrate statistical models, measurements, and scientific knowledge <a name="measurement-model"></a> 
    
 **Hu**, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
 Agricultural Management Decisions. (U.S. Patent No. #11,406,053) [[link]](https://uspto.report/patent/grant/11,406,053)<br/>
@@ -53,7 +49,7 @@ Biogeochemical Process Models. Technical Report*,The Climate Corporation, 2018<b
 *<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
    
    
-## Make model developement transparent and accessible <a name="model"></a>
+### Make model developement transparent and accessible <a name="model"></a>
 
 For students and scientists:  <br/>
 **Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
