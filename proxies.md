@@ -4,12 +4,12 @@ permalink: /proxies/index.html
 title: Proxies
 ---
 
-# Intelligent Use of Auxiliary Information
+Intelligent Use of Auxiliary Information
 
-Auxiliary information includes any variable collected for a studied population that isn’t the main interest of analysis. For example, a proxy of an expensive-to-obtain variable of interest is one type of auxiliary information. Instrumental variables and negative control variables can also be considered as auxiliary information. This auxiliary information is often abundant from many data sources, such as remote sensing images, electronic health records, census data, and a baseline survey in a cohort study. Unfortunetly, researchers often ignore this enormous amount of inexpensive but relevant information  in data analysis, missing the opportuntiy to improve the quailty of a study with almost no cost.  My interest is to develop tools to help people harness the full potential of this easy-to-obtain and often free information.
+Auxiliary information includes any variables collected but are not the main interest of analysis, e.g., a proxy of an expensive variable of interest, instrumental variables, negative controls. This auxiliary information is often abundant from many data sources, such as remote sensing images, electronic health records, census data, and a baseline survey in a cohort study. Unfortunetly, researchers often ignore this enormous amount of inexpensive but relevant information  in data analysis, missing the opportuntiy to improve the quailty of a study with almost no cost.  My interest is to develop tools to help people harness the full potential of this easy-to-obtain and often free information.
 
  
-Currently,I am developing several methods to leverage auxiliary information to adjust for unmeasured confounding, using techniques in Bayesian statistics, econometrics, and proximal causal inference. I focus on recovering the causal estimand for continuous exposure and outcomes, which is often the case for environmental studies and less studied. <br/>  
+Currently,I am developing several methods to leverage auxiliary information to adjust for unmeasured confounding, using techniques in  and proximal causal inference, econometrics, and Bayesian statistics. I focus on recovering the causal estimand for continuous exposure and outcomes, with possibly many weak negative controls. <br/>  
 
 1. [Use negative controls, instrumental variables, and proxies to adjust for unmeasured confounding bias](#bias)
 2. [Use proxies in case-cohort studies to enhance inference precision](#precision)
@@ -17,16 +17,16 @@ Currently,I am developing several methods to leverage auxiliary information to a
 
 
 
-## Use negative controls, instrumental variables, and proxies to adjust for unmeasured confounding bias <a name="bias"></a>
+### Use negative controls, instrumental variables, and proxies to adjust for unmeasured confounding bias <a name="bias"></a>
 
 
 **Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
 “Leveraging Auxiliary Information to Adjust for Unmeasured Confounding in Time Series Study Designs”<br/>
-in revision for *Nature Review Method Primer* <br/>
+To appear in *Nature Review Method Primer* <br/>
  [[link to slides]](https://github.com/katehu/katehu.github.io/blob/master/Alamo_Symposium_KateHu.pdf)
   
 
-## Use proxies in case-cohort studies to enhance inference precision<a name="precision"></a>
+ ### Use proxies in case-cohort studies to enhance inference precision<a name="precision"></a>
 
    
 Software: an R package:<br/>
@@ -54,8 +54,7 @@ hosted by *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
 PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
 <small> Chapters 4, 5, 6 include methods and results for improving inference and prediction precision in semiparametric models by leveraging auxiliary variables.<small><br/> 
 
- 
-## Use auxiliary information to improve sampling designs<a name="study-design"></a> 
+### Use auxiliary information to improve sampling designs<a name="study-design"></a> 
 
 **Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
 *<small> This patent proposes an idea to use nearby air quality monitoring stations to determine the sampling time and weights for measuring hyperlocal air quality in each neighborhood with mobile sensing platforms <small> <br/> 
