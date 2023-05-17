@@ -17,7 +17,7 @@ Currently,I am developing several methods to leverage auxiliary information to a
 
 
 
-### Use negative controls, instrumental variables, and proxies to adjust for unmeasured confounding bias <a name="bias"></a>
+ <font size="4"> Use negative controls, instrumental variables, and proxies to adjust for unmeasured confounding bias <a name="bias"></a> </font>
 
 
 **Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
@@ -26,7 +26,7 @@ To appear in *Nature Review Method Primer* <br/>
  [[link to slides]](https://github.com/katehu/katehu.github.io/blob/master/Alamo_Symposium_KateHu.pdf)
   
 
- ### Use proxies in case-cohort studies to enhance inference precision<a name="precision"></a>
+ <font size="3"> Use proxies in case-cohort studies to enhance inference precision<a name="precision"></a> </font>
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
