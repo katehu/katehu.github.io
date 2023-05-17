@@ -28,6 +28,11 @@ To appear in *Nature Review Method Primer* <br/>
 
  ### Use proxies in case-cohort studies to enhance inference precision<a name="precision"></a>
 
+**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
+“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
+*<small> This article includes methods and software for improving inference precision by leveraging auxiliary variables.<small> <br/> 
+     
    
 Software: an R package:<br/>
 **Jie Hu** "Fit Additive Hazards Models for Survival Analysis", CRAN - Package *addhazard* (2020). [[link1]](https://github.com/katehu/addhazard) [[link2]](https://cran.r-project.org/web/packages/addhazard/index.html)<br/> 
@@ -40,12 +45,6 @@ hosted by *Department of Mathematics, University of Oslo* <br/>
 Tutorial2 - analysis of an Atherosclerosis Risk in Communities Study (ARIC) dataset  
 [[link to analysis code]](https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-021-00739-3/MediaObjects/10654_2021_739_MOESM1_ESM.pdf) [[link to scientific questions]](https://link.springer.com/article/10.1007/s10654-021-00739-3) <br/>
 hosted by *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
-
-**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
-“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
-*<small> This article includes methods and software for improving inference precision by leveraging auxiliary variables.<small> <br/> 
-   
 
 
 **Jie Hu** <br/>
