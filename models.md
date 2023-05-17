@@ -14,7 +14,7 @@ I am interested in making model development more systematic, transparent, and ac
 3) bridge statistical and mechanistic models, which can reveal and sometimes handle data issues that mechanistic modelers may ignore. 
 
 
-Theoretical tools for semiparametric model development systematic and transparent:
+<h4 style="font-weight: normal"> Theoretical tools for semiparametric model development systematic and transparent </h4>:
 
 **Hu, J** "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014).  <br/>
@@ -48,7 +48,7 @@ hosted by *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
    
 
    
-Make model developement more accessible:
+<h4 style="font-weight: normal"> Make model developement more accessible: </h4>
 
 
 **Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
@@ -56,7 +56,7 @@ Make model developement more accessible:
 
 
 
-Integrating statistical and mechanistic models, measurements, and scientific knowledge:
+<h4 style="font-weight: normal"> Integrate statistical and mechanistic models, measurements, and scientific knowledge: </h4>
    
 **Hu**, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
 Agricultural Management Decisions. (U.S. Patent No. #11,406,053) [[link]](https://uspto.report/patent/grant/11,406,053)<br/>
