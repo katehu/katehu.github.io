@@ -3,17 +3,33 @@ layout: page-home
 permalink: /models/index.html
 title: Models
 ---
-## A Z-estimation system
+A Z-estimation system
 
-I am interested in make model development more  "systematic", transparent, and accessible. My research is divided into two sub-research area. 
+I am interested in making model development more systematic, transparent, and accessible. My research is divided into three sub-research area. 
 
-1) develop a systematic theoretical tool for semiparametric and nonparametric model development to expediate the extension of existing models to new study designs.
+1) develop a systematic theoretical tool set for semiparametric and nonparametric model development to expediate the extension of existing models to new ancillary data, models, and study designs.
 
-2) create a system for a) everyone to build their own models; b) for scientists to bridge statistical and mechanical models, which can reveal and sometimes handle data issues that applied mathematicians sometimes ignore. Unlike  machine learning, I aim to let this system help people instead of machine to learn the causal structures behind phenomena and the extent of danger from various data issues. 
+2) create a system and a platform for everyone to build their own models. Unlike  machine learning, I aim to let this system help people instead of machine to learn. To learn what? --- the causal structures behind phenomena and the limitation and sometimes danger from imperfect data.
+
+3) bridge statistical and mechanistic models, which can reveal and sometimes handle data issues that mechanistic modelers may ignore. 
 
 
+*Theoretical tools to make semiparametric model development systematic and transparent*
+**Hu, J** "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
+PhD Diss.*University of Washington ResearchWorks Archive* (2014).  <br/>
+<small> Chapter 1 & 2 lay out how to develop and extend semiparametric models systematically <small>
 
-### Additive hazards model <a name="ah"></a>
+Norman E. Breslow, Jie Hu, Jon A. Wellner <br/> 
+“Z-estimation and Stratified Samples: Application to Survival Models” [link]  <br/>
+Lifetime Data Analysis, 21, 493-516 (2015)
+
+*Application Example: Additive hazards models <a name="ah"></a>*
+   
+**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
+“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
+*<small> This article includes methods and software for improving inference precision by leveraging auxiliary variables.<small> <br/> 
+      
    
 An R package:<br/>
 **Jie Hu** "Fit Additive Hazards Models for Survival Analysis", CRAN - Package *addhazard* (2020). [[link1]](https://github.com/katehu/addhazard) [[link2]](https://cran.r-project.org/web/packages/addhazard/index.html)<br/> 
@@ -29,10 +45,14 @@ Tutorial2 - analysis of an Atherosclerosis Risk in Communities Study (ARIC) data
 [[link to analysis code]](https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-021-00739-3/MediaObjects/10654_2021_739_MOESM1_ESM.pdf) [[link to scientific questions]](https://link.springer.com/article/10.1007/s10654-021-00739-3) <br/>
 hosted by *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
    
-"A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" 
-   [[link to validation results]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
-PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
-<small> Chapter 5 includes validation studies of all the estimators implemented in R package *addhazard*.<small>
+
+   
+### Make model developement  accessible <a name="model"></a>
+
+
+**Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
+
+
 
 
 ### Methods to integrate statistical models, measurements, and scientific knowledge <a name="measurement-model"></a> 
@@ -49,15 +69,7 @@ Biogeochemical Process Models. Technical Report*,The Climate Corporation, 2018<b
 *<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
    
    
-### Make model developement transparent and accessible <a name="model"></a>
 
-For students and scientists:  <br/>
-**Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
-
-For semiparametric model developers: <br/>
-**Hu, J** "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
-PhD Diss.*University of Washington ResearchWorks Archive* (2014).  <br/>
-<small> Chapter 1 & 2 lay out how to develop and extend semiparametric models systematically <small>
       
    
 
