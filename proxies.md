@@ -3,7 +3,6 @@ layout: page-home
 permalink: /proxies/index.html
 title: Proxies
 ---
-<h3 style="font-weight: normal">Test</h3>
 
 Intelligent Use of Auxiliary Information
 
@@ -18,7 +17,8 @@ Currently,I am developing several methods to leverage auxiliary information to a
 
 
 
-### Use negative controls, instrumental variables, and proxies to adjust for unmeasured confounding bias <a name="bias"></a> 
+<h3 style="font-weight: normal">Use negative controls, instrumental variables, and proxies to adjust for unmeasured confounding bias</h3>
+<a name="bias"></a> 
 
 
 **Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
