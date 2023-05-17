@@ -14,7 +14,7 @@ I am interested in making model development more systematic, transparent, and ac
 3) bridge statistical and mechanistic models, which can reveal and sometimes handle data issues that mechanistic modelers may ignore. 
 
 
-<h4 style="font-weight: normal"> Theoretical tools for semiparametric model development systematic and transparent </h4>:
+<h4 style="font-weight: normal"> Theoretical tools for semiparametric model development systematic and transparent: </h4>
 
 **Hu, J** "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014).  <br/>
