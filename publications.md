@@ -4,8 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Methods and Theory
-
+<font size="4">  Methods and Theory </font> 
 
 **Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
 “Leveraging Auxiliary Information to Adjust for Unmeasured Confounding in Time Series Study Designs”<br/>
@@ -55,54 +54,42 @@ An R shiny app:<br/>
 Victoria Ding and **Jie Hu** Shinyapp *Additive Hazards* [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
    
 
-# Study designs <a name="study-design"></a>
+  <font size="4"> Applications </font>  
 
-      
-**Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
-
-**Hu, J** & Ladoni, M. (2021) Location Selection for Treatment Sampling ---A field Study Design Tool to Optimize Treatment Assignment and Soil Sampling Locations for Model Calibration. (U.S. Patent No. #10,963,606) [[link]](https://uspto.report/patent/grant/10,963,606) <br/> 
-
-**Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) [[link]](https://uspto.report/patent/grant/10,990,716) <br/>
-
-**Hu, J**, A Model-Assisted Probability Sampling Design for Representative
-Locations. Technical Report*, The Climate Corporation, 2017
- 
-Zheng, ZS, **Hu, J**, Malone, M, Vogel N, A Time-Series Clustering
-Approach for Soil Moisture Probes Placement. Technical Report*, The Climate Corporation, 2017
-
-# Applications <a name="application"></a> 
-   
- 
-### Planetary health 
+  Planetary and Human Health:
   
-Zixu Zhao, Melissa Lunden, **Jie Kate Hu**, Brian Lafranchi, Yutong Liang, Caleb Arata, Erin Katz, Allen H. Goldstein, Haofei Zhang <br/>
+ Keith R. Spangler, Quinn H. Adams, **Jie Kate Hu**, Danielle Braun, Kate R. Weinberger, Francesca Dominici, and Gregory A. Wellenius <br/>
+“Does Choice of Outdoor Heat Metric Affect Heat-Related Epidemiologic Analyses in the US Medicare Population?”<br/> 
+To appear in *Environmental Epidemiology* <br/>
+  
+  
+  Zixu Zhao, Melissa Lunden, **Jie Kate Hu**, Brian Lafranchi, Yutong Liang, Caleb Arata, Erin Katz, Allen H. Goldstein, Haofei Zhang <br/>
 “Air Pollution Mapping and Machine Learning Reveal Key Factors for Distinct Community-level Exposures in San Francisco, California” <br/>
 submitted to *Environmental Science & Technology* <br/>
 
-Keith R. Spangler, Quinn H. Adams, **Jie Kate Hu**, Danielle Braun, Kate R. Weinberger, Francesca Dominici, and Gregory A. Wellenius <br/>
-“Does Choice of Outdoor Heat Metric Affect Heat-Related Epidemiologic Analyses in the US Medicare Population?”<br/> 
- *Environmental Epidemiology* <br/>
-  
+ 
 Maxwell J.D. VanLandschoot, Julian Schmitte, (mentored by Kelly McConville & **Jie Kate Hu**)<br/>
 "A Dashboard to Visualize Climate and Tree Species Change – Informing Forestry professionals, Conservationists, and Regulators the Potential Impacts of Climate Change on US Forests" [[link]](https://mjdvl.shinyapps.io/NCASI_APP/) (2022) <br/>
 
- 
-### Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2
+ Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2:
     
 I am looking for collaboration opportunities with  cardiovascular disease biomarker experts. Please email [contact@katehu.com](contact@katehu.com) if you have recommendations. 
-  
+
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
 *European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
 *<small> we observed a synergistic effect of the hs-CRP and Lp-PLA2 biomarkers on coronary heart disease hazard rate among participants with lower LDL cholesterol. <small>
 
-### Inflammatory Bowel Disease 
-<!--Collaborator: Afzali Anita [[link]](https://med.uc.edu/landing-pages/faculty-profile/index/pubs/afzaliaa))-->
+Inflammatory Bowel disease: 
+  <!--Collaborator: Afzali Anita [[link]](https://med.uc.edu/landing-pages/faculty-profile/index/pubs/afzaliaa))-->
+
 
 Afzali Anita, Christopher J. Park, Kehao Zhu, **Jie Kate Hu**, Prachi Sharma, Mika N. Sinanan, and Scott D. Lee<br/>
 “Preoperative Use of Methotrexate and the Risk of Early Postoperative Complications in Patients with Inflammatory Bowel Disease” <br/>
 *Inflammatory Bowel Diseases*, 22(8), 1887-95 (2016).<br/>
 
+ 
+  
 Afzali Anita, Chelle L. Wheat, **Jie K. Hu**, John E. Olerud, and Scott D. Lee<br/>
 “The Association of Psoriasiform Rash with anti-Tumor Necrosis Factor (anti-TNF) Therapy in Inflammatory Bowel Disease: A Single Academic Center Case Series” <br/>
 *Journal of Crohn’s and Colitis*, 8(6), 480-488 (2014). <br/>
@@ -111,38 +98,19 @@ Manickavasagan,Hanisha, Butnariu Madalina, Porter Kyle , **Hu K. Jie**, Husain S
 "Inflammatory Bowel Disease Patients with Type 2 Diabetes and Obesity have a Higher Annual Burden and Costs of Hospitalizations: A call for action” <br/>
 in submission. <br/>
 
+<font size="4"> Patents </font>  
+**Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
 
+**Hu, J** & Ladoni, M. (2021) Location Selection for Treatment Sampling ---A field Study Design Tool to Optimize Treatment Assignment and Soil Sampling Locations for Model Calibration. (U.S. Patent No. #10,963,606) [[link]](https://uspto.report/patent/grant/10,963,606) <br/> 
+
+**Hu, J**.  (2021). Location Selection for Model Assessment. (U.S. Patent No. #10, 990,716) [[link]](https://uspto.report/patent/grant/10,990,716) <br/>
+  
  **Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
   
 **Hu**, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
 Agricultural Management Decisions. (U.S. Patent No. #11,406,053) [[link]](https://uspto.report/patent/grant/11,406,053)<br/>
    
- 
- 
-### Precision Agriculture 
-
-**Hu**, J, Casquilho C., Chen, M, Combining Measurements and Models for
-Nitrogen Management. Technical Report*, The Climate Corporation, 2018 <br/>
-   
-**Hu**, J,, Adjust Measurement-based Nitrogen Management Decisions using
-Biogeochemical Process Models. Technical Report*,The Climate Corporation, 2018<br/>
-
-Zheng, ZS, **Hu, J**, Malone, M, Vogel N, A Time-Series Clustering
-Approach for Soil Moisture Probes Placement. Technical Report*, The Climate Corporation, 2017
-
-**Hu, J**, A Model-Assisted Probability Sampling Design for Representative
-Locations. Technical Report*, The Climate Corporation, 2017
-   
-**Hu, J**, Evaluation of the 2015 Climatology Field Experiments. Technical Report*, The Climate Corporation,
-2015
-   
-**Hu, J**, Variable Seeding Rate Corn Research Partner Trials Analysis, Technical
-Report*, The Climate Corporation, 2015  
   
-   
-*<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
-   
-   
 
 
 
