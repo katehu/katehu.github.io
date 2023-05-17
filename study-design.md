@@ -4,9 +4,9 @@ permalink: /study-design/index.html
 title: Study Design
 ---
 
-# Sampling Design and Cost-Efficient Efficacy Study Designs
+Sampling Design and Cost-Efficient Efficacy Study Designs
 
-Most statistical tools improve efficiency and bias AFTER obtaining data through sophisticated techniques, 
+Most statistical tools improve efficiency and bias after obtaining data through sophisticated techniques, 
 but if representativeness could be carefully implemented and costs can be substantially reduced at the data-collection step, then scientists and industry leaders may afford and even welcome a 
 straightforward and scalable statistical tool in analyzing the data. 
 
@@ -23,7 +23,7 @@ My next research passion lies in 1) adaptive study designs and 2) developing stu
 
 
 
-## Sampling designs with new sensing technologies <a name="study-design"></a>
+Sampling designs with new sensing technologies: <a name="study-design"></a>
 
    
 **Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
@@ -41,10 +41,9 @@ Locations. Technical Report*, The Climate Corporation, 2017
 **Hu, J**, Evaluation of the 2015 Climatology Field Experiments. Technical Report*, The Climate Corporation, 2015 <br/>
 *<small> Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> 
    
-      
-## Analysis methods for efficient study designs<a name="method"></a>
+Analysis methods for efficient study designs: <a name="method"></a>
 
-### Case Cohort Studies
+
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
@@ -53,17 +52,14 @@ Locations. Technical Report*, The Climate Corporation, 2017
 **Jie Kate Hu**, Gary Chan <br/>
 “Weights Determination in Generalized Case-Cohort Study”<br/>
 (plan to submit in January, 2023). <br/>
-      
-### Case Control Studies 
+ 
 Norman Breslow and **Jie Kate Hu**<br/>
 "Survival Analysis of Case-Control Data: A Sample Survey Approach" [[link]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/)<br/>
 *Handbook of Statistical Methods for Case-Control Studies*, Chapman and Hall/CRC, (2018). <br/>
 
-### Software for Two-phase Sampling Studies 
+Software for two-phase sampling studies: see [[additive hazards models]](http://www.katehu.com/models)      
    
-See [[additive hazards models]](http://www.katehu.com/models)      
-   
-## Theoretical tools for methods development with complex sampling designs <a name="theory"></a>
+Theoretical tools for methods development with complex sampling designs: <a name="theory"></a>
 
 **Hu, J** "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014).  <br/>
