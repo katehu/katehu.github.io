@@ -14,7 +14,7 @@ I am interested in making model development more systematic, transparent, and ac
 3) bridge statistical and mechanistic models, which can reveal and sometimes handle data issues that mechanistic modelers may ignore. 
 
 
-### Theoretical tools to make semiparametric model development systematic and transparent
+Theoretical tools for semiparametric model development systematic and transparent
 
 **Hu, J** "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014).  <br/>
@@ -24,7 +24,7 @@ Norman E. Breslow, Jie Hu, Jon A. Wellner <br/>
 “Z-estimation and Stratified Samples: Application to Survival Models” [link]  <br/>
 Lifetime Data Analysis, 21, 493-516 (2015)
 
-### Application Example: Additive hazards models <a name="ah"></a>
+Application example --- Additive hazards models:
    
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
@@ -48,7 +48,7 @@ hosted by *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
    
 
    
-### Make model developement  accessible <a name="model"></a>
+Make model developement more accessible:
 
 
 **Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
@@ -56,7 +56,7 @@ hosted by *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
 
 
 
-### Methods to integrate statistical models, measurements, and scientific knowledge <a name="measurement-model"></a> 
+Integrating statistical and mechanistic models, measurements, and scientific knowledge:
    
 **Hu**, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
 Agricultural Management Decisions. (U.S. Patent No. #11,406,053) [[link]](https://uspto.report/patent/grant/11,406,053)<br/>
