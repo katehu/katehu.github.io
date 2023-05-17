@@ -24,7 +24,7 @@ Norman E. Breslow, Jie Hu, Jon A. Wellner <br/>
 “Z-estimation and Stratified Samples: Application to Survival Models” [link]  <br/>
 Lifetime Data Analysis, 21, 493-516 (2015)
 
-### Application Example: Additive hazards models <a name="ah"></a>###
+### Application Example: Additive hazards models <a name="ah"></a>
    
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
