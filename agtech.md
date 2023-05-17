@@ -18,7 +18,7 @@ I am interested in all the interesting problems in agriculture, especially preci
 Feel free to contact me (contact@katehu.com) if you want to discuss ideas or look for people to analyze your data. 
  
  
-Related Patents:
+<font size="4"> Patents <\font>
 
 **Hu, J** & Ladoni, M. (2021) Location Selection for Treatment Sampling ---A field Study Design Tool to Optimize Treatment Assignment and Soil Sampling Locations for Model Calibration. (U.S. Patent No. #10,963,606) [[link]](https://uspto.report/patent/grant/10,963,606) <br/> 
 
@@ -26,3 +26,31 @@ Related Patents:
 
 **Hu**, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
 Agricultural Management Decisions. (U.S. Patent No. #11,406,053) [[link]](https://uspto.report/patent/grant/11,406,053)<br/>
+
+ 
+<font size="4"> Technical Reports <\font>
+
+
+**Hu**, J, Casquilho C., Chen, M, Combining Measurements and Models for
+Nitrogen Management. Technical Report*, The Climate Corporation, 2018 <br/>
+   
+**Hu**, J,, Adjust Measurement-based Nitrogen Management Decisions using
+Biogeochemical Process Models. Technical Report*,The Climate Corporation, 2018<br/>
+
+Zheng, ZS, **Hu, J**, Malone, M, Vogel N, A Time-Series Clustering
+Approach for Soil Moisture Probes Placement. Technical Report*, The Climate Corporation, 2017
+
+  
+**Hu, J**, A Model-Assisted Probability Sampling Design for Representative
+Locations. Technical Report*, The Climate Corporation, 2017
+   
+**Hu, J**, Evaluation of the 2015 Climatology Field Experiments. Technical Report*, The Climate Corporation,
+2015
+   
+**Hu, J**, Variable Seeding Rate Corn Research Partner Trials Analysis, Technical
+Report*, The Climate Corporation, 2015  
+  
+   
+*<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
+   
+ 
