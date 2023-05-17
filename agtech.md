@@ -18,7 +18,7 @@ I am interested in all the interesting problems in agriculture, especially preci
 Feel free to contact me (contact@katehu.com) if you want to discuss ideas or look for people to analyze your data. 
  
  
-Patents 
+Patents: 
 
 **Hu, J** & Ladoni, M. (2021) Location Selection for Treatment Sampling ---A field Study Design Tool to Optimize Treatment Assignment and Soil Sampling Locations for Model Calibration. (U.S. Patent No. #10,963,606) [[link]](https://uspto.report/patent/grant/10,963,606) <br/> 
 
@@ -28,7 +28,7 @@ Patents
 Agricultural Management Decisions. (U.S. Patent No. #11,406,053) [[link]](https://uspto.report/patent/grant/11,406,053)<br/>
 
  
-Internal Technical Reports 
+Internal Technical Reports: 
 
 
 **Hu**, J, Casquilho C., Chen, M, Combining Measurements and Models for
