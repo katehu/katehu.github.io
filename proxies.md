@@ -17,7 +17,7 @@ Currently,I am developing several methods to leverage auxiliary information to a
 
 
 
-<h3 style="font-weight: normal">Use negative controls, instrumental variables, and proxies to adjust for unmeasured confounding bias</h3>
+<h3 style="font-weight: normal"> Use negative controls, instrumental variables, and proxies to adjust for unmeasured confounding bias </h3>
 <a name="bias"></a> 
 
 
@@ -27,7 +27,7 @@ To appear in *Nature Review Method Primer* <br/>
  [[link to slides]](https://github.com/katehu/katehu.github.io/blob/master/Alamo_Symposium_KateHu.pdf)
   
 
- <font size="3"> Use proxies in case-cohort studies to enhance inference precision<a name="precision"></a> </font>
+<h3 style="font-weight: normal"> Use proxies in case-cohort studies to enhance inference precision<a name="precision"></a> </h3>
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
@@ -48,13 +48,13 @@ Tutorial2 - analysis of an Atherosclerosis Risk in Communities Study (ARIC) data
 hosted by *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
 
 
-**Jie Hu** <br/>
+**Jie Hu** 
 "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" 
    [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
 <small> Chapters 4, 5, 6 include methods and results for improving inference and prediction precision in semiparametric models by leveraging auxiliary variables.<small><br/> 
 
-### Use proxies to improve sampling designs<a name="study-design"></a> 
+<h1 style="font-weight: normal">  Use proxies to improve sampling designs<a name="study-design"></a> </h1> 
 
 **Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
 *<small> This patent proposes an idea to use nearby air quality monitoring stations to determine the sampling time and weights for measuring hyperlocal air quality in each neighborhood with mobile sensing platforms <small> <br/> 
