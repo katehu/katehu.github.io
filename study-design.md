@@ -23,7 +23,7 @@ My next research passion lies in 1) adaptive study designs and 2) developing stu
 
 
 
-Sampling designs with new sensing technologies: <a name="study-design"></a>
+<h3 style="font-weight: normal"> Sampling designs with new sensing technologies: <a name="study-design"></a> <br/>
 
    
 **Hu, J**, Jerkins, J, Goebel, N. Routing Method for Mobile Monitoring Platforms --- A scalable sampling method that dispatches a fleet of vehicles to collect environmental data unbiasedly (U. S. Application Serial No.17/332789) [[link]](https://uspto.report/patent/app/20210377708) <br/>
@@ -41,10 +41,10 @@ Locations. Technical Report*, The Climate Corporation, 2017
 **Hu, J**, Evaluation of the 2015 Climatology Field Experiments. Technical Report*, The Climate Corporation, 2015 <br/>
 *<small> Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> 
    
-Analysis methods for efficient study designs: <a name="method"></a>
+   
+<h3 style="font-weight: normal"> Analysis methods for efficient study designs: <a name="method"></a><br/>
 
-
-
+   
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
 *European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
@@ -59,8 +59,9 @@ Norman Breslow and **Jie Kate Hu**<br/>
 
 Software for two-phase sampling studies: see [[additive hazards models]](http://www.katehu.com/models)      
    
-Theoretical tools for methods development with complex sampling designs: <a name="theory"></a>
+<h3 style="font-weight: normal"> Theoretical tools for methods development with complex sampling designs: <a name="theory"></a> <br/>
 
+   
 **Hu, J** "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014).  <br/>
 *<small> Chapter  2 provides theoretical tools to develop semiparametric models with two-phase sampling, including both Bernoulli sampling and finite population sampling <small>
