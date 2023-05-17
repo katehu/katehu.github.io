@@ -6,10 +6,10 @@ title: Proxies
 
 Intelligent Use of Auxiliary Information
 
-Auxiliary information includes any variables collected but are not the main interest of analysis, e.g., a proxy of an expensive variable of interest, instrumental variables, negative controls. This auxiliary information is often abundant from many data sources, such as remote sensing images, electronic health records, census data, and a baseline survey in a cohort study. Unfortunetly, researchers often ignore this enormous amount of inexpensive but relevant information  in data analysis, missing the opportuntiy to improve the quailty of a study with almost no cost.  My interest is to develop tools to help people harness the full potential of this easy-to-obtain and often free information.
+Auxiliary information includes any variables collected but are not the main interest of analysis, e.g., a proxy of an expensive variable , instrumental variables, negative controls. This auxiliary information is often abundant from third-party data sources, such as remote sensing images, electronic health records, census data, and a baseline survey in a cohort study. Unfortunetly, researchers often ignore this enormous amount of relevant information  in data analysis, missing the opportuntiy to improve the quailty of a study with almost no cost.  My interest is to develop tools to help people harness the full potential of this easy-to-obtain and often free information.
 
  
-Currently,I am developing several methods to leverage auxiliary information to adjust for unmeasured confounding, using techniques in  and proximal causal inference, econometrics, and Bayesian statistics. I focus on recovering the causal estimand for continuous exposure and outcomes, with possibly many weak negative controls. <br/>  
+Currently,I am developing several methods to leverage auxiliary information to adjust for unmeasured confounding, using techniques in  and proximal causal inference, econometrics, and Bayesian statistics. I focus on recovering the causal estimand for continuous exposure and outcomes, with possibly many weak proxies. <br/>  
 
 1. [Use negative controls, instrumental variables, and proxies to adjust for unmeasured confounding bias](#bias)
 2. [Use proxies in case-cohort studies to enhance inference precision](#precision)
