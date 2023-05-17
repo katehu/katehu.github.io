@@ -14,7 +14,8 @@ I am interested in making model development more systematic, transparent, and ac
 3) bridge statistical and mechanistic models, which can reveal and sometimes handle data issues that mechanistic modelers may ignore. 
 
 
-*Theoretical tools to make semiparametric model development systematic and transparent*
+### Theoretical tools to make semiparametric model development systematic and transparent
+
 **Hu, J** "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014).  <br/>
 <small> Chapter 1 & 2 lay out how to develop and extend semiparametric models systematically <small>
@@ -23,7 +24,7 @@ Norman E. Breslow, Jie Hu, Jon A. Wellner <br/>
 “Z-estimation and Stratified Samples: Application to Survival Models” [link]  <br/>
 Lifetime Data Analysis, 21, 493-516 (2015)
 
-*Application Example: Additive hazards models <a name="ah"></a>*
+### Application Example: Additive hazards models <a name="ah"></a>###
    
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
