@@ -66,6 +66,8 @@ Nitrogen Management. Technical Report*, The Climate Corporation, 2018 <br/>
    
 **Hu**, J,, Adjust Measurement-based Nitrogen Management Decisions using
 Biogeochemical Process Models. Technical Report*,The Climate Corporation, 2018<br/>
+   
+Some [[modeling techniques]](https://fab.cba.mit.edu/classes/864.23/people/Kate/index.html) learned from [[The nature of mathmatical modeling]](https://fab.cba.mit.edu/classes/864.23/) that would be handy in the future.
 
 *<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
    
