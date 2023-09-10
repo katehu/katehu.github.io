@@ -5,26 +5,42 @@ title: Models
 ---
 A Z-estimation system
 
-I am interested in making model development more systematic, transparent, and accessible. My research is divided into three sub-research area. 
+I am interested in making model development more systematic, transparent, and accessible. I have three sub-research areas. 
 
-1) develop a systematic theoretical tool set for semiparametric and nonparametric model development to expediate the extension of existing models to new ancillary data, models, and study designs.
+1) Develop a systematic theoretical tool set for semiparametric and nonparametric model development to expedite the extension of existing models to new ancillary data, models, and study designs.
 
-2) create a system and a platform for everyone to build their own models. Unlike  machine learning, I aim to let this system help people instead of machine to learn. To learn what? --- the causal structures behind phenomena and the limitation and sometimes danger from imperfect data.
+**Hu, J** A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" PhD Diss. Chapter 1 & 2 *University of Washington ResearchWorks Archive* (2014).  <br/>
+[[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 
-3) bridge statistical and mechanistic models, which can reveal and sometimes handle data issues that mechanistic modelers may ignore. 
+Norman E. Breslow, **Jie Hu**, Jon A. Wellner “Z-estimation and Stratified Samples: Application to Survival Models” 
+*Lifetime Data Analysis*, 21, 493-516 (2015) <br/>
+[[link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4503541/) <br/> 
+
+2) Create a system and a platform for everyone to build their own models. Unlike  machine learning, I aim to let this system help people instead of machines to learn. To learn what? --- express structures behind data, the limitations and sometimes danger from imperfect data.
+
+**Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
 
 
-<h4 style="font-weight: normal"> Theoretical tools for semiparametric model development systematic and transparent: </h4>
+3) Bridge statistical and mechanistic models, which can reveal and sometimes handle data issues that mechanistic modelers may ignore. 
 
-**Hu, J** "A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
-PhD Diss.*University of Washington ResearchWorks Archive* (2014).  <br/>
-<small> Chapter 1 & 2 lay out how to develop and extend semiparametric models systematically <small>
+**Hu**, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
+Agricultural Management Decisions. (U.S. Patent No. #11,406,053) [[link]](https://uspto.report/patent/grant/11,406,053)<br/>
+   
+**Hu**, J, Casquilho C., Chen, M, Combining Measurements and Models for
+Nitrogen Management. Technical Report*, The Climate Corporation, 2018 <br/>
+   
+**Hu**, J,, Adjust Measurement-based Nitrogen Management Decisions using
+Biogeochemical Process Models. Technical Report*,The Climate Corporation, 2018<br/>
 
-Norman E. Breslow, Jie Hu, Jon A. Wellner <br/> 
-“Z-estimation and Stratified Samples: Application to Survival Models” [link]  <br/>
-Lifetime Data Analysis, 21, 493-516 (2015)
 
-Application example --- Additive hazards models:
+
+Some [[modeling techniques]](https://fab.cba.mit.edu/classes/864.23/people/Kate/index.html) learned from [[The nature of mathematical modeling]](https://fab.cba.mit.edu/classes/864.23/) 
+
+
+
+
+
+Application example of Z-system --- Development of Additive hazards models:
    
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
@@ -39,35 +55,20 @@ An R package:<br/>
 An R shiny app:<br/>
 Victoria Ding and **Jie Hu** Shinyapp *Additive Hazards* [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
    
-Tutorial1 - analysis of a National Wilms Tumor Study dataset [[link to analysis code]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html) <br/>
+Tutorial1 - Analysis of a National Wilms Tumor Study dataset [[link to analysis code]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html) <br/>
 hosted by *Department of Mathematics, University of Oslo* <br/>
 
-Tutorial2 - analysis of an Atherosclerosis Risk in Communities Study (ARIC) dataset  
+Tutorial2 - Analysis of an Atherosclerosis Risk in Communities Study (ARIC) dataset  
 [[link to analysis code]](https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-021-00739-3/MediaObjects/10654_2021_739_MOESM1_ESM.pdf) [[link to scientific questions]](https://link.springer.com/article/10.1007/s10654-021-00739-3) <br/>
 hosted by *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
    
 
    
-<h4 style="font-weight: normal"> Make model developement more accessible: </h4>
-
-
-**Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
 
 
 
 
-<h4 style="font-weight: normal"> Integrate statistical and mechanistic models, measurements, and scientific knowledge: </h4>
-   
-**Hu**, J & Carrion C. (2022) Using Causal Learning Algorithms to Assist in
-Agricultural Management Decisions. (U.S. Patent No. #11,406,053) [[link]](https://uspto.report/patent/grant/11,406,053)<br/>
-   
-**Hu**, J, Casquilho C., Chen, M, Combining Measurements and Models for
-Nitrogen Management. Technical Report*, The Climate Corporation, 2018 <br/>
-   
-**Hu**, J,, Adjust Measurement-based Nitrogen Management Decisions using
-Biogeochemical Process Models. Technical Report*,The Climate Corporation, 2018<br/>
-   
-Some [[modeling techniques]](https://fab.cba.mit.edu/classes/864.23/people/Kate/index.html) learned from [[The nature of mathmatical modeling]](https://fab.cba.mit.edu/classes/864.23/) that would be handy in the future.
+
 
 *<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
    
