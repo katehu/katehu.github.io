@@ -3,22 +3,22 @@ layout: page-home
 permalink: /models/index.html
 title: Models
 ---
-A Z-estimation system
+A Z-estimation System
 
 I am interested in making model development more systematic, transparent, and accessible. I have three sub-research areas. 
 
 1) Develop a systematic theoretical tool set for semiparametric and nonparametric model development to expedite the extension of existing models to new ancillary data, models, and study designs.
 
-**Hu, J** A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies" PhD Diss. Chapter 1 & 2 *University of Washington ResearchWorks Archive* (2014).  <br/>
+&ensp; **Hu, J** <span style=" color: blue;">A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies </span> University of Washington ResearchWorks Archive* PhD Diss. Chapters 1 & 2. (2014).  <br/>
 [[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 
-Norman E. Breslow, **Jie Hu**, Jon A. Wellner “Z-estimation and Stratified Samples: Application to Survival Models” 
+&ensp; Norman E. Breslow, **Jie Hu**, Jon A. Wellner “Z-estimation and Stratified Samples: Application to Survival Models” 
 *Lifetime Data Analysis*, 21, 493-516 (2015) <br/>
 [[link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4503541/) <br/> 
 
 2) Create a system and a platform for everyone to build their own models. Unlike  machine learning, I aim to let this system help people instead of machines to learn. To learn what? --- express structures behind data, the limitations and sometimes danger from imperfect data.
 
-**Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
+&emsp; **Hu, J**. System and Method for Modular Design of Statistical Models (U. S. Application Serial No. 18/051,403) <br/>
 
 
 3) Bridge statistical and mechanistic models, which can reveal and sometimes handle data issues that mechanistic modelers may ignore. 
