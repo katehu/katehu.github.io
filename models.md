@@ -31,7 +31,7 @@ Nitrogen Management.</span> Technical Report*, The Climate Corporation, 2018 <br
 Biogeochemical Process Models.</span> Technical Report*,The Climate Corporation, 2018<br/>
 
 
-<h3 style="font-weight: normal"> Application example of the Z-system --- Development of Additive hazards models </h3>
+<h4 style="font-weight: normal"> Application example of the Z-system --- Development of Additive hazards models </h4>
    
    -   **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/> “Estimating Disease Hazard Differences from Case-Cohort Studies” *European Journal of Epidemiology*, Jun, 1-14 (2021). <br/> [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
 
