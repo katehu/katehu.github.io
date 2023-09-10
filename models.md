@@ -31,7 +31,7 @@ Nitrogen Management.</span> Technical Report*, The Climate Corporation, 2018 <br
 Biogeochemical Process Models.</span> Technical Report*,The Climate Corporation, 2018<br/>
 
 
-<h4 style="font-weight: normal"> Application example of the Z-system --- Development of Additive hazards models </h4>
+** Application example of the Z-system --- Development of Additive hazards models **
    
    -   **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/> “Estimating Disease Hazard Differences from Case-Cohort Studies” *European Journal of Epidemiology*, Jun, 1-14 (2021). <br/> [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
 
@@ -39,7 +39,7 @@ Biogeochemical Process Models.</span> Technical Report*,The Climate Corporation,
    
    - An R package:<br/>
    **Jie Hu** "Fit Additive Hazards Models for Survival Analysis", CRAN - Package *addhazard* (2020). [[link1]](https://github.com/katehu/addhazard) [[link2]](https://cran.r-project.org/web/packages/addhazard/index.html)<br/> 
-[[link to A user's manual]](https://cran.r-project.org/web/packages/addhazard/addhazard.pdf)
+[[link to a user's manual]](https://cran.r-project.org/web/packages/addhazard/addhazard.pdf)
 
    - An R shiny app:<br/>
 Victoria Ding and **Jie Hu** Shinyapp *Additive Hazards* [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) <br/>
@@ -53,7 +53,7 @@ hosted by *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
    
 Other links:
 
-- Some [[modeling techniques]](https://fab.cba.mit.edu/classes/864.23/people/Kate/index.html) 
+- [[modeling techniques]](https://fab.cba.mit.edu/classes/864.23/people/Kate/index.html) 
 - [[The nature of mathematical modeling]](https://fab.cba.mit.edu/classes/864.23/) 
 
 
