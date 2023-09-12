@@ -3,76 +3,73 @@ layout: page-home
 permalink: /models/index.html
 title: Models
 ---
-A Z-estimation System
+# A Z-estimation System
 
-I am interested in making model development more systematic, transparent, and accessible. I have three sub-research areas. 
+I am interested in making model development more systematic, transparent, and accessible. I have three sub-research areas.
 
-
-
-1. [A system to rapidly extend semiparametric models](#Z-system)
-2. [EEsy: A software for everyone to build their own models](#EEsy)
-3. [Bridge statistical and mechanistic models](#combine)<br/>
-
-<h3 style="font-weight: normal"> A system to rapidly extend semiparametric models to new sampling designs, models, and incorporation of ancillary data <a name="Z-system"></a> </h3>
+## A system to rapidly extend semiparametric models to new sampling designs, models, and incorporation of ancillary data
 
 
-   - **Hu, J** <span style=" color: blue;"> A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies </span> *University of Washington ResearchWorks Archive* PhD Diss. Chapters 1 & 2. (2014).
-[[link]](https://digital.lib.washington.edu/researchworks/handle/1773/27427) 
+**Hu, J**<br/>
+["A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies"](https://digital.lib.washington.edu/researchworks/handle/1773/27427)<br/>
+*University of Washington ResearchWorks Archive* PhD Diss. Chapters 1 & 2. (2014)
 
-   - Breslow, N, **Hu, J** , Wellner, Jon.  <span style=" color: blue;"> Z-estimation and Stratified Samples: Application to Survival Models” *Lifetime Data Analysis*, 21, 493-516 (2015)</span> [[link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4503541/)
+Breslow, N, **Hu, J** , Wellner, Jon.<br/>
+[Z-estimation and Stratified Samples: Application to Survival Models”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4503541/)<br/>
+*Lifetime Data Analysis*, 21, 493-516 (2015)
 
-   - **Application example of the Z-system --- Development of Additive hazards models**
-   
-      -  **Hu**, J,  Breslow, N, Chan, Gary, Couper, D. <span style=" color: blue;">Estimating Disease Hazard Differences from Case-Cohort Studies </span>  *European Journal of Epidemiology*, Jun, 1-14 (2021) <br/> [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)
+## Application example of the Z-system --- Development of Additive hazards models
 
-      - An R package:<br/>
-   **Hu**, J. <span style=" color: blue;">Fit Additive Hazards Models for Survival Analysis"</span>. CRAN - Package *addhazard* (2020) [[link1]](https://github.com/katehu/addhazard) [[link2]](https://cran.r-project.org/web/packages/addhazard/index.html)
-[[link to a user's manual]](https://cran.r-project.org/web/packages/addhazard/addhazard.pdf)
+**Hu**, J,  Breslow, N, Chan, Gary, Couper, D.<br/>
+["Estimating Disease Hazard Differences from Case-Cohort Studies"](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
+*European Journal of Epidemiology*, Jun, 1-14 (2021)
 
-      - An R shiny app:<br/>
-Ding, V and **Hu**, J. Shinyapp <span style=" color: blue;">Additive Hazards </span> [[link]](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069) 
-   
-      - Tutorial1 - Analysis of a National Wilms Tumor Study dataset [[link to analysis code]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html)
+### Software
 
-     - Tutorial2 - Analysis of an Atherosclerosis Risk in Communities Study (ARIC) dataset  
-[[link to analysis code]](https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-021-00739-3/MediaObjects/10654_2021_739_MOESM1_ESM.pdf) [[link to scientific questions]](https://link.springer.com/article/10.1007/s10654-021-00739-3)
+**Hu, J.**<br/>
+["Fit Additive Hazards Models for Survival Analysis"](https://github.com/katehu/addhazard) [[link2]](https://cran.r-project.org/web/packages/addhazard/index.html)<br/>
+CRAN - Package *addhazard* (2020)<br/>
+[[user's manual]](https://cran.r-project.org/web/packages/addhazard/addhazard.pdf)
 
-<h3 style="font-weight: normal"> A software for everyone to build their own models. Unlike  machine learning, I aim to let this system help people instead of machines to learn. To learn what? --- express structures behind data, the limitations and sometimes danger from imperfect data <a name="Z-system"></a> </h3>
+Ding, V and **Hu**, J.<br/>
+[Additive Hazards](https://addhazard.shinyapps.io/addhazard_shiny/?_ga=2.22828659.979974368.1670686069-1357428355.1670686069)<br/>
+Shinyapp
 
-   - **Hu, J**. <span style=" color: blue;">System and Method for Modular Design of Statistical Models </span> (U. S. Application Serial No. 18/051,403) 
+### Tutorials
 
+Analysis of a National Wilms Tumor Study dataset<br/>
+[[code]](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html)
 
-<h3 style="font-weight: normal">Bridge statistical and mechanistic models, which can reveal and sometimes handle data issues that mechanistic modelers may ignore <a name="combine"></a> </h3>
+Analysis of an Atherosclerosis Risk in Communities Study (ARIC) dataset<br/>
+[[code]](https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-021-00739-3/MediaObjects/10654_2021_739_MOESM1_ESM.pdf)[[scientific questions]](https://link.springer.com/article/10.1007/s10654-021-00739-3)
 
-   - **Hu**, J & Carrion, C. (2022) <span style=" color: blue;"> Using Causal Learning Algorithms to Assist in
-Agricultural Management Decisions. </span> (U.S. Patent No. #11,406,053) [[link]](https://uspto.report/patent/grant/11,406,053)<br/>
-   
-   - **Hu**, J, Casquilho, C., Chen, M. <span style=" color: blue;"> Combining Measurements and Models for
-Nitrogen Management.</span> Technical Report*, The Climate Corporation, 2018 
-   
-   - **Hu**, J. <span style=" color: blue;"> Adjust Measurement-based Nitrogen Management Decisions using
-Biogeochemical Process Models.</span> Technical Report*,The Climate Corporation, 2018
+## A software for everyone to build their own models
 
+Unlike  machine learning, I aim to let this system help people instead of machines to learn. To learn what? --- express structures behind data, the limitations and sometimes danger from imperfect data
 
+**Hu, J**<br/>
+System and Method for Modular Design of Statistical Models<br/>
+(U. S. Application Serial No. 18/051,403) 
 
-   
-Other links:
+## Bridge statistical and mechanistic models
+
+This can reveal and sometimes handle data issues that mechanistic modelers may ignore.
+
+**Hu, J** & Carrion, C. (2022)<br/>
+[Using Causal Learning Algorithms to Assist in Agricultural Management Decisions](https://uspto.report/patent/grant/11,406,053)<br/>
+(U.S. Patent No. #11,406,053)
+
+**Hu, J**, Casquilho, C., Chen, M.<br/>
+Combining Measurements and Models for Nitrogen Management *<br/>
+The Climate Corporation, 2018 
+
+**Hu, J.**<br/>
+Adjust Measurement-based Nitrogen Management Decisions using Biogeochemical Process Models *<br/>
+The Climate Corporation, 2018
+
+<small>* Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science</small>
+
+## Other Links
 
 - [[modeling techniques]](https://fab.cba.mit.edu/classes/864.23/people/Kate/index.html) 
 - [[The nature of mathematical modeling]](https://fab.cba.mit.edu/classes/864.23/) 
-
-
-   
-
-
-
-
-
-
-*<small>Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science <small> <br/>
-   
-   
-
-      
-   
-
