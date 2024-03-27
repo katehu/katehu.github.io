@@ -14,9 +14,13 @@ Currently,I am developing several methods to leverage auxiliary information to a
 
 **Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
 “Leveraging Auxiliary Information to Adjust for Unmeasured Confounding in Time Series Study Designs”<br/>
-To appear in *Nature Review Method Primer* <br/>
+ [[Nature Review Method Primer]](https://rdcu.be/dnIzr)  <br/>
  [[slides]](https://github.com/katehu/katehu.github.io/blob/master/Alamo_Symposium_KateHu.pdf)
-  
+  https://rdcu.be/dnIzr
+
+**Hu, J. K**., Zorzetto, D., & Dominici, F.<br/>
+"[[A Bayesian Nonparametric Method to Adjust for Unmeasured Confounding with Negative Controls]](arXiv:2309.02631). arXiv preprint <br/>
+
 ## Enhancing inference precision in case-cohort studies
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
