@@ -19,7 +19,7 @@ Currently,I am developing several methods to leverage auxiliary information to a
  
 
 **Hu, J. K**., Zorzetto, D., & Dominici, F.<br/>
-"[[A Bayesian Nonparametric Method to Adjust for Unmeasured Confounding with Negative Controls]](https://arXiv:2309.02631) <br/>
+"[[A Bayesian Nonparametric Method to Adjust for Unmeasured Confounding with Negative Controls]](https://arxiv.org/abs/2309.02631) <br/>
 
 ## Enhancing inference precision in case-cohort studies
 
