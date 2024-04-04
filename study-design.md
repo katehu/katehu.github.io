@@ -9,9 +9,9 @@ title: Study Design
 Most statistical tools improve efficiency after obtaining data through sophisticated techniques, 
 but if  costs can be substantially reduced and  at the data-collection step, then scientists and industry leaders will afford and even welcome a straightforward and scalable statistical tool in analyzing the data. 
 
+In the industry, I research practical data collection and design methods to improve representativeness and efficiency in sampling, especially leveraging the ["auxiliary information"](http://www.katehu.com/proxies/) from new sensing technologies. I have worked with field scientists, sensor engineers, and software engineers to implement these methods in the real world. 
 
-
-After my Ph.D., I moved to the industry to research practical data collection and design methods to improve representativeness and efficiency in sampling, especially leveraging the ["auxiliary information"](http://www.katehu.com/proxies/) from new sensing technologies. I have worked with field scientists, sensor engineers, and software engineers to implement these methods in the real world. To accompany my research in study designs, I am  developing statistical analysis tools, guidance materials, and software to ease the use of complex but efficient study designs, and developing theoretical tools to facilitate the extension of methods developed for simple random sampling data to such designs.
+In academia, to accompany my research in study designs, I am  developing statistical analysis tools, guidance materials, and software to ease the use of complex but efficient study designs, and I am developing theoretical tools to facilitate the extension of methods developed for simple random sampling data to such designs.
 
 My current research interest is practical and adaptive study design for building environmental monitoring networks.
 
