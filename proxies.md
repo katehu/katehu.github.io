@@ -4,7 +4,7 @@ permalink: /proxies/index.html
 title: Proxies
 ---
 
-# Intelligent Use of Auxiliary Information
+# Use Auxiliary Information to Improve Statistical Inference
 
 Auxiliary information includes any variables collected but are not the main interest of analysis, e.g., a proxy of an expensive variable, instrumental variables, and negative controls. This auxiliary information is often abundant from third-party data sources, such as remote sensing images, electronic health records, census data, and a baseline survey in a cohort study. However, researchers often ignore this enormous amount of relevant information, missing the opportunity to improve the quality of a study with almost no cost.  My interest is to develop tools to help interested users harness the full potential of this easy-to-obtain and often free information.
 
