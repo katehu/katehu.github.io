@@ -6,17 +6,20 @@ title: Proxies
 
 # Intelligent Use of Auxiliary Information
 
-Auxiliary information includes any variables collected but are not the main interest of analysis, e.g., a proxy of an expensive variable , instrumental variables, negative controls. This auxiliary information is often abundant from third-party data sources, such as remote sensing images, electronic health records, census data, and a baseline survey in a cohort study. Unfortunetly, researchers often ignore this enormous amount of relevant information  in data analysis, missing the opportuntiy to improve the quailty of a study with almost no cost.  My interest is to develop tools to help people harness the full potential of this easy-to-obtain and often free information.
+Auxiliary information includes any variables collected but are not the main interest of analysis, e.g., a proxy of an expensive variable, instrumental variables, and negative controls. This auxiliary information is often abundant from third-party data sources, such as remote sensing images, electronic health records, census data, and a baseline survey in a cohort study. However, researchers often ignore this enormous amount of relevant information in data analysis, missing the opportunity to improve the quality of a study with almost no cost.  My interest is to develop tools to help interested users harness the full potential of this easy-to-obtain and often free information.
 
-Currently,I am developing several methods to leverage auxiliary information to adjust for unmeasured confounding, using techniques in  and proximal causal inference, econometrics, and Bayesian statistics. I focus on recovering the causal estimand for continuous exposure and outcomes, with possibly many weak proxies.
+Currently, I am developing methods to leverage auxiliary information to adjust for unmeasured confounding. I focus on continuous exposure and time series data.
 
 ## Adjusting for unmeasured confounding bias
 
 **Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
 “Leveraging Auxiliary Information to Adjust for Unmeasured Confounding in Time Series Study Designs”<br/>
  [[Nature Review Method Primer]](https://rdcu.be/dnIzr)  <br/>
- [[slides]](https://github.com/katehu/katehu.github.io/blob/master/Alamo_Symposium_KateHu.pdf)<br/>
+ [[Exercise code in slides 11 and 17]](https://github.com/katehu/katehu.github.io/blob/master/Alamo_Symposium_KateHu.pdf)<br/>
  
+ **Hu, J.K**., Tchetgen Tchetgen, E.J. <br/>
+ ["Causal Inference with Time Series Data and Unmeasured Confounding"](https://sites.google.com/view/ci4ts2023/)<br/>
+ *Causal Inference for Time Series Data Workshop @ 39th Conference on Uncertainty in Artificial Intelligence (2023)*
 
 **Hu, J. K**., Zorzetto, D., & Dominici, F.<br/>
 "[[A Bayesian Nonparametric Method to Adjust for Unmeasured Confounding with Negative Controls]](https://arxiv.org/abs/2309.02631) <br/>
