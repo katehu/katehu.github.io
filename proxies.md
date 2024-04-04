@@ -6,7 +6,7 @@ title: Proxies
 
 # Intelligent Use of Auxiliary Information
 
-Auxiliary information includes any variables collected but are not the main interest of analysis, e.g., a proxy of an expensive variable, instrumental variables, and negative controls. This auxiliary information is often abundant from third-party data sources, such as remote sensing images, electronic health records, census data, and a baseline survey in a cohort study. However, researchers often ignore this enormous amount of relevant information in data analysis, missing the opportunity to improve the quality of a study with almost no cost.  My interest is to develop tools to help interested users harness the full potential of this easy-to-obtain and often free information.
+Auxiliary information includes any variables collected but are not the main interest of analysis, e.g., a proxy of an expensive variable, instrumental variables, and negative controls. This auxiliary information is often abundant from third-party data sources, such as remote sensing images, electronic health records, census data, and a baseline survey in a cohort study. However, researchers often ignore this enormous amount of relevant information, missing the opportunity to improve the quality of a study with almost no cost.  My interest is to develop tools to help interested users harness the full potential of this easy-to-obtain and often free information.
 
 Currently, I am developing methods to leverage auxiliary information to adjust for unmeasured confounding. I focus on continuous exposure and time series data.
 
@@ -22,28 +22,37 @@ Currently, I am developing methods to leverage auxiliary information to adjust f
  *Causal Inference for Time Series Data Workshop @ 39th Conference on Uncertainty in Artificial Intelligence (2023)*
 
 **Hu, J. K**., Zorzetto, D., & Dominici, F.<br/>
-"[[A Bayesian Nonparametric Method to Adjust for Unmeasured Confounding with Negative Controls]](https://arxiv.org/abs/2309.02631) <br/>
+"["A Bayesian Nonparametric Method to Adjust for Unmeasured Confounding with Negative Controls"](https://arxiv.org/abs/2309.02631) <br/>
+[[Code]](https://github.com/NSAPH-Projects/BNP-For-Unmeasured-Confounding)<br/>
+## Enhancing inference precision
 
-## Enhancing inference precision in case-cohort studies
+for case-cohort studies<br/>
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 [“Estimating Disease Hazard Differences from Case-Cohort Studies”](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
 *European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
 <small>This article includes methods and software for improving inference precision by leveraging auxiliary variables.</small>
 
+for case-control studies<br/>
+Norman Breslow and **Jie Hu**.<br/> 
+["Survival Analysis of Case-Control Data: A Sample Survey Approach"](https://www.taylorfrancis.com/chapters/edit/10.1201/9781315154084-17/survival-analysis-case-control-data-sample-survey-approach-norman-breslow-jie-kate-hu)<br/>
+*Handbook of Statistical Methods for Case-Control Studies, Chapman and Hall/CRC*<br/>
+<small> Please email me if you don't have access.</small>
+
+for general two-phase sampling studies<br/>
 **Jie Hu**<br/>
 ["A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies"](https://digital.lib.washington.edu/researchworks/handle/1773/27427) <br/> 
 PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
 <small>Chapters 4, 5, 6 include methods and results for improving inference and prediction precision in semiparametric models by leveraging auxiliary variables.</small>
    
-### Software
+#### Software
 
 **Jie Hu**<br/>
 ["Fit Additive Hazards Models for Survival Analysis"](https://cran.r-project.org/web/packages/addhazard/index.html)<br/>
 CRAN - Package *addhazard* (2020)<br/>
 [[github]](https://github.com/katehu/addhazard)[[user's manual]](https://cran.r-project.org/web/packages/addhazard/addhazard.pdf)
 
-### Software Tutorials
+#### Tutorials
 
 [Analysis of a National Wilms Tumor Study dataset](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html)<br/>
 hosted by *Department of Mathematics, University of Oslo*<br/>
