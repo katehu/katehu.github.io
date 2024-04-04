@@ -5,7 +5,7 @@ title: Models
 ---
 # A Z-estimation System
 
-I want to make the asymptotic analysis behind statistical method development transparent and accessible to non-black-box statistical model development. I built a system based on Z-estimation.
+I aim to make the development of non-black-box statistical models  and the underlying asymptotic analysis transparent and accessible. For this purpose, I built a system based on Z-estimation.
 
 **Hu, J**<br/>
 ["A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies"](https://digital.lib.washington.edu/researchworks/handle/1773/27427)<br/>
