@@ -4,16 +4,16 @@ permalink: /study-design/index.html
 title: Study Design
 ---
 
-# Sampling Design and Cost-Efficient Efficacy Study Designs
+#  Cost-Effective Study Designs
 
-Most statistical tools improve efficiency and bias after obtaining data through sophisticated techniques, 
-but if representativeness could be carefully implemented and costs can be substantially reduced at the data-collection step, then scientists and industry leaders may afford and even welcome a 
-straightforward and scalable statistical tool in analyzing the data. 
+Most statistical tools improve efficiency after obtaining data through sophisticated techniques, 
+but if  costs can be substantially reduced and  at the data-collection step, then scientists and industry leaders will afford and even welcome a straightforward and scalable statistical tool in analyzing the data. 
 
-Motivated by this belief, after my Ph.D., 
-I moved to the industry to research data collection and study design methods, especially with new sensing technologies. I worked with field scientists, sensor engineers, and software engineers to implement these methods in the real world. In the meantime, I continue developing statistical analysis tools, guidance materials, and software to ease using complex but efficient study designs. In addition, I continue developing theoretical tools to facilitate the extension of methods for simple to complex study designs.
 
-My next research passion lies in 1) adaptive study designs and 2) developing study designs for building sensing monitor networks for surveillance.  
+
+After my Ph.D., I moved to the industry to research practical data collection and design methods to improve representativeness and efficiency in sampling, especially leveraging the ["auxiliary information"](http://www.katehu.com/proxies/) from new sensing technologies. I have worked with field scientists, sensor engineers, and software engineers to implement these methods in the real world. To accompany the practical designs, I am  developing statistical analysis tools, guidance materials, and software to ease the use of complex but efficient study designs, and developing theoretical tools to facilitate the extension of methods to such designs.
+
+My current research interest is practical and adaptive study design for building environmental monitoring networks for surveillance  
 
 ## Sampling designs with new sensing technologies
 
@@ -42,7 +42,7 @@ The Climate Corporation, 2015
 
 *<small> Internal Peer-Reviewed Technical Reports @ The Climate Corporation, A subsidary of Bayer Crop Science</small>
    
-## Analysis methods for efficient study designs
+ ## Analysis methods for efficient study designs 
    
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 [“Estimating Disease Hazard Differences from Case-Cohort Studies”](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
