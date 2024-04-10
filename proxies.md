@@ -32,7 +32,7 @@ for case-cohort studies<br/>
 [“Estimating Disease Hazard Differences from Case-Cohort Studies”](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
 *European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
 <small>This article includes methods and software for improving inference precision by leveraging auxiliary variables.</small>
-[[Slides]](https://github.com/katehu/katehu.github.io/blob/master/Alamo_Symposium_KateHu.pdf)<br/>
+[[Slides]]()<br/>
 
 for case-control studies<br/>
 Norman Breslow and **Jie Hu**.<br/> 
