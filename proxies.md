@@ -58,7 +58,7 @@ Dataset *nwts2ph* is in R Package *addhazard* <br/>
 
 
 [Analysis of Breast Cancer dataset](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html)<br/> 
-[Dataset](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/index.html)<br/>
+[Dataset](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/index.html) hosted by Department of Mathematics, University of Oslo <br/>
 
 [Analysis of an Atherosclerosis Risk in Communities Study (ARIC) dataset](https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-021-00739-3/MediaObjects/10654_2021_739_MOESM1_ESM.pdf)<br/>
 hosted by *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
