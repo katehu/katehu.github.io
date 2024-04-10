@@ -49,13 +49,16 @@ PhD Diss.*University of Washington ResearchWorks Archive* (2014). <br/>
 
 **Jie Hu**<br/>
 ["Fit Additive Hazards Models for Survival Analysis"](https://cran.r-project.org/web/packages/addhazard/index.html)<br/>
-CRAN - Package *addhazard* (2020)<br/>
+CRAN -R Package *addhazard* (2020)<br/>
 [[github]](https://github.com/katehu/addhazard)[[user's manual]](https://cran.r-project.org/web/packages/addhazard/addhazard.pdf)
 
 #### Tutorials
+[Analysis of a National Wilms Tumor Study dataset](https://cran.r-project.org/web/packages/addhazard/addhazard.pdf) <br/>
+Dataset *nwts2ph* is in R Package *addhazard* <br/>
 
-[Analysis of a National Wilms Tumor Study dataset](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html)<br/>
-hosted by *Department of Mathematics, University of Oslo*<br/>
+
+[Analysis of Breast Cancer dataset](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/bc_ah_analysis_for_table_17.4.html)<br/> 
+[Dataset](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/handbook-of-case-control-studies/chapter-17/index.html)<br/>
 
 [Analysis of an Atherosclerosis Risk in Communities Study (ARIC) dataset](https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-021-00739-3/MediaObjects/10654_2021_739_MOESM1_ESM.pdf)<br/>
 hosted by *European Journal of Epidemiology*, Jun, 1-14 (2021).<br/>
