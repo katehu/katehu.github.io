@@ -1,7 +1,7 @@
 ---
 layout: page-home
 permalink: /models/index.html
-title: Models
+title: Z-estimation
 ---
 # A Z-estimation System
 
@@ -9,7 +9,7 @@ I aim to make the development of non-black-box statistical models  and the under
 
 **Hu, J**<br/>
 ["A Z-estimation system for two-phase sampling with applications to additive hazards models and epidemiologic studies"](https://digital.lib.washington.edu/researchworks/handle/1773/27427)<br/>
-*University of Washington ResearchWorks Archive* PhD Diss. Chapters 1 & 2. (2014)
+*the University of Washington ResearchWorks Archive* PhD Diss. Chapters 1 & 2. (2014)
 
 Breslow, N, **Hu, J** , Wellner, Jon.<br/>
 [Z-estimation and Stratified Samples: Application to Survival Models”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4503541/)<br/>
