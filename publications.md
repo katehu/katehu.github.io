@@ -3,7 +3,8 @@ layout: page-home
 permalink: /publications/index.html
 title: Publications
 ---
-outdated...  see CV
+outdated...  see CV <br/>
+
 <font size="4">  Methods and Theory </font> 
 
 **Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
