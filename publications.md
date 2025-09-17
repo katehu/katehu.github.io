@@ -6,19 +6,19 @@ title: Publications
 
 <font size="4"> Papers  </font> 
 
-**Hu, J. K.**, Trišović, A., Bakshi, A., Braun, D., Dominici, F., & Casey, J. A. (2025). Coexposure to extreme heat, wildfire burn zones, and wildfire smoke in the Western US from 2006 to 2020. Science Advances, 11, eadq6453. <br/>
+**Hu, J. K.**, Trišović, A., Bakshi, A., Braun, D., Dominici, F., & Casey, J. A. (2025). Coexposure to extreme heat, wildfire burn zones, and wildfire smoke in the Western US from 2006 to 2020. *Science Advances*, 11, eadq6453. <br/>
 	
-White, G. W., Yamamoto, J. K., Elsyad, D. H., Schmitt, J. F., Korsgaard, N. H., **Hu, J. K.**, Gaines III, G. C., Frescino, T. S., & McConville, K. S. (2025). Small area estimation of forest biomass via a two-stage model for continuous zero-inflated data. Canadian Journal of Forest Research, 55, 1–19. <br/>
+White, G. W., Yamamoto, J. K., Elsyad, D. H., Schmitt, J. F., Korsgaard, N. H., **Hu, J. K.**, Gaines III, G. C., Frescino, T. S., & McConville, K. S. (2025). Small area estimation of forest biomass via a two-stage model for continuous zero-inflated data. *Canadian Journal of Forest Research*, 55, 1–19. <br/>
 
-Aggarwal S, **Hu JK**, Sullivan JA, Parks RM, Nethery RC. Severe flooding and cause-specific hospitalisation among older adults in the USA: a retrospective matched cohort analysis. Lancet Planet Health. 2025 Jul;9(7):101268. doi: 10.1016/S2542-5196(25)00132-9. Epub 2025 Jul 30. PMID: 40752514; PMCID: PMC12360453. <br/>
+Aggarwal S, **Hu JK**, Sullivan JA, Parks RM, Nethery RC. Severe flooding and cause-specific hospitalisation among older adults in the USA: a retrospective matched cohort analysis. *Lancet Planet Health*. 2025 Jul;9(7):101268. doi: 10.1016/S2542-5196(25)00132-9. Epub 2025 Jul 30. PMID: 40752514; PMCID: PMC12360453. <br/>
 
-**Hu, J.K.**, Tchetgen Tchetgen, E.J. and Dominici, F. Using negative controls to adjust for unmeasured confounding bias in time series studies. Nat Rev Methods Primers 3, 67 (2023). https://doi.org/10.1038/s43586-023-00259-2 <br/>
+**Hu, J.K.**, Tchetgen Tchetgen, E.J. and Dominici, F. Using negative controls to adjust for unmeasured confounding bias in time series studies. *Nature Review Methods Primers* 3, 67 (2023). https://doi.org/10.1038/s43586-023-00259-2 <br/>
 
-**Hu, J. K.**, Zorzetto, D., & Dominici, F. A Bayesian Nonparametric Method to Adjust for Unmeasured Confounding with Negative Controls. （2023). arXiv preprint arXiv:2309.02631. (Under Revision for American Journal of Epidemiology)<br/>
+**Hu, J. K.**, Zorzetto, D., & Dominici, F. A Bayesian Nonparametric Method to Adjust for Unmeasured Confounding with Negative Controls. （2023). arXiv preprint arXiv:2309.02631. (Under Revision for *American Journal of Epidemiology*)<br/>
  
-Spangler, K. R., Adams, Q. H., **Hu, J. K.**, Braun, D., Weinberger, K. R., Dominici, F., & Wellenius, G. A. Does Choice of Outdoor Heat Metric Affect Heat-Related Epidemiologic Analyses in the US Medicare Population?.（2023） Environmental Epidemiology 7(4).<br/>
+Spangler, K. R., Adams, Q. H., **Hu, J. K.**, Braun, D., Weinberger, K. R., Dominici, F., & Wellenius, G. A. Does Choice of Outdoor Heat Metric Affect Heat-Related Epidemiologic Analyses in the US Medicare Population?.（2023） *Environmental Epidemiology* 7(4).<br/>
 
-Mauricio Tec, Ana Trisovic, Michelle Audirac, Sophie Mirabai Woodward, **Jie Kate Hu**, Naeem Khoshnevis, Francesca Dominici. “SpaCE: The Spatial Confounding Environment” arXiv preprint: arXiv 2312.00710 (ICLR 2024)<br/>
+Mauricio Tec, Ana Trisovic, Michelle Audirac, Sophie Mirabai Woodward, **Jie Kate Hu**, Naeem Khoshnevis, Francesca Dominici. SpaCE: The Spatial Confounding Environment. (2024). *ICLR* arXiv preprint: arXiv 2312.00710 <br/>
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
