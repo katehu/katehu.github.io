@@ -19,7 +19,6 @@ Aggarwal S, **Hu JK**, Sullivan JA, Parks RM, Nethery RC. Severe flooding and ca
 Spangler, K. R., Adams, Q. H., **Hu, J. K.**, Braun, D., Weinberger, K. R., Dominici, F., & Wellenius, G. A. Does Choice of Outdoor Heat Metric Affect Heat-Related Epidemiologic Analyses in the US Medicare Population?.（2023） Environmental Epidemiology 7(4).<br/>
 
 Mauricio Tec, Ana Trisovic, Michelle Audirac, Sophie Mirabai Woodward, **Jie Kate Hu**, Naeem Khoshnevis, Francesca Dominici. “SpaCE: The Spatial Confounding Environment” arXiv preprint: arXiv 2312.00710 (ICLR 2024)<br/>
-<img width="484" height="81" alt="image" src="https://github.com/user-attachments/assets/c88e2d98-7a60-4534-9130-8c14b0571b05" /><br/>
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
