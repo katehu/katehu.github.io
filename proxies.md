@@ -1,7 +1,7 @@
 ---
 layout: page-home
 permalink: /proxies/index.html
-title: Proxies
+title: Auxiliary Information
 ---
 
 # Use Auxiliary Information to Improve Statistical Inference
