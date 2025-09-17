@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
- <font size="4"> Papers  </font> 
+<font size="4"> Papers  </font> 
 
 **Hu, J. K.**, Trišović, A., Bakshi, A., Braun, D., Dominici, F., & Casey, J. A. (2025). Coexposure to extreme heat, wildfire burn zones, and wildfire smoke in the Western US from 2006 to 2020. Science Advances, 11, eadq6453. <br/>
 	
