@@ -9,7 +9,7 @@ chart: true
 
 ![Profile Picture](profile.png){:width="250"}
 
- **Kate Hu** is a National Research Service Award postdoctoral fellow at Harvard University, developing methodologies to use auxiliary information embedded in time series and spatial data to adjust for unmeasured and mismeasured confounding bias. She will join the Department of Statistics at Ohio State University in August 2024. Her research interests  include
+ **Kate Hu** is an Assistant Professor from the Department of Statistics at the Ohio State Universitya. , developing methodologies to use auxiliary information embedded in time series and spatial data to adjust for unmeasured and mismeasured confounding bias. She will join the Department of Statistics at Ohio State University in August 2024. Her research interests  include
 
  * Precision agriculture
  * Epidemiology
@@ -18,7 +18,7 @@ chart: true
  * Z-estimation
  
 
-Before returning to academia, Dr. Kate Hu was the Head of Data Science at [Aclima](https://air.health/) Inc., where she drives the company’s data science R&D to deliver hyper-local air pollution and greenhouse gas emission maps at the unprecedented block-by-block resolution, by dispatching a fleet of vehicles equipped with environmental sensors. This environmental “big data” fills a big gap in what policymakers and activists rely on to bring environmental justice to underserved communities.  During her tenure as the Head of Data Science, the company was honored #1 in [the 10 most innovative companies in data science by Fast Company in 2021](https://www.fastcompany.com/90600170/data-science-most-innovative-companies-2021).
+Dr. Kate Hu was a National Research Service Award postdoctoral fellow at Harvard University. Before returning to academia  Dr. Kate Hu was the Head of Data Science at [Aclima](https://air.health/) Inc., where she drives the company’s data science R&D to deliver hyper-local air pollution and greenhouse gas emission maps, by dispatching a fleet of vehicles equipped with environmental sensors. This environmental “big data” fills a  gap in what policymakers and activists rely on to bring environmental justice to underserved communities.  During her time as the Head of Data Science, the company was honored #1 in [the 10 most innovative companies in data science by Fast Company in 2021](https://www.fastcompany.com/90600170/data-science-most-innovative-companies-2021).
 
 Prior to joining Aclima Inc, Dr. Kate Hu was a senior quantitative researcher at [Climate](https://climate.com/features/variable-rate-seeding/) LLC, innovating precision agriculture solutions to help farmers maximize the economic return and adapt to climate change.  She first led the research program in sampling and experimental designs to collect field data scientifically for model calibration and evaluation. Then she led the interdisciplinary research efforts to develop precision nitrogen treatment algorithms that respond to local environment and real-time weather change,  by combining mechanistic models, statistical models, and new sensing technologies. 
 
