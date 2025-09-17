@@ -14,7 +14,7 @@ chart: true
 
  *Causal inference with time series, spatial, and continuous exposure data
  *Leveraging auxiliary information to address unmeasured or mismeasured confounding 
- * Enhancing inference precision in semiparametric models through auxiliary information
+ *Enhancing inference precision in semiparametric models through auxiliary information
  *Designing cost-effective studies with auxiliary information
  *Reducing statistical bias in data collection using auxiliary information
  *Developing a Z-estimation system to expediate asymptotic analysis for  estimators with a square root N convergence
