@@ -3,13 +3,25 @@ layout: page-home
 permalink: /publications/index.html
 title: Publications
 ---
-outdated...  see CV <br/>
 
-<font size="4">  Methods and Theory </font> 
 
-**Jie Hu**, Eric Tchetgen Tchetgen, Francesca Dominici<br/>
-“Leveraging Auxiliary Information to Adjust for Unmeasured Confounding in Time Series Study Designs”<br/>
-To appear in *Nature Review Method Primer* <br/>
+
+**Hu, J. K.**, Trišović, A., Bakshi, A., Braun, D., Dominici, F., & Casey, J. A. (2025). Coexposure to extreme heat, wildfire burn zones, and wildfire smoke in the Western US from 2006 to 2020. Science Advances, 11, eadq6453. <br/>
+	
+White, G. W., Yamamoto, J. K., Elsyad, D. H., Schmitt, J. F., Korsgaard, N. H., **Hu, J. K.**, Gaines III, G. C., Frescino, T. S., & McConville, K. S. (2025). Small area estimation of forest biomass via a two-stage model for continuous zero-inflated data. Canadian Journal of Forest Research, 55, 1–19. <br/>
+
+Aggarwal S, **Hu JK**, Sullivan JA, Parks RM, Nethery RC. Severe flooding and cause-specific hospitalisation among older adults in the USA: a retrospective matched cohort analysis. Lancet Planet Health. 2025 Jul;9(7):101268. doi: 10.1016/S2542-5196(25)00132-9. Epub 2025 Jul 30. PMID: 40752514; PMCID: PMC12360453. <br/>
+
+Hu, J.K., Tchetgen Tchetgen, E.J. and Dominici, F. Using negative controls to adjust for unmeasured confounding bias in time series studies. Nat Rev Methods Primers 3, 67 (2023). https://doi.org/10.1038/s43586-023-00259-2 <br/>
+
+ Hu, J. K., Zorzetto, D., & Dominici, F. A Bayesian Nonparametric Method to Adjust for Unmeasured Confounding with Negative Controls. （2023). arXiv preprint arXiv:2309.02631. (Under Revision for American Journal of Epidemiology)<br/>
+ 
+
+Spangler, K. R., Adams, Q. H., Hu, J. K., Braun, D., Weinberger, K. R., Dominici, F., & Wellenius, G. A. Does Choice of Outdoor Heat Metric Affect Heat-Related Epidemiologic Analyses in the US Medicare Population?.（2023） Environmental Epidemiology 7(4).<br/>
+
+Mauricio Tec, Ana Trisovic, Michelle Audirac, Sophie Mirabai Woodward, Jie Kate Hu, Naeem Khoshnevis, Francesca Dominici. “SpaCE: The Spatial Confounding Environment” arXiv preprint: arXiv 2312.00710 (ICLR 2024)<br/>
+<img width="484" height="81" alt="image" src="https://github.com/user-attachments/assets/c88e2d98-7a60-4534-9130-8c14b0571b05" /><br/>
+
 
 **Jie Hu**, Norman E. Breslow, Chan Gary, Couper David<br/>
 “Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
@@ -57,12 +69,6 @@ Victoria Ding and **Jie Hu** Shinyapp *Additive Hazards* [[link]](https://addhaz
 
   <font size="4"> Applications </font>  
 
-  Planetary and Human Health:
-  
- Keith R. Spangler, Quinn H. Adams, **Jie Kate Hu**, Danielle Braun, Kate R. Weinberger, Francesca Dominici, and Gregory A. Wellenius <br/>
-“Does Choice of Outdoor Heat Metric Affect Heat-Related Epidemiologic Analyses in the US Medicare Population?”<br/> 
-To appear in *Environmental Epidemiology* <br/>
-  
   
   Zixu Zhao, Melissa Lunden, **Jie Kate Hu**, Brian Lafranchi, Yutong Liang, Caleb Arata, Erin Katz, Allen H. Goldstein, Haofei Zhang <br/>
 “Air Pollution Mapping and Machine Learning Reveal Key Factors for Distinct Community-level Exposures in San Francisco, California” <br/>
@@ -74,12 +80,7 @@ Maxwell J.D. VanLandschoot, Julian Schmitte, (mentored by Kelly McConville & **J
 
  Cardiovascular Disease/Biomarkers hs-CRP and Lp-PLA2:
     
-I am looking for collaboration opportunities with  cardiovascular disease biomarker experts. Please email [contact@katehu.com](contact@katehu.com) if you have recommendations. 
-
-**Jie Hu**, Norman E. Breslow, Chan Gary, Couper David <br/>
-“Estimating Disease Hazard Differences from Case-Cohort Studies” [[link]](https://link.springer.com/article/10.1007/s10654-021-00739-3)<br/>
-*European Journal of Epidemiology*, Jun, 1-14 (2021). <br/>
-*<small> we observed a synergistic effect of the hs-CRP and Lp-PLA2 biomarkers on coronary heart disease hazard rate among participants with lower LDL cholesterol. <small>
+Looking for collaboration with  cardiovascular disease biomarker experts. 
 
 Inflammatory Bowel disease: 
   <!--Collaborator: Afzali Anita [[link]](https://med.uc.edu/landing-pages/faculty-profile/index/pubs/afzaliaa))-->
